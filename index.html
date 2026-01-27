@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Visor Deportivo Pro</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    
+    <style>
+        body { font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; background: #f0f2f5; color: #333; }
+        .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+        
+        /* HEADER */
+        header { text-align: center; margin-bottom: 30px; }
+        h1 { margin: 0; color: #1a1a1a; font-size: 1.8rem; }
+        #lastUpdate { color: #666; font-size: 0.9rem; margin-top: 5px; }
+
+        /* INPUT MANUAL */
+        details { background: #fff; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); overflow: hidden; }
+        summary { padding: 15px; cursor: pointer; font-weight: 600; list-style: none; background: #fff; }
+        summary::-webkit-details-marker { display: none; }
+        .manual-content { padding: 15px; border-top: 1px solid #eee; }
+        textarea { width: 100%; height: 80px; border: 1px solid #ddd; border-radius: 6px; padding: 10px; box-sizing: border-box; }
+        
+        /* FILTROS */
+        .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 25px; justify-content: center; }
+        .sport-tab {
+            padding: 8px 16px; cursor: pointer; background: #fff; 
+            border: 1px solid #e0e0e0; border-radius: 20px; font-size: 0.85rem; font-weight: 600; text-transform: uppercase;
+            transition: all 0.2s; color: #555; user-select: none;
+        }
+        .sport-tab:hover { background: #f8f9fa; border-color: #ccc; }
+        .sport-tab.active { background: #007bff; color: white; border-color: #007bff; box-shadow: 0 4px 10px rgba(0,123,255,0.2); }
+
+        /* SEPARADORES DE FECHA (NUEVO) */
+        .date-separator {
+            width: 100%;
+            background: #e9ecef;
+            color: #495057;
+            padding: 8px 15px;
+            margin: 20px 0 10px 0;
+            border-radius: 6px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-left: 5px solid #007bff;
+        }
+
+        /* LISTA EVENTOS */
+        .event-group { display: flex; flex-direction: column; gap: 12px; }
+        .event-item {
+            background: #fff; border-radius: 10px; overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.02); transition: transform 0.2s, box-shadow 0.2s;
+            border-left: 5px solid #ccc;
+        }
+        .event-item:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0,0,0,0.08); }
+        .event-item.live { border-left-color: #e74c3c; } 
+        .event-item.future { border-left-color: #2ecc71; }
+
+        .event-header { padding: 15px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; }
+        .event-info { display: flex; flex-direction: column; gap: 4px; }
+        .event-title { font-weight: 700; font-size: 1.05rem; }
+        .event-meta { font-size: 0.85rem; color: #777; display: flex; align-items: center; gap: 10px; }
+        
+        .badges { display: flex; gap: 5px; }
+        .badge { padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; font-weight: 700; }
+        .badge-live { background: #ffebee; color: #c62828; }
+        .badge-time { background: #e3f2fd; color: #1565c0; }
+
+        /* BOTONES DE STREAM */
+        .stream-area { 
+            display: none; background: #f8f9fa; padding: 15px; border-top: 1px solid #eee;
+        }
+        .stream-buttons { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 10px; }
+        .stream-btn {
+            background: #28a745; color: white; border: none; padding: 8px 16px;
+            border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 500;
+            display: flex; align-items: center; gap: 6px;
+            transition: background 0.2s;
+        }
+        .stream-btn:hover { background: #218838; }
+        .stream-btn span { font-size: 0.8em; opacity: 0.8; font-weight: normal; }
+
+        /* VIDEO */
+        .video-wrapper {
+            position: relative; padding-bottom: 56.25%; height: 0; background: #000; 
+            border-radius: 8px; overflow: hidden; display: none; margin-top: 10px;
+        }
+        .video-wrapper.active { display: block; }
+        .video-wrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+        
+        /* ESTADO EXPANDIDO */
+        .event-item.selected .stream-area { display: block; }
+        .event-item.selected { background: #fff; }
+
+        @media (max-width: 600px) {
+            .event-header { flex-direction: column; align-items: flex-start; gap: 8px; }
+            .event-meta { width: 100%; justify-content: space-between; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>⚽ Visor Deportivo</h1>
+        <div id="lastUpdate">Conectando...</div>
+    </header>
+
+    <details>
+        <summary>🛠️ Probador Manual</summary>
+        <div class="manual-content">
+            <textarea id="iframeInput" placeholder='Pega aquí tu código <iframe src="..."></iframe>'></textarea>
+            <button class="stream-btn" style="margin-top:10px; background:#444;" onclick="testManual()">Probar</button>
+            <div id="manualPreview" class="video-wrapper" style="margin-top:10px;"></div>
+        </div>
+    </details>
+
+    <div class="filters" id="sportTabs"></div>
+    <div id="eventsList" class="event-group"></div>
+</div>
+
+<script>
+    let eventsData = {};
+    let currentSport = null;
+
+    async function init() {
+        try {
+            const response = await fetch('data/events.json?t=' + Date.now());
+            if (!response.ok) throw new Error("JSON no encontrado");
+            const jsonData = await response.json();
+            
+            const rawList = Array.isArray(jsonData) ? jsonData : jsonData.events;
+            
+            processData(rawList, jsonData.updated_at);
+        } catch (error) {
+            document.getElementById('lastUpdate').innerHTML = '❌ Error: Asegúrate de que el archivo data/events.json existe.';
+            console.error(error);
+        }
+    }
+
+    function processData(list, updatedTime) {
+        eventsData = {};
+        
+        // --- FILTRO DE FECHAS ---
+        const now = new Date();
+        const startOfToday = new Date(now); startOfToday.setHours(0, 0, 0, 0);
+        
+        // Definimos el límite: Fin de mañana
+        const endOfTomorrow = new Date(startOfToday); 
+        endOfTomorrow.setDate(endOfTomorrow.getDate() + 2); 
+
+        list.forEach(item => {
+            let dateObj = null;
+            let dateStr = "";
+            let showTime = false;
+            let includeEvent = false;
+
+            if (item.date) {
+                dateObj = new Date(item.date);
+                
+                // CASO 1: Canales 24/7 (Año < 2000)
+                if (dateObj.getFullYear() < 2000) {
+                    dateStr = "24/7";
+                    includeEvent = true; 
+                } 
+                // CASO 2: Eventos normales
+                else {
+                    showTime = true;
+                    dateStr = dateObj.toLocaleString('es-ES', { 
+                        day: 'numeric', month: 'short', hour: '2-digit', minute:'2-digit' 
+                    });
+
+                    // Filtro: Vivo reciente OR Hoy/Mañana
+                    const isRecentLive = (dateObj < now && (now - dateObj) < 4 * 60 * 60 * 1000);
+                    const isUpcoming = (dateObj >= startOfToday && dateObj < endOfTomorrow);
+                    
+                    if (isRecentLive || isUpcoming) {
+                        includeEvent = true;
+                    }
+                }
+            } else {
+                dateStr = "En Vivo";
+                includeEvent = true;
+            }
+
+            if (includeEvent) {
+                const sport = (item.sport || 'OTROS').toUpperCase();
+                if (!eventsData[sport]) eventsData[sport] = [];
+                
+                let sources = item.sources || [];
+                if (!item.sources && item.iframe) {
+                    sources = [{ name: "Opción 1", iframe: item.iframe }];
+                }
+
+                eventsData[sport].push({
+                    title: item.title,
+                    date: dateObj,
+                    dateStr: dateStr,
+                    showTime: showTime,
+                    sources: sources
+                });
+            }
+        });
+
+        // Ordenar y Limpiar
+        for (const sport in eventsData) {
+            eventsData[sport].sort((a, b) => {
+                if (!a.date) return 1;
+                if (!b.date) return -1;
+                return a.date - b.date;
+            });
+            if (eventsData[sport].length === 0) delete eventsData[sport];
+        }
+
+        if(updatedTime) {
+             document.getElementById('lastUpdate').textContent = `Actualizado: ${updatedTime}`;
+        }
+        renderTabs();
+    }
+
+    function renderTabs() {
+        const container = document.getElementById('sportTabs');
+        container.innerHTML = '';
+        const sports = Object.keys(eventsData).sort();
+        
+        if(sports.length === 0) {
+            container.innerHTML = '<p style="text-align:center; width:100%; color:#666;">No hay eventos programados para hoy ni mañana.</p>';
+            return;
+        }
+
+        sports.forEach(sport => {
+            const btn = document.createElement('div');
+            btn.className = 'sport-tab';
+            btn.textContent = `${sport} (${eventsData[sport].length})`;
+            btn.onclick = () => loadSport(sport);
+            container.appendChild(btn);
+        });
+
+        if (sports.length > 0) loadSport(sports[0]);
+    }
+
+    function loadSport(sport) {
+        currentSport = sport;
+        document.querySelectorAll('.sport-tab').forEach(t => {
+            t.classList.toggle('active', t.textContent.includes(sport));
+        });
+
+        const list = document.getElementById('eventsList');
+        list.innerHTML = '';
+        
+        let lastSectionDate = ""; // Para controlar los separadores
+
+        eventsData[sport].forEach(event => {
+            // --- LÓGICA DE SEPARADORES ---
+            let currentSection = "";
+            const now = new Date();
+            const today = new Date(); today.setHours(0,0,0,0);
+            const tomorrow = new Date(today); tomorrow.setDate(tomorrow.getDate() + 1);
+
+            if (!event.showTime || (event.date && event.date.getFullYear() < 2000)) {
+                currentSection = "🔴 CANALES 24/7 / EN VIVO";
+            } else if (event.date) {
+                const eventDate = new Date(event.date); eventDate.setHours(0,0,0,0);
+                
+                if (eventDate.getTime() === today.getTime()) {
+                    currentSection = "📅 HOY";
+                } else if (eventDate.getTime() === tomorrow.getTime()) {
+                    currentSection = "📆 MAÑANA";
+                } else if (eventDate < today) {
+                    currentSection = "⏪ YA INICIADOS / FINALIZADOS";
+                } else {
+                    currentSection = "🔮 PRÓXIMAMENTE";
+                }
+            } else {
+                currentSection = "🔴 EN VIVO";
+            }
+
+            // Si cambiamos de sección (ej: de HOY a MAÑANA), pintamos el separador
+            if (currentSection !== lastSectionDate) {
+                const separator = document.createElement('div');
+                separator.className = 'date-separator';
+                separator.textContent = currentSection;
+                list.appendChild(separator);
+                lastSectionDate = currentSection;
+            }
+            // -----------------------------
+
+            const el = document.createElement('div');
+            
+            const isLive = !event.showTime || (event.date && event.date < now);
+            el.className = `event-item ${isLive ? 'live' : 'future'}`;
+            
+            let buttonsHtml = '';
+            event.sources.forEach((src, index) => {
+                const rawName = src.name || `Opción ${index + 1}`;
+                const displayName = rawName.charAt(0).toUpperCase() + rawName.slice(1);
+                buttonsHtml += `
+                    <button class="stream-btn" onclick="playVideo(this, '${escapeHtml(src.iframe)}')">
+                        ▶ ${displayName}
+                    </button>`;
+            });
+
+            el.innerHTML = `
+                <div class="event-header" onclick="toggleEvent(this)">
+                    <div class="event-info">
+                        <div class="event-title">${event.title}</div>
+                        <div class="badges">
+                            ${isLive ? '<span class="badge badge-live">EN VIVO</span>' : ''}
+                            <span class="badge badge-time">📅 ${event.dateStr}</span>
+                        </div>
+                    </div>
+                    <div style="font-size:0.8rem; color:#888;">${event.sources.length} Opciones ▼</div>
+                </div>
+                
+                <div class="stream-area">
+                    <div class="stream-buttons">
+                        ${buttonsHtml}
+                    </div>
+                    <div class="video-wrapper"></div>
+                </div>
+            `;
+            list.appendChild(el);
+        });
+    }
+
+    function toggleEvent(header) {
+        const item = header.parentElement;
+        const wasSelected = item.classList.contains('selected');
+        document.querySelectorAll('.event-item.selected').forEach(i => {
+            i.classList.remove('selected');
+            i.querySelector('.video-wrapper').innerHTML = '';
+            i.querySelector('.video-wrapper').classList.remove('active');
+        });
+        if (!wasSelected) item.classList.add('selected');
+    }
+
+    function playVideo(btn, iframeCode) {
+        event.stopPropagation();
+        const wrapper = btn.closest('.stream-area').querySelector('.video-wrapper');
+        let safeIframe = iframeCode;
+        if(!safeIframe.includes('referrerpolicy')) {
+             safeIframe = safeIframe.replace('<iframe', '<iframe referrerpolicy="no-referrer"');
+        }
+        wrapper.innerHTML = safeIframe;
+        wrapper.classList.add('active');
+        setTimeout(() => wrapper.scrollIntoView({behavior: "smooth", block: "center"}), 100);
+    }
+
+    function escapeHtml(text) {
+        if(!text) return "";
+        return text.replace(/'/g, "&#39;").replace(/"/g, "&quot;");
+    }
+
+    function testManual() {
+        const code = document.getElementById('iframeInput').value;
+        const wrapper = document.getElementById('manualPreview');
+        wrapper.innerHTML = code;
+        wrapper.classList.add('active');
+    }
+
+    init();
+</script>
+
+</body>
+</html>
