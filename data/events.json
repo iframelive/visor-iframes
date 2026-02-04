@@ -1,5 +1,5 @@
 {
-  "updated_at": "04/02/2026 18:30",
+  "updated_at": "04/02/2026 18:45",
   "events": [
     {
       "title": "Besiktas Basketbol vs Türk Telekom BK",
@@ -416,6 +416,17 @@
       ]
     },
     {
+      "title": "Galatasaray vs İstanbulspor",
+      "date": 1770226200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Galatasaray vs İstanbulspor\" src=\"https://embedsports.top/embed/echo/galatasaray-vs-istanbulspor-football-1489335/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Köln U19 vs Internazionale U19",
       "date": 1770224400000,
       "sport": "football",
@@ -478,17 +489,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Atalanta vs Juventus\" src=\"https://embedsports.top/embed/delta/live_coppa-italia_atalanta-juventus-live-streaming-483250320/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Galatasaray vs İstanbulspor",
-      "date": 1770226200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Galatasaray vs İstanbulspor\" src=\"https://embedsports.top/embed/echo/galatasaray-vs-istanbulspor-football-1489335/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1240,28 +1240,6 @@
       ]
     },
     {
-      "title": "VfL Wolfsburg vs. Borussia Dortmund",
-      "date": 1770474600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"VfL Wolfsburg vs. Borussia Dortmund\" src=\"https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-borussia-dortmund/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "1. FC Heidenheim 1846 vs. Hamburg SV",
-      "date": 1770474600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"1. FC Heidenheim 1846 vs. Hamburg SV\" src=\"https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-hamburg-sv/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "SC Freiburg vs. Werder Bremen",
       "date": 1770474600000,
       "sport": "football",
@@ -1284,6 +1262,17 @@
       ]
     },
     {
+      "title": "VfL Wolfsburg vs. Borussia Dortmund",
+      "date": 1770474600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"VfL Wolfsburg vs. Borussia Dortmund\" src=\"https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-borussia-dortmund/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "St. Pauli vs. VfB Stuttgart",
       "date": 1770474600000,
       "sport": "football",
@@ -1291,6 +1280,28 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"St. Pauli vs. VfB Stuttgart\" src=\"https://embedsports.top/embed/admin/ppv-st-pauli-vs-vf-b-stuttgart/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "1. FC Heidenheim 1846 vs. Hamburg SV",
+      "date": 1770474600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"1. FC Heidenheim 1846 vs. Hamburg SV\" src=\"https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-hamburg-sv/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Burnley vs. West Ham United",
+      "date": 1770476400000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Burnley vs. West Ham United\" src=\"https://embedsports.top/embed/admin/ppv-burnley-vs-west-ham-united/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1317,13 +1328,13 @@
       ]
     },
     {
-      "title": "Burnley vs. West Ham United",
+      "title": "AFC Bournemouth vs. Aston Villa",
       "date": 1770476400000,
       "sport": "football",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Burnley vs. West Ham United\" src=\"https://embedsports.top/embed/admin/ppv-burnley-vs-west-ham-united/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"AFC Bournemouth vs. Aston Villa\" src=\"https://embedsports.top/embed/admin/ppv-afc-bournemouth-vs-aston-villa/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1335,17 +1346,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Arsenal vs. Sunderland\" src=\"https://embedsports.top/embed/admin/ppv-arsenal-vs-sunderland/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "AFC Bournemouth vs. Aston Villa",
-      "date": 1770476400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"AFC Bournemouth vs. Aston Villa\" src=\"https://embedsports.top/embed/admin/ppv-afc-bournemouth-vs-aston-villa/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1383,6 +1383,17 @@
       ]
     },
     {
+      "title": "Newcastle United vs. Brentford",
+      "date": 1770485400000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Newcastle United vs. Brentford\" src=\"https://embedsports.top/embed/admin/ppv-newcastle-united-vs-brentford/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Borussia Mönchengladbach vs. Bayer Leverkusen",
       "date": 1770485400000,
       "sport": "football",
@@ -1401,17 +1412,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Sevilla vs. Girona\" src=\"https://embedsports.top/embed/admin/ppv-sevilla-vs-girona/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Newcastle United vs. Brentford",
-      "date": 1770485400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Newcastle United vs. Brentford\" src=\"https://embedsports.top/embed/admin/ppv-newcastle-united-vs-brentford/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1482,6 +1482,17 @@
       ]
     },
     {
+      "title": "Brighton & Hove Albion vs. Crystal Palace",
+      "date": 1770559200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Crystal Palace\" src=\"https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Nice vs. AS Monaco",
       "date": 1770559200000,
       "sport": "football",
@@ -1500,17 +1511,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Lecce vs. Udinese\" src=\"https://embedsports.top/embed/admin/ppv-lecce-vs-udinese/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Brighton & Hove Albion vs. Crystal Palace",
-      "date": 1770559200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Crystal Palace\" src=\"https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1537,17 +1537,6 @@
       ]
     },
     {
-      "title": "AJ Auxerre vs. Paris FC",
-      "date": 1770567300000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Le Havre AC vs. Strasbourg",
       "date": 1770567300000,
       "sport": "football",
@@ -1555,6 +1544,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Le Havre AC vs. Strasbourg\" src=\"https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-strasbourg/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "AJ Auxerre vs. Paris FC",
+      "date": 1770567300000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1614,17 +1614,6 @@
       ]
     },
     {
-      "title": "Paris Saint-Germain vs. Marseille",
-      "date": 1770579900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Paris Saint-Germain vs. Marseille\" src=\"https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-marseille/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Juventus vs. Lazio",
       "date": 1770579900000,
       "sport": "football",
@@ -1632,6 +1621,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Juventus vs. Lazio\" src=\"https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Paris Saint-Germain vs. Marseille",
+      "date": 1770579900000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Paris Saint-Germain vs. Marseille\" src=\"https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-marseille/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2068,6 +2068,17 @@
       ]
     },
     {
+      "title": "LFC 63: Legacy Fighting Championship 63",
+      "date": 1480651200000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"LFC 63: Legacy Fighting Championship 63\" src=\"https://embedsports.top/embed/delta/live-event_lfc-63-legacy-fighting-championship-63-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "AEW: Wednesday Night Dynamite",
       "date": 1770253200000,
       "sport": "fight",
@@ -2212,17 +2223,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (English)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (Czech)",
       "date": 1771088400000,
       "sport": "fight",
@@ -2230,6 +2230,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (English)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
