@@ -1,5 +1,5 @@
 {
-  "updated_at": "06/02/2026 15:50",
+  "updated_at": "06/02/2026 16:00",
   "events": [
     {
       "title": "NFL Streams Schedule",
@@ -1871,13 +1871,13 @@
       ]
     },
     {
-      "title": "Brighton & Hove Albion vs. Crystal Palace",
+      "title": "Lecce vs. Udinese",
       "date": 1770559200000,
       "sport": "football",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Crystal Palace\" src=\"https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Lecce vs. Udinese\" src=\"https://embedsports.top/embed/admin/ppv-lecce-vs-udinese/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1893,13 +1893,13 @@
       ]
     },
     {
-      "title": "Lecce vs. Udinese",
+      "title": "Brighton & Hove Albion vs. Crystal Palace",
       "date": 1770559200000,
       "sport": "football",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Lecce vs. Udinese\" src=\"https://embedsports.top/embed/admin/ppv-lecce-vs-udinese/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Crystal Palace\" src=\"https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1926,13 +1926,13 @@
       ]
     },
     {
-      "title": "AJ Auxerre vs. Paris FC",
+      "title": "Angers vs. Toulouse",
       "date": 1770567300000,
       "sport": "football",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Angers vs. Toulouse\" src=\"https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1948,13 +1948,13 @@
       ]
     },
     {
-      "title": "Angers vs. Toulouse",
+      "title": "AJ Auxerre vs. Paris FC",
       "date": 1770567300000,
       "sport": "football",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Angers vs. Toulouse\" src=\"https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2349,17 +2349,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (Czech)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (German)",
       "date": 1771088400000,
       "sport": "fight",
@@ -2367,6 +2356,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (Czech)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
