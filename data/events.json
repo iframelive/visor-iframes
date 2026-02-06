@@ -1,5 +1,5 @@
 {
-  "updated_at": "06/02/2026 19:50",
+  "updated_at": "06/02/2026 20:00",
   "events": [
     {
       "title": "Anadolu Efes vs Zalgiris Kaunas",
@@ -2797,21 +2797,6 @@
       ]
     },
     {
-      "title": "Nice vs. AS Monaco",
-      "date": 1770559200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Nice vs. AS Monaco\" src=\"https://embedsports.top/embed/admin/ppv-nice-vs-as-monaco/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Nice vs. AS Monaco\" src=\"https://embedsports.top/embed/echo/nice-vs-monaco-football-1387885/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Lecce vs. Udinese",
       "date": 1770559200000,
       "sport": "football",
@@ -2823,6 +2808,21 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Lecce vs. Udinese\" src=\"https://embedsports.top/embed/echo/lecce-vs-udinese-football-1378099/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Nice vs. AS Monaco",
+      "date": 1770559200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Nice vs. AS Monaco\" src=\"https://embedsports.top/embed/admin/ppv-nice-vs-as-monaco/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Nice vs. AS Monaco\" src=\"https://embedsports.top/embed/echo/nice-vs-monaco-football-1387885/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2923,17 +2923,6 @@
       ]
     },
     {
-      "title": "Lausanne vs FC ST. Gallen",
-      "date": 1770564600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Lausanne vs FC ST. Gallen\" src=\"https://embedsports.top/embed/echo/lausanne-vs-fc-st-gallen-football-1494535/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "FC Basel 1893 vs FC Zurich",
       "date": 1770564600000,
       "sport": "football",
@@ -2941,6 +2930,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"FC Basel 1893 vs FC Zurich\" src=\"https://embedsports.top/embed/echo/fc-basel-1893-vs-fc-zurich-football-1494534/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Lausanne vs FC ST. Gallen",
+      "date": 1770564600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Lausanne vs FC ST. Gallen\" src=\"https://embedsports.top/embed/echo/lausanne-vs-fc-st-gallen-football-1494535/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3011,21 +3011,6 @@
       ]
     },
     {
-      "title": "AJ Auxerre vs. Paris FC",
-      "date": 1770567300000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/echo/auxerre-vs-paris-fc-football-1387879/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Angers vs. Toulouse",
       "date": 1770567300000,
       "sport": "football",
@@ -3056,6 +3041,21 @@
       ]
     },
     {
+      "title": "AJ Auxerre vs. Paris FC",
+      "date": 1770567300000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/echo/auxerre-vs-paris-fc-football-1387879/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "GKS Katowice vs Widzew Łódź",
       "date": 1770568200000,
       "sport": "football",
@@ -3078,17 +3078,6 @@
       ]
     },
     {
-      "title": "Bayern Munich vs. TSG Hoffenheim",
-      "date": 1770568200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Bayern Munich vs. TSG Hoffenheim\" src=\"https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Liverpool vs. Manchester City",
       "date": 1770568200000,
       "sport": "football",
@@ -3100,6 +3089,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Liverpool vs. Manchester City\" src=\"https://embedsports.top/embed/echo/liverpool-vs-manchester-city-football-1379215/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Bayern Munich vs. TSG Hoffenheim",
+      "date": 1770568200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Bayern Munich vs. TSG Hoffenheim\" src=\"https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3126,17 +3126,6 @@
       ]
     },
     {
-      "title": "Juventus vs. Lazio",
-      "date": 1770579900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Juventus vs. Lazio\" src=\"https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Paris Saint-Germain vs. Marseille",
       "date": 1770579900000,
       "sport": "football",
@@ -3144,6 +3133,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Paris Saint-Germain vs. Marseille\" src=\"https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-marseille/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Juventus vs. Lazio",
+      "date": 1770579900000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Juventus vs. Lazio\" src=\"https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
