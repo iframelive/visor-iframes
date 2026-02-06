@@ -1,17 +1,6 @@
 {
-  "updated_at": "06/02/2026 23:20",
+  "updated_at": "06/02/2026 23:30",
   "events": [
-    {
-      "title": "Minas Storm vs Boca Juniors",
-      "date": 1770415800000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Minas Storm vs Boca Juniors\" src=\"https://embedsports.top/embed/alpha/minas-vs-boca-juniors/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
     {
       "title": "Sao Jose vs Unifacisa",
       "date": 1770413400000,
@@ -866,10 +855,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Leeds United vs Nottingham Forest\" src=\"https://embedsports.top/embed/alpha/leeds-united-vs-nottingham-forest/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "golf",
-          "iframe": "<iframe title=\"Leeds United vs Nottingham Forest\" src=\"https://embedsports.top/embed/golf/19642/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -890,10 +875,6 @@
       "sport": "football",
       "sources": [
         {
-          "name": "admin",
-          "iframe": "<iframe title=\"Hellas Verona vs Pisa\" src=\"https://embedsports.top/embed/admin/ppv-hellas-verona-vs-pisa/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
           "name": "alpha",
           "iframe": "<iframe title=\"Hellas Verona vs Pisa\" src=\"https://embedsports.top/embed/alpha/hellas-verona-vs-pisa/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -904,10 +885,6 @@
       "date": 1770407100000,
       "sport": "football",
       "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Metz vs Lille\" src=\"https://embedsports.top/embed/admin/ppv-metz-vs-lille/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Metz vs Lille\" src=\"https://embedsports.top/embed/alpha/metz-vs-lille/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -1282,57 +1259,13 @@
       ]
     },
     {
-      "title": "J2 League: Nara Club vs Tokushima Vortis",
+      "title": "J2 League: Kitakyushu vs Gainare Tottori",
       "date": 1770440400000,
       "sport": "football",
       "sources": [
         {
           "name": "charlie",
-          "iframe": "<iframe title=\"J2 League: Nara Club vs Tokushima Vortis\" src=\"https://embedsports.top/embed/charlie/nara-club-vs-tokushima-vortis-1516516/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "J2 League: Shonan Bellmare vs Blaublitz Akita",
-      "date": 1770440400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "charlie",
-          "iframe": "<iframe title=\"J2 League: Shonan Bellmare vs Blaublitz Akita\" src=\"https://embedsports.top/embed/charlie/shonan-bellmare-vs-blaublitz-akita-1516511/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "J2 League: Tochigi City vs Vegalta Sendai",
-      "date": 1770440400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "charlie",
-          "iframe": "<iframe title=\"J2 League: Tochigi City vs Vegalta Sendai\" src=\"https://embedsports.top/embed/charlie/tochigi-city-vs-vegalta-sendai-1516512/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "J2 League: Yokohama FC vs Montedio Yamagata",
-      "date": 1770440400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "charlie",
-          "iframe": "<iframe title=\"J2 League: Yokohama FC vs Montedio Yamagata\" src=\"https://embedsports.top/embed/charlie/yokohama-fc-vs-montedio-yamagata-1516510/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "J2 League: Ventforet Kofu vs Fukushima United",
-      "date": 1770440400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "charlie",
-          "iframe": "<iframe title=\"J2 League: Ventforet Kofu vs Fukushima United\" src=\"https://embedsports.top/embed/charlie/ventforet-kofu-vs-fukushima-united-1516515/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"J2 League: Kitakyushu vs Gainare Tottori\" src=\"https://embedsports.top/embed/charlie/kitakyushu-vs-gainare-tottori-1516517/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1348,13 +1281,35 @@
       ]
     },
     {
-      "title": "J2 League: Kitakyushu vs Gainare Tottori",
+      "title": "J2 League: Ventforet Kofu vs Fukushima United",
       "date": 1770440400000,
       "sport": "football",
       "sources": [
         {
           "name": "charlie",
-          "iframe": "<iframe title=\"J2 League: Kitakyushu vs Gainare Tottori\" src=\"https://embedsports.top/embed/charlie/kitakyushu-vs-gainare-tottori-1516517/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"J2 League: Ventforet Kofu vs Fukushima United\" src=\"https://embedsports.top/embed/charlie/ventforet-kofu-vs-fukushima-united-1516515/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "J2 League: Yokohama FC vs Montedio Yamagata",
+      "date": 1770440400000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "charlie",
+          "iframe": "<iframe title=\"J2 League: Yokohama FC vs Montedio Yamagata\" src=\"https://embedsports.top/embed/charlie/yokohama-fc-vs-montedio-yamagata-1516510/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "J2 League: Shonan Bellmare vs Blaublitz Akita",
+      "date": 1770440400000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "charlie",
+          "iframe": "<iframe title=\"J2 League: Shonan Bellmare vs Blaublitz Akita\" src=\"https://embedsports.top/embed/charlie/shonan-bellmare-vs-blaublitz-akita-1516511/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1366,6 +1321,28 @@
         {
           "name": "charlie",
           "iframe": "<iframe title=\"J2 League: Jubilo Iwata vs Parceiro Nagano\" src=\"https://embedsports.top/embed/charlie/jubilo-iwata-vs-parceiro-nagano-1516513/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "J2 League: Tochigi City vs Vegalta Sendai",
+      "date": 1770440400000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "charlie",
+          "iframe": "<iframe title=\"J2 League: Tochigi City vs Vegalta Sendai\" src=\"https://embedsports.top/embed/charlie/tochigi-city-vs-vegalta-sendai-1516512/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "J2 League: Nara Club vs Tokushima Vortis",
+      "date": 1770440400000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "charlie",
+          "iframe": "<iframe title=\"J2 League: Nara Club vs Tokushima Vortis\" src=\"https://embedsports.top/embed/charlie/nara-club-vs-tokushima-vortis-1516516/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1455,17 +1432,6 @@
       ]
     },
     {
-      "title": "Serie A Women: Sassuolo W vs Parma W",
-      "date": 1770463800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "charlie",
-          "iframe": "<iframe title=\"Serie A Women: Sassuolo W vs Parma W\" src=\"https://embedsports.top/embed/charlie/sassuolo-w-vs-parma-w-1479728/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Serie A Women: Genoa W vs Lazio W",
       "date": 1770463800000,
       "sport": "football",
@@ -1473,6 +1439,17 @@
         {
           "name": "charlie",
           "iframe": "<iframe title=\"Serie A Women: Genoa W vs Lazio W\" src=\"https://embedsports.top/embed/charlie/genoa-w-vs-lazio-w-1479725/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Serie A Women: Sassuolo W vs Parma W",
+      "date": 1770463800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "charlie",
+          "iframe": "<iframe title=\"Serie A Women: Sassuolo W vs Parma W\" src=\"https://embedsports.top/embed/charlie/sassuolo-w-vs-parma-w-1479728/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1879,6 +1856,10 @@
       "sport": "football",
       "sources": [
         {
+          "name": "charlie",
+          "iframe": "<iframe title=\"Mantova vs Bari\" src=\"https://embedsports.top/embed/charlie/mantova-vs-bari-1419820/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"Mantova vs Bari\" src=\"https://embedsports.top/embed/echo/mantova-vs-bari-football-1419820/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -1889,10 +1870,6 @@
       "date": 1770472800000,
       "sport": "football",
       "sources": [
-        {
-          "name": "charlie",
-          "iframe": "<iframe title=\"Frosinone vs Venezia\" src=\"https://embedsports.top/embed/charlie/frosinone-vs-venezia-1419815/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
         {
           "name": "echo",
           "iframe": "<iframe title=\"Frosinone vs Venezia\" src=\"https://embedsports.top/embed/echo/frosinone-vs-venezia-football-1419815/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -3107,17 +3084,6 @@
       ]
     },
     {
-      "title": "Belgrano Cordoba vs Banfield",
-      "date": 1770513300000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Belgrano Cordoba vs Banfield\" src=\"https://embedsports.top/embed/echo/belgrano-cordoba-vs-banfield-football-1491865/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Newells Old Boys vs Defensa Y Justicia",
       "date": 1770513300000,
       "sport": "football",
@@ -3125,6 +3091,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Newells Old Boys vs Defensa Y Justicia\" src=\"https://embedsports.top/embed/echo/newells-old-boys-vs-defensa-y-justicia-football-1491872/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Belgrano Cordoba vs Banfield",
+      "date": 1770513300000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Belgrano Cordoba vs Banfield\" src=\"https://embedsports.top/embed/echo/belgrano-cordoba-vs-banfield-football-1491865/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3210,28 +3187,6 @@
       ]
     },
     {
-      "title": "Liverpool W vs Aston Villa W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Liverpool W vs Aston Villa W\" src=\"https://embedsports.top/embed/echo/liverpool-w-vs-aston-villa-w-football-1417283/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "West Ham W vs Brighton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "London City Lionesses vs Everton W",
       "date": 1770552000000,
       "sport": "football",
@@ -3250,6 +3205,28 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Arsenal W vs Manchester City W\" src=\"https://embedsports.top/embed/echo/arsenal-w-vs-manchester-city-w-football-1417282/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "West Ham W vs Brighton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Liverpool W vs Aston Villa W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Liverpool W vs Aston Villa W\" src=\"https://embedsports.top/embed/echo/liverpool-w-vs-aston-villa-w-football-1417283/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3276,17 +3253,6 @@
       ]
     },
     {
-      "title": "Arminia Bielefeld vs Eintracht Braunschweig",
-      "date": 1770553800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Arminia Bielefeld vs Eintracht Braunschweig\" src=\"https://embedsports.top/embed/echo/arminia-bielefeld-vs-eintracht-braunschweig-football-1388794/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Hannover 96 vs Holstein Kiel",
       "date": 1770553800000,
       "sport": "football",
@@ -3305,6 +3271,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Karlsruher SC vs Fortuna Düsseldorf\" src=\"https://embedsports.top/embed/echo/karlsruher-sc-vs-fortuna-dusseldorf-football-1388799/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Arminia Bielefeld vs Eintracht Braunschweig",
+      "date": 1770553800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Arminia Bielefeld vs Eintracht Braunschweig\" src=\"https://embedsports.top/embed/echo/arminia-bielefeld-vs-eintracht-braunschweig-football-1388794/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3342,17 +3319,6 @@
       ]
     },
     {
-      "title": "FC Nordsjaelland vs Sonderjyske",
-      "date": 1770555600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"FC Nordsjaelland vs Sonderjyske\" src=\"https://embedsports.top/embed/echo/fc-nordsjaelland-vs-sonderjyske-football-1449547/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Silkeborg vs Viborg",
       "date": 1770555600000,
       "sport": "football",
@@ -3360,6 +3326,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Silkeborg vs Viborg\" src=\"https://embedsports.top/embed/echo/silkeborg-vs-viborg-football-1449550/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "FC Nordsjaelland vs Sonderjyske",
+      "date": 1770555600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"FC Nordsjaelland vs Sonderjyske\" src=\"https://embedsports.top/embed/echo/fc-nordsjaelland-vs-sonderjyske-football-1449547/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3397,17 +3374,6 @@
       ]
     },
     {
-      "title": "AZ Alkmaar vs Ajax",
-      "date": 1770557400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"AZ Alkmaar vs Ajax\" src=\"https://embedsports.top/embed/echo/az-alkmaar-vs-ajax-football-1381056/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "GO Ahead Eagles vs Telstar",
       "date": 1770557400000,
       "sport": "football",
@@ -3415,6 +3381,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"GO Ahead Eagles vs Telstar\" src=\"https://embedsports.top/embed/echo/go-ahead-eagles-vs-telstar-football-1381057/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "AZ Alkmaar vs Ajax",
+      "date": 1770557400000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"AZ Alkmaar vs Ajax\" src=\"https://embedsports.top/embed/echo/az-alkmaar-vs-ajax-football-1381056/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3507,21 +3484,6 @@
       ]
     },
     {
-      "title": "Brighton & Hove Albion vs. Crystal Palace",
-      "date": 1770559200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Crystal Palace\" src=\"https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Crystal Palace\" src=\"https://embedsports.top/embed/echo/brighton-vs-crystal-palace-football-1379211/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Lecce vs. Udinese",
       "date": 1770559200000,
       "sport": "football",
@@ -3548,6 +3510,21 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Nice vs. AS Monaco\" src=\"https://embedsports.top/embed/echo/nice-vs-monaco-football-1387885/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Brighton & Hove Albion vs. Crystal Palace",
+      "date": 1770559200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Crystal Palace\" src=\"https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Crystal Palace\" src=\"https://embedsports.top/embed/echo/brighton-vs-crystal-palace-football-1379211/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3611,17 +3588,6 @@
       ]
     },
     {
-      "title": "AD Ceuta FC vs Cordoba",
-      "date": 1770563700000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"AD Ceuta FC vs Cordoba\" src=\"https://embedsports.top/embed/echo/ad-ceuta-fc-vs-cordoba-football-1392030/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Deportivo La Coruna vs Albacete",
       "date": 1770563700000,
       "sport": "football",
@@ -3629,6 +3595,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Deportivo La Coruna vs Albacete\" src=\"https://embedsports.top/embed/echo/deportivo-la-coruna-vs-albacete-football-1392036/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "AD Ceuta FC vs Cordoba",
+      "date": 1770563700000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"AD Ceuta FC vs Cordoba\" src=\"https://embedsports.top/embed/echo/ad-ceuta-fc-vs-cordoba-football-1392030/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3714,17 +3691,6 @@
       ]
     },
     {
-      "title": "Stade Malien Bamako vs ES Tunis",
-      "date": 1770566400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Stade Malien Bamako vs ES Tunis\" src=\"https://embedsports.top/embed/echo/stade-malien-bamako-vs-es-tunis-football-1485453/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Rivers United vs Pyramids FC",
       "date": 1770566400000,
       "sport": "football",
@@ -3736,17 +3702,13 @@
       ]
     },
     {
-      "title": "Le Havre AC vs. Strasbourg",
-      "date": 1770567300000,
+      "title": "Stade Malien Bamako vs ES Tunis",
+      "date": 1770566400000,
       "sport": "football",
       "sources": [
         {
-          "name": "admin",
-          "iframe": "<iframe title=\"Le Havre AC vs. Strasbourg\" src=\"https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-strasbourg/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
           "name": "echo",
-          "iframe": "<iframe title=\"Le Havre AC vs. Strasbourg\" src=\"https://embedsports.top/embed/echo/le-havre-vs-strasbourg-football-1387881/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Stade Malien Bamako vs ES Tunis\" src=\"https://embedsports.top/embed/echo/stade-malien-bamako-vs-es-tunis-football-1485453/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3777,6 +3739,21 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Angers vs. Toulouse\" src=\"https://embedsports.top/embed/echo/angers-vs-toulouse-football-1387878/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Le Havre AC vs. Strasbourg",
+      "date": 1770567300000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Le Havre AC vs. Strasbourg\" src=\"https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-strasbourg/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Le Havre AC vs. Strasbourg\" src=\"https://embedsports.top/embed/echo/le-havre-vs-strasbourg-football-1387881/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3851,17 +3828,6 @@
       ]
     },
     {
-      "title": "Paris Saint-Germain vs. Marseille",
-      "date": 1770579900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Paris Saint-Germain vs. Marseille\" src=\"https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-marseille/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Juventus vs. Lazio",
       "date": 1770579900000,
       "sport": "football",
@@ -3869,6 +3835,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Juventus vs. Lazio\" src=\"https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Paris Saint-Germain vs. Marseille",
+      "date": 1770579900000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Paris Saint-Germain vs. Marseille\" src=\"https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-marseille/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4389,6 +4366,17 @@
       ]
     },
     {
+      "title": "ACA 200 Gasanov vs Tumenov",
+      "date": 1770390000000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"ACA 200 Gasanov vs Tumenov\" src=\"https://embedsports.top/embed/echo/ppv-event-02-aca-200-gasanov-v-tumenov-ppv-02/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "LFC 63: Legacy Fighting Championship 63",
       "date": 1480651200000,
       "sport": "fight",
@@ -4750,17 +4738,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (German)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (Czech)",
       "date": 1771088400000,
       "sport": "fight",
@@ -4768,6 +4745,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (German)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -5238,6 +5226,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"World Series of Asphalt\" src=\"https://embedsports.top/embed/echo/ppv-event-12-world-series-of-asphalt-ppv-12/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": " House of Glory City of Angels",
+      "date": 1770436800000,
+      "sport": "other",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\" House of Glory City of Angels\" src=\"https://embedsports.top/embed/echo/ppv-event-09-house-of-glory-city-of-angels-ppv-09/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
