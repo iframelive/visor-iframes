@@ -1,5 +1,5 @@
 {
-  "updated_at": "06/02/2026 22:10",
+  "updated_at": "06/02/2026 22:20",
   "events": [
     {
       "title": "Winter Olympics Opening Ceremony",
@@ -84,10 +84,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Olympiacos BC vs Virtus Pallacanestro Bologna\" src=\"https://embedsports.top/embed/alpha/olympiacos-vs-virtus-bologna/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Olympiacos BC vs Virtus Pallacanestro Bologna\" src=\"https://embedsports.top/embed/echo/olympiacos-vs-virtus-bologna-basketball-454546/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -110,10 +106,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"KK Crvena zvezda vs Maccabi Tel Aviv BC\" src=\"https://embedsports.top/embed/alpha/crvena-zvezda-vs-maccabi-tel-aviv/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"KK Crvena zvezda vs Maccabi Tel Aviv BC\" src=\"https://embedsports.top/embed/echo/crvena-zvezda-vs-maccabi-tel-aviv-basketball-454544/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -217,6 +209,17 @@
       ]
     },
     {
+      "title": "Toughman Contest",
+      "date": 1770418800000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "alpha",
+          "iframe": "<iframe title=\"Toughman Contest\" src=\"https://embedsports.top/embed/alpha/toughman-contest/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Dayton vs VCU",
       "date": 1770418800000,
       "sport": "basketball",
@@ -270,30 +273,12 @@
       "sport": "basketball",
       "sources": [
         {
+          "name": "alpha",
+          "iframe": "<iframe title=\"Yale vs Brown\" src=\"https://embedsports.top/embed/alpha/brown-vs-yale/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "delta",
           "iframe": "<iframe title=\"Yale vs Brown\" src=\"https://embedsports.top/embed/delta/live_ncaa_yale-brown-live-streaming-463261248/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Osceola Magic vs Noblesville Boom",
-      "date": 1770422400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Osceola Magic vs Noblesville Boom\" src=\"https://embedsports.top/embed/alpha/osceola-magic-vs-noblesville-boom/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Cleveland Charge vs Greensboro Swarm",
-      "date": 1770422400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Cleveland Charge vs Greensboro Swarm\" src=\"https://embedsports.top/embed/alpha/cleveland-charge-vs-greensboro-swarm/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1191,10 +1176,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Stade de Reims vs Bastia\" src=\"https://embedsports.top/embed/alpha/stade-de-reims-vs-bastia/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "charlie",
-          "iframe": "<iframe title=\"Stade de Reims vs Bastia\" src=\"https://embedsports.top/embed/charlie/reims-vs-bastia-1389310/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3469,6 +3450,28 @@
       ]
     },
     {
+      "title": "London City Lionesses vs Everton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Arsenal W vs Manchester City W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Arsenal W vs Manchester City W\" src=\"https://embedsports.top/embed/echo/arsenal-w-vs-manchester-city-w-football-1417282/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Liverpool W vs Aston Villa W",
       "date": 1770552000000,
       "sport": "football",
@@ -3487,28 +3490,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Arsenal W vs Manchester City W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Arsenal W vs Manchester City W\" src=\"https://embedsports.top/embed/echo/arsenal-w-vs-manchester-city-w-football-1417282/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "London City Lionesses vs Everton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3535,17 +3516,6 @@
       ]
     },
     {
-      "title": "Karlsruher SC vs Fortuna Düsseldorf",
-      "date": 1770553800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Karlsruher SC vs Fortuna Düsseldorf\" src=\"https://embedsports.top/embed/echo/karlsruher-sc-vs-fortuna-dusseldorf-football-1388799/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Hannover 96 vs Holstein Kiel",
       "date": 1770553800000,
       "sport": "football",
@@ -3564,6 +3534,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Arminia Bielefeld vs Eintracht Braunschweig\" src=\"https://embedsports.top/embed/echo/arminia-bielefeld-vs-eintracht-braunschweig-football-1388794/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Karlsruher SC vs Fortuna Düsseldorf",
+      "date": 1770553800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Karlsruher SC vs Fortuna Düsseldorf\" src=\"https://embedsports.top/embed/echo/karlsruher-sc-vs-fortuna-dusseldorf-football-1388799/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3722,17 +3703,6 @@
       ]
     },
     {
-      "title": "Konyaspor vs Göztepe",
-      "date": 1770559200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Konyaspor vs Göztepe\" src=\"https://embedsports.top/embed/echo/konyaspor-vs-goztepe-football-1394619/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Rizespor vs Galatasaray",
       "date": 1770559200000,
       "sport": "football",
@@ -3740,6 +3710,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Rizespor vs Galatasaray\" src=\"https://embedsports.top/embed/echo/rizespor-vs-galatasaray-football-1394620/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Konyaspor vs Göztepe",
+      "date": 1770559200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Konyaspor vs Göztepe\" src=\"https://embedsports.top/embed/echo/konyaspor-vs-goztepe-football-1394619/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3870,17 +3851,6 @@
       ]
     },
     {
-      "title": "Deportivo La Coruna vs Albacete",
-      "date": 1770563700000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Deportivo La Coruna vs Albacete\" src=\"https://embedsports.top/embed/echo/deportivo-la-coruna-vs-albacete-football-1392036/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "AD Ceuta FC vs Cordoba",
       "date": 1770563700000,
       "sport": "football",
@@ -3888,6 +3858,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"AD Ceuta FC vs Cordoba\" src=\"https://embedsports.top/embed/echo/ad-ceuta-fc-vs-cordoba-football-1392030/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Deportivo La Coruna vs Albacete",
+      "date": 1770563700000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Deportivo La Coruna vs Albacete\" src=\"https://embedsports.top/embed/echo/deportivo-la-coruna-vs-albacete-football-1392036/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4010,21 +3991,6 @@
       ]
     },
     {
-      "title": "AJ Auxerre vs. Paris FC",
-      "date": 1770567300000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/echo/auxerre-vs-paris-fc-football-1387879/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Le Havre AC vs. Strasbourg",
       "date": 1770567300000,
       "sport": "football",
@@ -4036,6 +4002,21 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Le Havre AC vs. Strasbourg\" src=\"https://embedsports.top/embed/echo/le-havre-vs-strasbourg-football-1387881/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "AJ Auxerre vs. Paris FC",
+      "date": 1770567300000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"AJ Auxerre vs. Paris FC\" src=\"https://embedsports.top/embed/echo/auxerre-vs-paris-fc-football-1387879/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4062,17 +4043,6 @@
       ]
     },
     {
-      "title": "Bayern Munich vs. TSG Hoffenheim",
-      "date": 1770568200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Bayern Munich vs. TSG Hoffenheim\" src=\"https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Liverpool vs. Manchester City",
       "date": 1770568200000,
       "sport": "football",
@@ -4084,6 +4054,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Liverpool vs. Manchester City\" src=\"https://embedsports.top/embed/echo/liverpool-vs-manchester-city-football-1379215/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Bayern Munich vs. TSG Hoffenheim",
+      "date": 1770568200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Bayern Munich vs. TSG Hoffenheim\" src=\"https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4323,17 +4304,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Herlev vs Rodovre Mighty Bulls\" src=\"https://embedsports.top/embed/alpha/herlev-vs-rodovre-mighty-bulls/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Austria vs Hungary",
-      "date": 1770397200000,
-      "sport": "hockey",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Austria vs Hungary\" src=\"https://embedsports.top/embed/alpha/austria-vs-hungary/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4655,17 +4625,6 @@
       ]
     },
     {
-      "title": "ACA 200 Gasanov vs Tumenov",
-      "date": 1770390000000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"ACA 200 Gasanov vs Tumenov\" src=\"https://embedsports.top/embed/echo/ppv-event-02-aca-200-gasanov-v-tumenov-ppv-02/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "LFC 63: Legacy Fighting Championship 63",
       "date": 1480651200000,
       "sport": "fight",
@@ -4710,32 +4669,6 @@
       ]
     },
     {
-      "title": "Dayton vs VCU",
-      "date": 1770418800000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Dayton vs VCU\" src=\"https://embedsports.top/embed/alpha/dayton-vs-vcu/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Dayton vs VCU\" src=\"https://embedsports.top/embed/delta/live_ncaa_vcu-dayton-live-streaming-463260816/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "BKFC KnuckleMania VI: Weigh-In",
-      "date": 1770418800000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"BKFC KnuckleMania VI: Weigh-In\" src=\"https://embedsports.top/embed/alpha/bkfc-knucklemania-vi-weigh-in/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "WWE: Friday Night Smackdown",
       "date": 1770426000000,
       "sport": "fight",
@@ -4743,6 +4676,10 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"WWE: Friday Night Smackdown\" src=\"https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"WWE: Friday Night Smackdown\" src=\"https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
           "name": "echo",
@@ -4991,17 +4928,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (German)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (English)",
       "date": 1771088400000,
       "sport": "fight",
@@ -5009,6 +4935,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (German)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -5245,6 +5182,17 @@
       ]
     },
     {
+      "title": "PGA Tour: WM Phoenix Open: Featured Group 1",
+      "date": 1770411600000,
+      "sport": "golf",
+      "sources": [
+        {
+          "name": "charlie",
+          "iframe": "<iframe title=\"PGA Tour: WM Phoenix Open: Featured Group 1\" src=\"https://embedsports.top/embed/charlie/wm-phoenix-open-featured-group-1-1629481942/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "WM Phoenix Open: Clark Featured Group Second Round",
       "date": 1770406200000,
       "sport": "golf",
@@ -5263,17 +5211,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"WM Phoenix Open Round 2\" src=\"https://embedsports.top/embed/alpha/the-wm-phoenix-open/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "LIV Golf Riyadh Day 3",
-      "date": 1770386400000,
-      "sport": "golf",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"LIV Golf Riyadh Day 3\" src=\"https://embedsports.top/embed/alpha/liv-golf-riyadh-day-3/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -5432,17 +5369,6 @@
       ]
     },
     {
-      "title": "ATP 250 Montpellier 🎾",
-      "date": 1770384600000,
-      "sport": "other",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"ATP 250 Montpellier 🎾\" src=\"https://embedsports.top/embed/echo/atp-250-montpellier-tn-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Horse Racing: America's Day At the Races",
       "date": 1770408000000,
       "sport": "other",
@@ -5450,6 +5376,17 @@
         {
           "name": "charlie",
           "iframe": "<iframe title=\"Horse Racing: America's Day At the Races\" src=\"https://embedsports.top/embed/charlie/americas-day-at-the-races-1629481938/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "ATP 250 Montpellier 🎾",
+      "date": 1770384600000,
+      "sport": "other",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"ATP 250 Montpellier 🎾\" src=\"https://embedsports.top/embed/echo/atp-250-montpellier-tn-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
