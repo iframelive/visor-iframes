@@ -1,21 +1,6 @@
 {
-  "updated_at": "06/02/2026 23:00",
+  "updated_at": "06/02/2026 23:10",
   "events": [
-    {
-      "title": "Winter Olympics Opening Ceremony",
-      "date": 1770404400000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Winter Olympics Opening Ceremony\" src=\"https://embedsports.top/embed/admin/ppv-2026-winter-olympics-opening-ceremony/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Winter Olympics Opening Ceremony\" src=\"https://embedsports.top/embed/echo/winter-olympics-milano-cortina-opening-ceremony-game-1562822/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
     {
       "title": "Sao Jose vs Unifacisa",
       "date": 1770413400000,
@@ -57,28 +42,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Bristol Flyers vs Sheffield Sharks\" src=\"https://embedsports.top/embed/alpha/bristol-flyers-vs-sheffield-sharks/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Baskonia vs FC Barcelona Basquet",
-      "date": 1770406200000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Baskonia vs FC Barcelona Basquet\" src=\"https://embedsports.top/embed/alpha/baskonia-vs-barcelona/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Olympiacos BC vs Virtus Pallacanestro Bologna",
-      "date": 1770405300000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Olympiacos BC vs Virtus Pallacanestro Bologna\" src=\"https://embedsports.top/embed/alpha/olympiacos-vs-virtus-bologna/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -296,28 +259,13 @@
       ]
     },
     {
-      "title": "Belmont vs UIC",
+      "title": "UIC Flames vs Belmont Bruins",
       "date": 1770426000000,
       "sport": "basketball",
       "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Belmont vs UIC\" src=\"https://embedsports.top/embed/alpha/belmont-vs-uic/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
         {
           "name": "delta",
-          "iframe": "<iframe title=\"Belmont vs UIC\" src=\"https://embedsports.top/embed/delta/live_ncaa_uic-flames-belmont-live-streaming-463269456/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Rhythm vs Gold Rush",
-      "date": 1770426000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Rhythm vs Gold Rush\" src=\"https://embedsports.top/embed/alpha/rhythm-vs-gold-rush/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"UIC Flames vs Belmont Bruins\" src=\"https://embedsports.top/embed/delta/live_ncaa_uic-flames-belmont-live-streaming-463269456/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -495,28 +443,6 @@
       ]
     },
     {
-      "title": "Mazatlan FC vs Guadalajara",
-      "date": 1770429960000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Mazatlan FC vs Guadalajara\" src=\"https://embedsports.top/embed/alpha/mazatlan-fc-vs-guadalajara/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Canberra Capitals W vs Geelong Venom W",
-      "date": 1770433200000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Canberra Capitals W vs Geelong Venom W\" src=\"https://embedsports.top/embed/alpha/canberra-capitals-w-vs-geelong-venom-w/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Portland Trail Blazers vs Memphis Grizzlies",
       "date": 1770433200000,
       "sport": "basketball",
@@ -524,10 +450,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Portland Trail Blazers vs Memphis Grizzlies\" src=\"https://embedsports.top/embed/admin/ppv-memphis-grizzlies-vs-portland-trail-blazers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Portland Trail Blazers vs Memphis Grizzlies\" src=\"https://embedsports.top/embed/alpha/portland-trail-blazers-vs-memphis-grizzlies/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
           "name": "charlie",
@@ -555,10 +477,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Sacramento Kings vs Los Angeles Clippers\" src=\"https://embedsports.top/embed/admin/ppv-la-clippers-vs-sacramento-kings/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Sacramento Kings vs Los Angeles Clippers\" src=\"https://embedsports.top/embed/alpha/sacramento-kings-vs-los-angeles-clippers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
           "name": "charlie",
@@ -814,6 +732,17 @@
       ]
     },
     {
+      "title": "Albion vs Liverpool Montevideo",
+      "date": 1770415200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "alpha",
+          "iframe": "<iframe title=\"Albion vs Liverpool Montevideo\" src=\"https://embedsports.top/embed/alpha/albion-fc-vs-liverpool/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Sportivo San Lorenzo vs Recoleta",
       "date": 1770413400000,
       "sport": "football",
@@ -885,17 +814,6 @@
       ]
     },
     {
-      "title": "Derry City vs Sligo Rovers",
-      "date": 1770408000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Derry City vs Sligo Rovers\" src=\"https://embedsports.top/embed/echo/derry-city-vs-sligo-rovers-football-1492616/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Shamrock Rovers vs Dundalk",
       "date": 1770408000000,
       "sport": "football",
@@ -922,14 +840,6 @@
         {
           "name": "charlie",
           "iframe": "<iframe title=\"Celta Vigo vs Osasuna\" src=\"https://embedsports.top/embed/charlie/celta-vigo-vs-osasuna-1391043/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Celta Vigo vs Osasuna\" src=\"https://embedsports.top/embed/delta/live_laliga_celta-osasuna-live-streaming-441766224/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Celta Vigo vs Osasuna\" src=\"https://embedsports.top/embed/echo/celta-vigo-vs-osasuna-football-1391043/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -951,14 +861,6 @@
           "iframe": "<iframe title=\"Leeds United vs Nottingham Forest\" src=\"https://embedsports.top/embed/charlie/leeds-vs-nottingham-forest-1379214/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
-          "name": "delta",
-          "iframe": "<iframe title=\"Leeds United vs Nottingham Forest\" src=\"https://embedsports.top/embed/delta/live_premier-league_leeds-forest-live-streaming-441659520/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Leeds United vs Nottingham Forest\" src=\"https://embedsports.top/embed/echo/leeds-vs-nottingham-forest-football-1379214/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
           "name": "golf",
           "iframe": "<iframe title=\"Leeds United vs Nottingham Forest\" src=\"https://embedsports.top/embed/golf/19642/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -971,7 +873,7 @@
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Airdrie United vs ST Mirren\" src=\"https://embedsports.top/embed/echo/airdrie-united-vs-st-mirren-football-1509663/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Airdrie United vs ST Mirren\" src=\"https://embedsports.top/embed/echo/airdrie-united-vs-st-mirren-game-252/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1002,10 +904,6 @@
         {
           "name": "charlie",
           "iframe": "<iframe title=\"Hellas Verona vs Pisa\" src=\"https://embedsports.top/embed/charlie/verona-vs-pisa-1378103/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Hellas Verona vs Pisa\" src=\"https://embedsports.top/embed/delta/live_serie-a_verona-pisa-live-streaming-441762336/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1025,17 +923,6 @@
         {
           "name": "charlie",
           "iframe": "<iframe title=\"Metz vs Lille\" src=\"https://embedsports.top/embed/charlie/metz-vs-lille-1387883/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Westerlo vs Sint-Truiden",
-      "date": 1770407100000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Westerlo vs Sint-Truiden\" src=\"https://embedsports.top/embed/alpha/kvc-westerlo-vs-sint-truidense/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1066,10 +953,6 @@
       "date": 1770406200000,
       "sport": "football",
       "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Union Berlin vs Eintracht Frankfurt\" src=\"https://embedsports.top/embed/admin/ppv-1-fc-union-berlin-vs-eintracht-frankfurt/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
         {
           "name": "charlie",
           "iframe": "<iframe title=\"Union Berlin vs Eintracht Frankfurt\" src=\"https://embedsports.top/embed/charlie/union-berlin-vs-eintracht-frankfurt-1388495/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -1128,17 +1011,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Sky Sports News | SSN Breaking Sports News\" src=\"https://embedsports.top/embed/alpha/sky-sports-news-ssn-breaking-sports-news/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Albion vs Liverpool Montevideo",
-      "date": 1770415200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Albion vs Liverpool Montevideo\" src=\"https://embedsports.top/embed/alpha/albion-fc-vs-liverpool/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1310,35 +1182,24 @@
       ]
     },
     {
-      "title": "Adelaide Croatia Raiders vs NE Metrostars",
-      "date": 1770426900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Adelaide Croatia Raiders vs NE Metrostars\" src=\"https://embedsports.top/embed/alpha/adelaide-croatia-raiders-vs-ne-metrostars/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Municipal Liberia vs Puntarenas",
-      "date": 1770429600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Municipal Liberia vs Puntarenas\" src=\"https://embedsports.top/embed/alpha/liberia-vs-puntarenas-fc/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Mineros de Zacatecas vs Atlético Morelia",
+      "title": "Webex Players Series Sydney: R3",
       "date": 1770433200000,
       "sport": "football",
       "sources": [
         {
           "name": "alpha",
-          "iframe": "<iframe title=\"Mineros de Zacatecas vs Atlético Morelia\" src=\"https://embedsports.top/embed/alpha/mineros-de-zacatecas-vs-atletico-morelia/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Webex Players Series Sydney: R3\" src=\"https://embedsports.top/embed/alpha/webex-players-series-sydney-r3/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "House of Glory: City of Angels 2026",
+      "date": 1770433200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "alpha",
+          "iframe": "<iframe title=\"House of Glory: City of Angels 2026\" src=\"https://embedsports.top/embed/alpha/house-of-glory-city-of-angels-2026/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1347,10 +1208,6 @@
       "date": 1770433560000,
       "sport": "football",
       "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Tijuana vs Puebla\" src=\"https://embedsports.top/embed/alpha/tijuana-vs-puebla/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
         {
           "name": "echo",
           "iframe": "<iframe title=\"Tijuana vs Puebla\" src=\"https://embedsports.top/embed/echo/club-tijuana-vs-puebla-football-1492501/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -1388,6 +1245,10 @@
       "date": 1770436800000,
       "sport": "football",
       "sources": [
+        {
+          "name": "alpha",
+          "iframe": "<iframe title=\"JEF United Chiba vs Urawa Red Diamonds\" src=\"https://embedsports.top/embed/alpha/jef-united-ichihara-chiba-vs-urawa-red-diamonds/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
         {
           "name": "charlie",
           "iframe": "<iframe title=\"JEF United Chiba vs Urawa Red Diamonds\" src=\"https://embedsports.top/embed/charlie/jef-united-chiba-vs-urawa-1501297/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -1944,6 +1805,10 @@
       "sport": "football",
       "sources": [
         {
+          "name": "charlie",
+          "iframe": "<iframe title=\"Arka Gdynia vs Legia Warsaw\" src=\"https://embedsports.top/embed/charlie/arka-gdynia-vs-legia-warszawa-1380555/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"Arka Gdynia vs Legia Warsaw\" src=\"https://embedsports.top/embed/echo/arka-gdynia-vs-legia-warszawa-football-1380555/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -1998,6 +1863,10 @@
       "date": 1770472800000,
       "sport": "football",
       "sources": [
+        {
+          "name": "charlie",
+          "iframe": "<iframe title=\"Mantova vs Bari\" src=\"https://embedsports.top/embed/charlie/mantova-vs-bari-1419820/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
         {
           "name": "echo",
           "iframe": "<iframe title=\"Mantova vs Bari\" src=\"https://embedsports.top/embed/echo/mantova-vs-bari-football-1419820/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -3223,17 +3092,6 @@
       ]
     },
     {
-      "title": "Belgrano Cordoba vs Banfield",
-      "date": 1770513300000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Belgrano Cordoba vs Banfield\" src=\"https://embedsports.top/embed/echo/belgrano-cordoba-vs-banfield-football-1491865/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Newells Old Boys vs Defensa Y Justicia",
       "date": 1770513300000,
       "sport": "football",
@@ -3241,6 +3099,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Newells Old Boys vs Defensa Y Justicia\" src=\"https://embedsports.top/embed/echo/newells-old-boys-vs-defensa-y-justicia-football-1491872/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Belgrano Cordoba vs Banfield",
+      "date": 1770513300000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Belgrano Cordoba vs Banfield\" src=\"https://embedsports.top/embed/echo/belgrano-cordoba-vs-banfield-football-1491865/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3326,6 +3195,28 @@
       ]
     },
     {
+      "title": "London City Lionesses vs Everton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "West Ham W vs Brighton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Liverpool W vs Aston Villa W",
       "date": 1770552000000,
       "sport": "football",
@@ -3344,28 +3235,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Arsenal W vs Manchester City W\" src=\"https://embedsports.top/embed/echo/arsenal-w-vs-manchester-city-w-football-1417282/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "West Ham W vs Brighton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "London City Lionesses vs Everton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3392,17 +3261,6 @@
       ]
     },
     {
-      "title": "Karlsruher SC vs Fortuna Düsseldorf",
-      "date": 1770553800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Karlsruher SC vs Fortuna Düsseldorf\" src=\"https://embedsports.top/embed/echo/karlsruher-sc-vs-fortuna-dusseldorf-football-1388799/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Arminia Bielefeld vs Eintracht Braunschweig",
       "date": 1770553800000,
       "sport": "football",
@@ -3410,6 +3268,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Arminia Bielefeld vs Eintracht Braunschweig\" src=\"https://embedsports.top/embed/echo/arminia-bielefeld-vs-eintracht-braunschweig-football-1388794/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Karlsruher SC vs Fortuna Düsseldorf",
+      "date": 1770553800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Karlsruher SC vs Fortuna Düsseldorf\" src=\"https://embedsports.top/embed/echo/karlsruher-sc-vs-fortuna-dusseldorf-football-1388799/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3458,17 +3327,6 @@
       ]
     },
     {
-      "title": "Silkeborg vs Viborg",
-      "date": 1770555600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Silkeborg vs Viborg\" src=\"https://embedsports.top/embed/echo/silkeborg-vs-viborg-football-1449550/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "FC Nordsjaelland vs Sonderjyske",
       "date": 1770555600000,
       "sport": "football",
@@ -3476,6 +3334,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"FC Nordsjaelland vs Sonderjyske\" src=\"https://embedsports.top/embed/echo/fc-nordsjaelland-vs-sonderjyske-football-1449547/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Silkeborg vs Viborg",
+      "date": 1770555600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Silkeborg vs Viborg\" src=\"https://embedsports.top/embed/echo/silkeborg-vs-viborg-football-1449550/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3623,6 +3492,21 @@
       ]
     },
     {
+      "title": "Nice vs. AS Monaco",
+      "date": 1770559200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Nice vs. AS Monaco\" src=\"https://embedsports.top/embed/admin/ppv-nice-vs-as-monaco/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Nice vs. AS Monaco\" src=\"https://embedsports.top/embed/echo/nice-vs-monaco-football-1387885/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Lecce vs. Udinese",
       "date": 1770559200000,
       "sport": "football",
@@ -3649,21 +3533,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Brighton & Hove Albion vs. Crystal Palace\" src=\"https://embedsports.top/embed/echo/brighton-vs-crystal-palace-football-1379211/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Nice vs. AS Monaco",
-      "date": 1770559200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Nice vs. AS Monaco\" src=\"https://embedsports.top/embed/admin/ppv-nice-vs-as-monaco/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Nice vs. AS Monaco\" src=\"https://embedsports.top/embed/echo/nice-vs-monaco-football-1387885/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3727,17 +3596,6 @@
       ]
     },
     {
-      "title": "Deportivo La Coruna vs Albacete",
-      "date": 1770563700000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Deportivo La Coruna vs Albacete\" src=\"https://embedsports.top/embed/echo/deportivo-la-coruna-vs-albacete-football-1392036/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "AD Ceuta FC vs Cordoba",
       "date": 1770563700000,
       "sport": "football",
@@ -3745,6 +3603,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"AD Ceuta FC vs Cordoba\" src=\"https://embedsports.top/embed/echo/ad-ceuta-fc-vs-cordoba-football-1392030/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Deportivo La Coruna vs Albacete",
+      "date": 1770563700000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Deportivo La Coruna vs Albacete\" src=\"https://embedsports.top/embed/echo/deportivo-la-coruna-vs-albacete-football-1392036/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3852,21 +3721,6 @@
       ]
     },
     {
-      "title": "Angers vs. Toulouse",
-      "date": 1770567300000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Angers vs. Toulouse\" src=\"https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Angers vs. Toulouse\" src=\"https://embedsports.top/embed/echo/angers-vs-toulouse-football-1387878/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "AJ Auxerre vs. Paris FC",
       "date": 1770567300000,
       "sport": "football",
@@ -3893,6 +3747,21 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Le Havre AC vs. Strasbourg\" src=\"https://embedsports.top/embed/echo/le-havre-vs-strasbourg-football-1387881/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Angers vs. Toulouse",
+      "date": 1770567300000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Angers vs. Toulouse\" src=\"https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Angers vs. Toulouse\" src=\"https://embedsports.top/embed/echo/angers-vs-toulouse-football-1387878/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3967,17 +3836,6 @@
       ]
     },
     {
-      "title": "Paris Saint-Germain vs. Marseille",
-      "date": 1770579900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Paris Saint-Germain vs. Marseille\" src=\"https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-marseille/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Juventus vs. Lazio",
       "date": 1770579900000,
       "sport": "football",
@@ -3985,6 +3843,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Juventus vs. Lazio\" src=\"https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Paris Saint-Germain vs. Marseille",
+      "date": 1770579900000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Paris Saint-Germain vs. Marseille\" src=\"https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-marseille/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4479,6 +4348,17 @@
       ]
     },
     {
+      "title": "UFC Fight Night Preview Show: Mario Bautista vs Vinicius Oliveira",
+      "date": 1770415200000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "alpha",
+          "iframe": "<iframe title=\"UFC Fight Night Preview Show: Mario Bautista vs Vinicius Oliveira\" src=\"https://embedsports.top/embed/alpha/ufc-fight-night-preview-show-mario-bautista-vs-vinicius-oliveira/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "wXw: We Love Wrestling 72",
       "date": 1770411600000,
       "sport": "fight",
@@ -4523,17 +4403,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"DAZN Boxing | DAZN PPV Boxing\" src=\"https://embedsports.top/embed/alpha/dazn-boxing-dazn-ppv-boxing/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "UFC Fight Night Preview Show: Mario Bautista vs Vinicius Oliveira",
-      "date": 1770415200000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"UFC Fight Night Preview Show: Mario Bautista vs Vinicius Oliveira\" src=\"https://embedsports.top/embed/alpha/ufc-fight-night-preview-show-mario-bautista-vs-vinicius-oliveira/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4873,17 +4742,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (English)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (German)",
       "date": 1771088400000,
       "sport": "fight",
@@ -4891,6 +4749,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (English)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4983,28 +4852,6 @@
       ]
     },
     {
-      "title": "England U20 vs Wales U20",
-      "date": 1770403500000,
-      "sport": "rugby",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"England U20 vs Wales U20\" src=\"https://embedsports.top/embed/alpha/england-u20-vs-wales-u20/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Leicester Tigers vs Newcastle Red Bulls",
-      "date": 1770403500000,
-      "sport": "rugby",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Leicester Tigers vs Newcastle Red Bulls\" src=\"https://embedsports.top/embed/alpha/leicester-tigers-vs-newcastle-red-bulls/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Fox NRL TV",
       "date": 0,
       "sport": "rugby",
@@ -5016,35 +4863,13 @@
       ]
     },
     {
-      "title": "Waratahs vs Force",
-      "date": 1770427800000,
+      "title": "Mie Honda Heat vs Toshiba Brave Lupus Tokyo",
+      "date": 1770436800000,
       "sport": "rugby",
       "sources": [
         {
           "name": "alpha",
-          "iframe": "<iframe title=\"Waratahs vs Force\" src=\"https://embedsports.top/embed/alpha/waratahs-vs-force/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "HSBC Sevens Perth Day 1",
-      "date": 1770427800000,
-      "sport": "rugby",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"HSBC Sevens Perth Day 1\" src=\"https://embedsports.top/embed/alpha/hsbc-sevens-perth-day-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Kobelco Kobe Steelers vs Shizuoka Blue Revs",
-      "date": 1770433200000,
-      "sport": "rugby",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Kobelco Kobe Steelers vs Shizuoka Blue Revs\" src=\"https://embedsports.top/embed/alpha/kobe-steel-vs-shizuoka-blue-revs/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Mie Honda Heat vs Toshiba Brave Lupus Tokyo\" src=\"https://embedsports.top/embed/alpha/honda-heat-vs-toshiba-brave-lupus/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -5306,6 +5131,17 @@
         {
           "name": "charlie",
           "iframe": "<iframe title=\"Horse Racing: America's Day At the Races\" src=\"https://embedsports.top/embed/charlie/americas-day-at-the-races-1629481938/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Winter Olympics Opening Ceremony",
+      "date": 1770404400000,
+      "sport": "other",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Winter Olympics Opening Ceremony\" src=\"https://embedsports.top/embed/echo/winter-olympics-milano-cortina-opening-ceremony-game-1562822/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
