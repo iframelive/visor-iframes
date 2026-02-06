@@ -1,5 +1,5 @@
 {
-  "updated_at": "06/02/2026 16:40",
+  "updated_at": "06/02/2026 16:50",
   "events": [
     {
       "title": "NFL Streams Schedule",
@@ -471,17 +471,6 @@
       ]
     },
     {
-      "title": "Derry City vs Sligo Rovers",
-      "date": 1770407100000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Derry City vs Sligo Rovers\" src=\"https://embedsports.top/embed/echo/derry-city-vs-sligo-rovers-football-1492616/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Metz vs Lille",
       "date": 1770407100000,
       "sport": "football",
@@ -519,6 +508,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Waterford vs Shelbourne\" src=\"https://embedsports.top/embed/echo/waterford-vs-shelbourne-football-1492618/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Derry City vs Sligo Rovers",
+      "date": 1770408000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Derry City vs Sligo Rovers\" src=\"https://embedsports.top/embed/echo/derry-city-vs-sligo-rovers-football-1492616/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1926,17 +1926,6 @@
       ]
     },
     {
-      "title": "Le Havre AC vs. Strasbourg",
-      "date": 1770567300000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Le Havre AC vs. Strasbourg\" src=\"https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-strasbourg/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Angers vs. Toulouse",
       "date": 1770567300000,
       "sport": "football",
@@ -1944,6 +1933,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Angers vs. Toulouse\" src=\"https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Le Havre AC vs. Strasbourg",
+      "date": 1770567300000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Le Havre AC vs. Strasbourg\" src=\"https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-strasbourg/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1959,17 +1959,6 @@
       ]
     },
     {
-      "title": "Liverpool vs. Manchester City",
-      "date": 1770568200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Liverpool vs. Manchester City\" src=\"https://embedsports.top/embed/admin/ppv-liverpool-vs-manchester-city/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Bayern Munich vs. TSG Hoffenheim",
       "date": 1770568200000,
       "sport": "football",
@@ -1977,6 +1966,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Bayern Munich vs. TSG Hoffenheim\" src=\"https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Liverpool vs. Manchester City",
+      "date": 1770568200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Liverpool vs. Manchester City\" src=\"https://embedsports.top/embed/admin/ppv-liverpool-vs-manchester-city/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2349,6 +2349,17 @@
       ]
     },
     {
+      "title": "OKTAGON 84 (Czech)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "OKTAGON 84 (English)",
       "date": 1771088400000,
       "sport": "fight",
@@ -2367,17 +2378,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "OKTAGON 84 (Czech)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
