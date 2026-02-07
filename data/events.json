@@ -1,6 +1,17 @@
 {
-  "updated_at": "07/02/2026 19:50",
+  "updated_at": "07/02/2026 20:00",
   "events": [
+    {
+      "title": "Team: Men's Short",
+      "date": 1770489900000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Team: Men's Short\" src=\"https://embedsports.top/embed/admin/ppv-team-men-s-short/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
     {
       "title": "Mens Snowboard Big Air Final Run 1",
       "date": 1770489000000,
@@ -9,6 +20,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Mens Snowboard Big Air Final Run 1\" src=\"https://embedsports.top/embed/admin/ppv-men-s-snowboard-big-air-final/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Czechia vs. Switzerland (MD Round-Robin)",
+      "date": 1770487500000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Czechia vs. Switzerland (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-czechia-vs-switzerland-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -35,17 +57,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Norway vs. Italy (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-norway-vs-italy-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Czechia vs. Switzerland (MD Round-Robin)",
-      "date": 1770487500000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Czechia vs. Switzerland (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-czechia-vs-switzerland-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -90,17 +101,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Gold Zone: Day 1\" src=\"https://embedsports.top/embed/admin/ppv-gold-zone-day-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Team: Men's Short",
-      "date": 1770489900000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Team: Men's Short\" src=\"https://embedsports.top/embed/admin/ppv-team-men-s-short/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -952,17 +952,6 @@
       ]
     },
     {
-      "title": "Sion vs Luzern",
-      "date": 1770483600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Sion vs Luzern\" src=\"https://embedsports.top/embed/echo/fc-sion-vs-fc-luzern-football-1494530/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Samsunspor vs Trabzonspor",
       "date": 1770483600000,
       "sport": "football",
@@ -1435,17 +1424,6 @@
       ]
     },
     {
-      "title": "West Ham W vs Brighton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Liverpool W vs Aston Villa W",
       "date": 1770552000000,
       "sport": "football",
@@ -1464,6 +1442,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Arsenal W vs Manchester City W\" src=\"https://embedsports.top/embed/echo/arsenal-w-vs-manchester-city-w-football-1417282/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "West Ham W vs Brighton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2886,13 +2875,13 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (English)",
+      "title": "OKTAGON 84 (Czech)",
       "date": 1771088400000,
       "sport": "fight",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2908,13 +2897,13 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (Czech)",
+      "title": "OKTAGON 84 (English)",
       "date": 1771088400000,
       "sport": "fight",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
