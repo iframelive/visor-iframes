@@ -1,6 +1,28 @@
 {
-  "updated_at": "07/02/2026 19:20",
+  "updated_at": "07/02/2026 19:30",
   "events": [
+    {
+      "title": "South Korea vs. USA (MD Round-Robin)",
+      "date": 1770487500000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"South Korea vs. USA (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Czechia vs. Switzerland (MD Round-Robin)",
+      "date": 1770487500000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Czechia vs. Switzerland (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-czechia-vs-switzerland-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
     {
       "title": "Canada vs. Estonia (MD Round-Robin)",
       "date": 1770487500000,
@@ -24,28 +46,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Norway vs. Italy (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-norway-vs-italy-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Czechia vs. Switzerland (MD Round-Robin)",
-      "date": 1770487500000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Czechia vs. Switzerland (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-czechia-vs-switzerland-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "South Korea vs. USA (MD Round-Robin)",
-      "date": 1770487500000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"South Korea vs. USA (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1011,17 +1011,6 @@
       ]
     },
     {
-      "title": "Palermo vs Empoli",
-      "date": 1770480900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Palermo vs Empoli\" src=\"https://embedsports.top/embed/echo/palermo-vs-empoli-football-1419819/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Lens vs. Stade Rennais",
       "date": 1770480000000,
       "sport": "football",
@@ -1475,28 +1464,6 @@
       ]
     },
     {
-      "title": "Arsenal W vs Manchester City W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Arsenal W vs Manchester City W\" src=\"https://embedsports.top/embed/echo/arsenal-w-vs-manchester-city-w-football-1417282/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "London City Lionesses vs Everton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Liverpool W vs Aston Villa W",
       "date": 1770552000000,
       "sport": "football",
@@ -1508,6 +1475,17 @@
       ]
     },
     {
+      "title": "Arsenal W vs Manchester City W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Arsenal W vs Manchester City W\" src=\"https://embedsports.top/embed/echo/arsenal-w-vs-manchester-city-w-football-1417282/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "West Ham W vs Brighton W",
       "date": 1770552000000,
       "sport": "football",
@@ -1515,6 +1493,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "London City Lionesses vs Everton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2937,17 +2926,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (German)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (English)",
       "date": 1771088400000,
       "sport": "fight",
@@ -2955,6 +2933,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (German)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
