@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/02/2026 22:30",
+  "updated_at": "07/02/2026 22:40",
   "events": [
     {
       "title": "Team Event Ice Dance Free Dance",
@@ -42,6 +42,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Gold Zone: Day 1\" src=\"https://embedsports.top/embed/admin/ppv-gold-zone-day-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "UNLV vs Grand Canyon",
+      "date": 1770499800000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"UNLV vs Grand Canyon\" src=\"https://embedsports.top/embed/delta/live_ncaa_unlv-gr-canyon-live-streaming-463452624/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -225,50 +236,6 @@
       ]
     },
     {
-      "title": "Marquette vs Butler",
-      "date": 1770490800000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Marquette vs Butler\" src=\"https://embedsports.top/embed/delta/live_ncaa_marquette-butler-live-streaming-429815808/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Pittsburgh vs Southern Methodist",
-      "date": 1770490800000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Pittsburgh vs Southern Methodist\" src=\"https://embedsports.top/embed/delta/live_ncaa_pittsburgh-south-methodist-live-streaming-429821424/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Boston College vs Miami",
-      "date": 1770490800000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Boston College vs Miami\" src=\"https://embedsports.top/embed/delta/live_ncaa_boston-college-miami-live-streaming-429806304/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "TCU vs Kansas State",
-      "date": 1770490800000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"TCU vs Kansas State\" src=\"https://embedsports.top/embed/delta/live_ncaa_tcu-kansas-st-live-streaming-463484160/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Iowa State vs Baylor",
       "date": 1770490800000,
       "sport": "basketball",
@@ -280,17 +247,6 @@
       ]
     },
     {
-      "title": "Oregon Ducks vs. Purdue Boilermakers",
-      "date": 1770487200000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Oregon Ducks vs. Purdue Boilermakers\" src=\"https://embedsports.top/embed/admin/ppv-oregon-ducks-vs-purdue-boilermakers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "NFL Streams Schedule",
       "date": 0,
       "sport": "basketball",
@@ -298,17 +254,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"NFL Streams Schedule\" src=\"https://embedsports.top/embed/delta/nflstreams_live/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "UNLV vs Grand Canyon",
-      "date": 1770499800000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"UNLV vs Grand Canyon\" src=\"https://embedsports.top/embed/delta/live_ncaa_unlv-gr-canyon-live-streaming-463452624/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -841,6 +786,28 @@
       ]
     },
     {
+      "title": "Guarani vs Botafogo-SP",
+      "date": 1770499800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Guarani vs Botafogo-SP\" src=\"https://embedsports.top/embed/echo/guarani-campinas-vs-botafogo-sp-football-1500559/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Novorizontino vs São Bernardo",
+      "date": 1770499800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Novorizontino vs São Bernardo\" src=\"https://embedsports.top/embed/echo/novorizontino-vs-sao-bernardo-football-1500560/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Deportes Tolima vs Llaneros",
       "date": 1770498600000,
       "sport": "football",
@@ -964,28 +931,6 @@
       ]
     },
     {
-      "title": "Darmstadt vs Kaiserslautern",
-      "date": 1770492600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Darmstadt vs Kaiserslautern\" src=\"https://embedsports.top/embed/echo/sv-darmstadt-98-vs-1-fc-kaiserslautern-football-1388795/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Grasshoppers vs Young Boys",
-      "date": 1770492600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Grasshoppers vs Young Boys\" src=\"https://embedsports.top/embed/echo/grasshoppers-vs-bsc-young-boys-football-1494532/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Aberdeen vs Motherwell",
       "date": 1770492600000,
       "sport": "football",
@@ -1015,28 +960,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Celtic vs Dundee\" src=\"https://embedsports.top/embed/echo/celtic-vs-dundee-football-1509664/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Guarani vs Botafogo-SP",
-      "date": 1770499800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Guarani vs Botafogo-SP\" src=\"https://embedsports.top/embed/echo/guarani-campinas-vs-botafogo-sp-football-1500559/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Novorizontino vs São Bernardo",
-      "date": 1770499800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Novorizontino vs São Bernardo\" src=\"https://embedsports.top/embed/echo/novorizontino-vs-sao-bernardo-football-1500560/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1221,17 +1144,6 @@
       ]
     },
     {
-      "title": "London City Lionesses vs Everton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Liverpool W vs Aston Villa W",
       "date": 1770552000000,
       "sport": "football",
@@ -1239,6 +1151,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Liverpool W vs Aston Villa W\" src=\"https://embedsports.top/embed/echo/liverpool-w-vs-aston-villa-w-football-1417283/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "London City Lionesses vs Everton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2158,17 +2081,6 @@
       ]
     },
     {
-      "title": "Gimnasia M. vs Instituto Cordoba",
-      "date": 1770599700000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Gimnasia M. vs Instituto Cordoba\" src=\"https://embedsports.top/embed/echo/gimnasia-m-vs-instituto-cordoba-football-1491869/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Velez Sarsfield vs Boca Juniors",
       "date": 1770599700000,
       "sport": "football",
@@ -2176,6 +2088,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Velez Sarsfield vs Boca Juniors\" src=\"https://embedsports.top/embed/echo/velez-sarsfield-vs-boca-juniors-football-1491877/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Gimnasia M. vs Instituto Cordoba",
+      "date": 1770599700000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Gimnasia M. vs Instituto Cordoba\" src=\"https://embedsports.top/embed/echo/gimnasia-m-vs-instituto-cordoba-football-1491869/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2460,10 +2383,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"GLORY 105\" src=\"https://embedsports.top/embed/echo/ppv-event-06-glory-105-ppv-06/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "golf",
-          "iframe": "<iframe title=\"GLORY 105\" src=\"https://embedsports.top/embed/golf/19742/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2668,13 +2587,13 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (Czech)",
+      "title": "OKTAGON 84 (English)",
       "date": 1771088400000,
       "sport": "fight",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2690,13 +2609,13 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (English)",
+      "title": "OKTAGON 84 (Czech)",
       "date": 1771088400000,
       "sport": "fight",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
