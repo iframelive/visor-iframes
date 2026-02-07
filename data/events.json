@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/02/2026 21:40",
+  "updated_at": "07/02/2026 21:50",
   "events": [
     {
       "title": "Switzerland vs. Canada (Women's Group A)",
@@ -1338,6 +1338,17 @@
       ]
     },
     {
+      "title": "London City Lionesses vs Everton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Arsenal W vs Manchester City W",
       "date": 1770552000000,
       "sport": "football",
@@ -1356,17 +1367,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "London City Lionesses vs Everton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2275,17 +2275,6 @@
       ]
     },
     {
-      "title": "Gimnasia M. vs Instituto Cordoba",
-      "date": 1770599700000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Gimnasia M. vs Instituto Cordoba\" src=\"https://embedsports.top/embed/echo/gimnasia-m-vs-instituto-cordoba-football-1491869/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Velez Sarsfield vs Boca Juniors",
       "date": 1770599700000,
       "sport": "football",
@@ -2293,6 +2282,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Velez Sarsfield vs Boca Juniors\" src=\"https://embedsports.top/embed/echo/velez-sarsfield-vs-boca-juniors-football-1491877/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Gimnasia M. vs Instituto Cordoba",
+      "date": 1770599700000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Gimnasia M. vs Instituto Cordoba\" src=\"https://embedsports.top/embed/echo/gimnasia-m-vs-instituto-cordoba-football-1491869/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2796,13 +2796,13 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (Czech)",
+      "title": "OKTAGON 84 (English)",
       "date": 1771088400000,
       "sport": "fight",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2818,13 +2818,13 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (English)",
+      "title": "OKTAGON 84 (Czech)",
       "date": 1771088400000,
       "sport": "fight",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
