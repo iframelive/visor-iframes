@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/02/2026 22:00",
+  "updated_at": "07/02/2026 22:10",
   "events": [
     {
       "title": "Switzerland vs. Canada (Women's Group A)",
@@ -42,6 +42,76 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Team Event Ice Dance Free Dance\" src=\"https://embedsports.top/embed/admin/ppv-team-free-dance/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Hofstra vs Towson",
+      "date": 1770498000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Hofstra vs Towson\" src=\"https://embedsports.top/embed/delta/live_ncaa_hofstra-towson-live-streaming-429813216/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Providence vs DePaul",
+      "date": 1770498000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Providence vs DePaul\" src=\"https://embedsports.top/embed/delta/live_ncaa_providence-depaul-live-streaming-429822288/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Notre Dame vs Florida State",
+      "date": 1770498000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Notre Dame vs Florida State\" src=\"https://embedsports.top/embed/delta/live_ncaa_notre-dame-florida-st-live-streaming-429820992/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Arizona vs Oklahoma State",
+      "date": 1770498000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Arizona vs Oklahoma State\" src=\"https://embedsports.top/embed/admin/ppv-oklahoma-state-cowboys-vs-arizona-wildcats/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Arizona vs Oklahoma State\" src=\"https://embedsports.top/embed/delta/live_ncaa_arizona-oklahoma-state-live-streaming-463405536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Navy vs American",
+      "date": 1770498000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Navy vs American\" src=\"https://embedsports.top/embed/delta/live_ncaa_navy-american-univ-live-streaming-463427568/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Auburn vs Alabama",
+      "date": 1770498000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Auburn vs Alabama\" src=\"https://embedsports.top/embed/delta/live_ncaa_auburn-alabama-live-streaming-463346784/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -247,17 +317,6 @@
       ]
     },
     {
-      "title": "Pennsylvania Quakers vs Princeton Tigers",
-      "date": 1770487200000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Pennsylvania Quakers vs Princeton Tigers\" src=\"https://embedsports.top/embed/delta/live_ncaa_pennsylvania-princeton-live-streaming-463370112/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Oregon Ducks vs. Purdue Boilermakers",
       "date": 1770487200000,
       "sport": "basketball",
@@ -276,76 +335,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"NFL Streams Schedule\" src=\"https://embedsports.top/embed/delta/nflstreams_live/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Hofstra vs Towson",
-      "date": 1770498000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Hofstra vs Towson\" src=\"https://embedsports.top/embed/delta/live_ncaa_hofstra-towson-live-streaming-429813216/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Providence vs DePaul",
-      "date": 1770498000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Providence vs DePaul\" src=\"https://embedsports.top/embed/delta/live_ncaa_providence-depaul-live-streaming-429822288/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Notre Dame vs Florida State",
-      "date": 1770498000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Notre Dame vs Florida State\" src=\"https://embedsports.top/embed/delta/live_ncaa_notre-dame-florida-st-live-streaming-429820992/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Arizona vs Oklahoma State",
-      "date": 1770498000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Arizona vs Oklahoma State\" src=\"https://embedsports.top/embed/admin/ppv-oklahoma-state-cowboys-vs-arizona-wildcats/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Arizona vs Oklahoma State\" src=\"https://embedsports.top/embed/delta/live_ncaa_arizona-oklahoma-state-live-streaming-463405536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Navy vs American",
-      "date": 1770498000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Navy vs American\" src=\"https://embedsports.top/embed/delta/live_ncaa_navy-american-univ-live-streaming-463427568/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Auburn vs Alabama",
-      "date": 1770498000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Auburn vs Alabama\" src=\"https://embedsports.top/embed/delta/live_ncaa_auburn-alabama-live-streaming-463346784/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -881,6 +870,17 @@
       ]
     },
     {
+      "title": "Racing Club vs Argentinos Juniors",
+      "date": 1770498000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Racing Club vs Argentinos Juniors\" src=\"https://embedsports.top/embed/echo/racing-club-vs-argentinos-jrs-football-1491874/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Arouca vs Guimaraes",
       "date": 1770496200000,
       "sport": "football",
@@ -1026,72 +1026,6 @@
       ]
     },
     {
-      "title": "Rionegro Aguilas vs Cucuta",
-      "date": 1770490800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Rionegro Aguilas vs Cucuta\" src=\"https://embedsports.top/embed/echo/rionegro-aguilas-vs-cucuta-football-1505969/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Portuguesa vs Ponte Preta",
-      "date": 1770490800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Portuguesa vs Ponte Preta\" src=\"https://embedsports.top/embed/echo/portuguesa-vs-ponte-preta-football-1500558/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Twente vs Heerenveen",
-      "date": 1770490800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Twente vs Heerenveen\" src=\"https://embedsports.top/embed/echo/twente-vs-heerenveen-football-1381062/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "St Etienne vs Montpellier",
-      "date": 1770490800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"St Etienne vs Montpellier\" src=\"https://embedsports.top/embed/echo/saint-etienne-vs-montpellier-football-1389314/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "JS Kabylie vs Al Ahly",
-      "date": 1770490800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"JS Kabylie vs Al Ahly\" src=\"https://embedsports.top/embed/echo/js-kabylie-vs-al-ahly-football-1485448/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "FAR Rabat vs Young Africans",
-      "date": 1770490800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"FAR Rabat vs Young Africans\" src=\"https://embedsports.top/embed/echo/far-rabat-vs-young-africans-football-1485447/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Sevilla vs Girona",
       "date": 1770485400000,
       "sport": "football",
@@ -1110,17 +1044,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Celtic vs Dundee\" src=\"https://embedsports.top/embed/echo/celtic-vs-dundee-football-1509664/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Racing Club vs Argentinos Juniors",
-      "date": 1770498000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Racing Club vs Argentinos Juniors\" src=\"https://embedsports.top/embed/echo/racing-club-vs-argentinos-jrs-football-1491874/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2796,17 +2719,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (English)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (German)",
       "date": 1771088400000,
       "sport": "fight",
@@ -2814,6 +2726,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (English)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
