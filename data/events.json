@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/02/2026 14:50",
+  "updated_at": "07/02/2026 15:00",
   "events": [
     {
       "title": "Sweden vs. Italy (Women's Group B)",
@@ -9,32 +9,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Sweden vs. Italy (Women's Group B)\" src=\"https://embedsports.top/embed/admin/ppv-sweden-vs-italy-women-s-group-b/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Sweden vs. Italy (MD Round-Robin)",
-      "date": 1770471300000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Sweden vs. Italy (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-sweden-vs-italy-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Sweden vs. Italy (MD Round-Robin)\" src=\"https://embedsports.top/embed/delta/live_olympic-games-women-group-b_sweden-italy-live-streaming-499153968/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Estonia vs. Norway (MD Round-Robin)",
-      "date": 1770471300000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Estonia vs. Norway (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-estonia-vs-norway-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -61,13 +35,28 @@
       ]
     },
     {
-      "title": "Gold Zone: Day 1",
-      "date": 1770469200000,
+      "title": "Estonia vs. Norway (MD Round-Robin)",
+      "date": 1770471300000,
       "sport": "olympics",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Gold Zone: Day 1\" src=\"https://embedsports.top/embed/admin/ppv-gold-zone-day-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Estonia vs. Norway (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-estonia-vs-norway-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Sweden vs. Italy (MD Round-Robin)",
+      "date": 1770471300000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Sweden vs. Italy (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-sweden-vs-italy-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Sweden vs. Italy (MD Round-Robin)\" src=\"https://embedsports.top/embed/delta/live_olympic-games-women-group-b_sweden-italy-live-streaming-499153968/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -79,6 +68,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Men's Freeski Slopestyle: Qualifying\" src=\"https://embedsports.top/embed/admin/ppv-men-s-freeski-slopestyle-qualifying/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Gold Zone: Day 1",
+      "date": 1770469200000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Gold Zone: Day 1\" src=\"https://embedsports.top/embed/admin/ppv-gold-zone-day-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2329,13 +2329,13 @@
       ]
     },
     {
-      "title": "London City Lionesses vs Everton W",
+      "title": "West Ham W vs Brighton W",
       "date": 1770552000000,
       "sport": "football",
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2351,17 +2351,6 @@
       ]
     },
     {
-      "title": "West Ham W vs Brighton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Liverpool W vs Aston Villa W",
       "date": 1770552000000,
       "sport": "football",
@@ -2369,6 +2358,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Liverpool W vs Aston Villa W\" src=\"https://embedsports.top/embed/echo/liverpool-w-vs-aston-villa-w-football-1417283/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "London City Lionesses vs Everton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
