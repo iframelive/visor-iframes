@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/02/2026 17:10",
+  "updated_at": "07/02/2026 17:20",
   "events": [
     {
       "title": "USA vs. Finland (Women's Group A)",
@@ -20,17 +20,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Women's 3000m\" src=\"https://embedsports.top/embed/admin/ppv-women-s-3000-m/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Sweden vs. Italy (Women's Group B)",
-      "date": 1770471600000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Sweden vs. Italy (Women's Group B)\" src=\"https://embedsports.top/embed/admin/ppv-sweden-vs-italy-women-s-group-b/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -79,6 +68,17 @@
       ]
     },
     {
+      "title": "South Korea vs. USA (MD Round-Robin)",
+      "date": 1770487500000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"South Korea vs. USA (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Canada vs. Estonia (MD Round-Robin)",
       "date": 1770487500000,
       "sport": "olympics",
@@ -94,17 +94,6 @@
       ]
     },
     {
-      "title": "Norway vs. Italy (MD Round-Robin)",
-      "date": 1770487500000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Norway vs. Italy (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-norway-vs-italy-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Czechia vs. Switzerland (MD Round-Robin)",
       "date": 1770487500000,
       "sport": "olympics",
@@ -116,13 +105,13 @@
       ]
     },
     {
-      "title": "South Korea vs. USA (MD Round-Robin)",
+      "title": "Norway vs. Italy (MD Round-Robin)",
       "date": 1770487500000,
       "sport": "olympics",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"South Korea vs. USA (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Norway vs. Italy (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-norway-vs-italy-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -661,6 +650,17 @@
         {
           "name": "golf",
           "iframe": "<iframe title=\"Sacramento Kings vs Cleveland Cavaliers\" src=\"https://embedsports.top/embed/golf/19707/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Palermo vs Empoli",
+      "date": 1770480900000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Palermo vs Empoli\" src=\"https://embedsports.top/embed/echo/palermo-vs-empoli-football-1419819/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1362,28 +1362,6 @@
       ]
     },
     {
-      "title": "Maritimo vs Farense",
-      "date": 1770472800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Maritimo vs Farense\" src=\"https://embedsports.top/embed/echo/maritimo-vs-farense-football-1398153/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Carrarese vs Sudtirol",
-      "date": 1770472800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Carrarese vs Sudtirol\" src=\"https://embedsports.top/embed/echo/carrarese-vs-sudtirol-football-1419817/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Bundesliga Saturday Multiview ⚽ 🔥 ⭐",
       "date": 1770472800000,
       "sport": "football",
@@ -1406,72 +1384,6 @@
       ]
     },
     {
-      "title": "Al-Kholood vs Al-Shabab",
-      "date": 1770472800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Al-Kholood vs Al-Shabab\" src=\"https://embedsports.top/embed/echo/al-kholood-vs-al-shabab-football-1436094/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Catanzaro vs Reggiana",
-      "date": 1770472800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Catanzaro vs Reggiana\" src=\"https://embedsports.top/embed/echo/catanzaro-vs-reggiana-football-1419814/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Mantova vs Bari",
-      "date": 1770472800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Mantova vs Bari\" src=\"https://embedsports.top/embed/echo/mantova-vs-bari-football-1419820/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Frosinone vs Venezia",
-      "date": 1770472800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Frosinone vs Venezia\" src=\"https://embedsports.top/embed/echo/frosinone-vs-venezia-football-1419815/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Modena vs Sampdoria",
-      "date": 1770472800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Modena vs Sampdoria\" src=\"https://embedsports.top/embed/echo/modena-vs-sampdoria-football-1419811/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Juve Stabia vs Padova",
-      "date": 1770472800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Juve Stabia vs Padova\" src=\"https://embedsports.top/embed/echo/juve-stabia-vs-padova-football-1419816/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Rayo Vallecano vs Real Oviedo",
       "date": 1770469200000,
       "sport": "football",
@@ -1490,17 +1402,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Werder Bremen W vs VfL Wolfsburg W\" src=\"https://embedsports.top/embed/echo/werder-bremen-w-vs-vfl-wolfsburg-w-football-1401327/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Palermo vs Empoli",
-      "date": 1770480900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Palermo vs Empoli\" src=\"https://embedsports.top/embed/echo/palermo-vs-empoli-football-1419819/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2170,13 +2071,13 @@
       ]
     },
     {
-      "title": "Arsenal W vs Manchester City W",
+      "title": "London City Lionesses vs Everton W",
       "date": 1770552000000,
       "sport": "football",
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Arsenal W vs Manchester City W\" src=\"https://embedsports.top/embed/echo/arsenal-w-vs-manchester-city-w-football-1417282/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2192,13 +2093,13 @@
       ]
     },
     {
-      "title": "London City Lionesses vs Everton W",
+      "title": "Arsenal W vs Manchester City W",
       "date": 1770552000000,
       "sport": "football",
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Arsenal W vs Manchester City W\" src=\"https://embedsports.top/embed/echo/arsenal-w-vs-manchester-city-w-football-1417282/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2911,28 +2812,6 @@
       ]
     },
     {
-      "title": "Sweden W vs Italy W",
-      "date": 1770471600000,
-      "sport": "hockey",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Sweden W vs Italy W\" src=\"https://embedsports.top/embed/echo/sweden-w-vs-italy-w-hockey-419985/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Sweden vs Italy",
-      "date": 1770468000000,
-      "sport": "hockey",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Sweden vs Italy\" src=\"https://embedsports.top/embed/delta/live_olympic-games-women-group-b_sweden-italy-live-streaming-499153968/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Switzerland W vs Canada W",
       "date": 1770495000000,
       "sport": "hockey",
@@ -3287,17 +3166,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (Czech)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (German)",
       "date": 1771088400000,
       "sport": "fight",
@@ -3316,6 +3184,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (Czech)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3349,28 +3228,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Saracens vs Harlequins\" src=\"https://embedsports.top/embed/echo/saracens-vs-harlequins-rugby-51087/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Italy Rugby vs Scotland Rugby",
-      "date": 1770473400000,
-      "sport": "rugby",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Italy Rugby vs Scotland Rugby\" src=\"https://embedsports.top/embed/echo/italy-vs-scotland-rugby-49480/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Bristol Bears vs Exeter Chiefs",
-      "date": 1770472800000,
-      "sport": "rugby",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Bristol Bears vs Exeter Chiefs\" src=\"https://embedsports.top/embed/echo/bristol-vs-exeter-chiefs-rugby-51086/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
