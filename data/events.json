@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/02/2026 23:50",
+  "updated_at": "08/02/2026 00:00",
   "events": [
     {
       "title": "South Dakota State Jackrabbits vs South Dakota Coyotes",
@@ -42,17 +42,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"UNLV vs Grand Canyon\" src=\"https://embedsports.top/embed/delta/live_ncaa_unlv-gr-canyon-live-streaming-463452624/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Hofstra vs Towson",
-      "date": 1770498000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Hofstra vs Towson\" src=\"https://embedsports.top/embed/delta/live_ncaa_hofstra-towson-live-streaming-429813216/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -191,10 +180,6 @@
       "date": 1770494400000,
       "sport": "basketball",
       "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Brooklyn Nets vs Washington Wizards\" src=\"https://embedsports.top/embed/admin/ppv-washington-wizards-vs-brooklyn-nets/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
         {
           "name": "golf",
           "iframe": "<iframe title=\"Brooklyn Nets vs Washington Wizards\" src=\"https://embedsports.top/embed/golf/19698/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -1935,17 +1920,6 @@
       ]
     },
     {
-      "title": "Gimnasia M. vs Instituto Cordoba",
-      "date": 1770599700000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Gimnasia M. vs Instituto Cordoba\" src=\"https://embedsports.top/embed/echo/gimnasia-m-vs-instituto-cordoba-football-1491869/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Velez Sarsfield vs Boca Juniors",
       "date": 1770599700000,
       "sport": "football",
@@ -1953,6 +1927,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Velez Sarsfield vs Boca Juniors\" src=\"https://embedsports.top/embed/echo/velez-sarsfield-vs-boca-juniors-football-1491877/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Gimnasia M. vs Instituto Cordoba",
+      "date": 1770599700000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Gimnasia M. vs Instituto Cordoba\" src=\"https://embedsports.top/embed/echo/gimnasia-m-vs-instituto-cordoba-football-1491869/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
