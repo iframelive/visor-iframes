@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/02/2026 17:30",
+  "updated_at": "07/02/2026 17:40",
   "events": [
     {
       "title": "USA vs. Finland (Women's Group A)",
@@ -79,17 +79,6 @@
       ]
     },
     {
-      "title": "South Korea vs. USA (MD Round-Robin)",
-      "date": 1770487500000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"South Korea vs. USA (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Norway vs. Italy (MD Round-Robin)",
       "date": 1770487500000,
       "sport": "olympics",
@@ -112,6 +101,17 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Canada vs. Estonia (MD Round-Robin)\" src=\"https://embedsports.top/embed/delta/live_olympic-games-women-group-a_switzerland-canada-live-streaming-499153536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "South Korea vs. USA (MD Round-Robin)",
+      "date": 1770487500000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"South Korea vs. USA (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -650,6 +650,17 @@
         {
           "name": "golf",
           "iframe": "<iframe title=\"Sacramento Kings vs Cleveland Cavaliers\" src=\"https://embedsports.top/embed/golf/19707/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Jagiellonia Białystok vs Motor Lublin",
+      "date": 1770481800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Jagiellonia Białystok vs Motor Lublin\" src=\"https://embedsports.top/embed/echo/jagiellonia-vs-motor-lublin-football-1380558/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1290,10 +1301,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"FC Heidenheim vs Hamburg\" src=\"https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-hamburg-sv/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"FC Heidenheim vs Hamburg\" src=\"https://embedsports.top/embed/echo/1-fc-heidenheim-vs-hamburger-sv-football-1388492/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1305,10 +1312,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"St Pauli vs Stuttgart\" src=\"https://embedsports.top/embed/admin/ppv-st-pauli-vs-vf-b-stuttgart/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"St Pauli vs Stuttgart\" src=\"https://embedsports.top/embed/echo/fc-st-pauli-vs-vfb-stuttgart-football-1388494/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1320,10 +1323,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Mainz vs FC Augsburg\" src=\"https://embedsports.top/embed/admin/ppv-mainz-vs-fc-augsburg/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Mainz vs FC Augsburg\" src=\"https://embedsports.top/embed/echo/fsv-mainz-05-vs-fc-augsburg-football-1388493/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1335,14 +1334,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Wolfsburg vs Borussia Dortmund\" src=\"https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-borussia-dortmund/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Wolfsburg vs Borussia Dortmund\" src=\"https://embedsports.top/embed/delta/live_bundesliga_wolfsburg-dortmund-live-streaming-441665136/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Wolfsburg vs Borussia Dortmund\" src=\"https://embedsports.top/embed/echo/vfl-wolfsburg-vs-borussia-dortmund-football-1388496/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1354,10 +1345,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Freiburg vs Werder Bremen\" src=\"https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-werder-bremen/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Freiburg vs Werder Bremen\" src=\"https://embedsports.top/embed/echo/sc-freiburg-vs-werder-bremen-football-1388491/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1402,17 +1389,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Werder Bremen W vs VfL Wolfsburg W\" src=\"https://embedsports.top/embed/echo/werder-bremen-w-vs-vfl-wolfsburg-w-football-1401327/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Jagiellonia Białystok vs Motor Lublin",
-      "date": 1770481800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Jagiellonia Białystok vs Motor Lublin\" src=\"https://embedsports.top/embed/echo/jagiellonia-vs-motor-lublin-football-1380558/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2071,17 +2047,6 @@
       ]
     },
     {
-      "title": "West Ham W vs Brighton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Arsenal W vs Manchester City W",
       "date": 1770552000000,
       "sport": "football",
@@ -2100,6 +2065,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Liverpool W vs Aston Villa W\" src=\"https://embedsports.top/embed/echo/liverpool-w-vs-aston-villa-w-football-1417283/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "West Ham W vs Brighton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3166,17 +3142,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (German)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (Czech)",
       "date": 1771088400000,
       "sport": "fight",
@@ -3184,6 +3149,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (German)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3228,17 +3204,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Saracens vs Harlequins\" src=\"https://embedsports.top/embed/echo/saracens-vs-harlequins-rugby-51087/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "St George-Illawarra Dragons vs Newcastle Knights",
-      "date": 1770453000000,
-      "sport": "rugby",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"St George-Illawarra Dragons vs Newcastle Knights\" src=\"https://embedsports.top/embed/echo/dragons-vs-newcastle-knights-game-3373252/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
