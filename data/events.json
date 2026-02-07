@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/02/2026 17:00",
+  "updated_at": "07/02/2026 17:10",
   "events": [
     {
       "title": "USA vs. Finland (Women's Group A)",
@@ -79,13 +79,17 @@
       ]
     },
     {
-      "title": "Czechia vs. Switzerland (MD Round-Robin)",
+      "title": "Canada vs. Estonia (MD Round-Robin)",
       "date": 1770487500000,
       "sport": "olympics",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Czechia vs. Switzerland (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-czechia-vs-switzerland-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Canada vs. Estonia (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-canada-vs-estonia-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Canada vs. Estonia (MD Round-Robin)\" src=\"https://embedsports.top/embed/delta/live_olympic-games-women-group-a_switzerland-canada-live-streaming-499153536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -101,6 +105,17 @@
       ]
     },
     {
+      "title": "Czechia vs. Switzerland (MD Round-Robin)",
+      "date": 1770487500000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Czechia vs. Switzerland (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-czechia-vs-switzerland-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "South Korea vs. USA (MD Round-Robin)",
       "date": 1770487500000,
       "sport": "olympics",
@@ -108,21 +123,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"South Korea vs. USA (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Canada vs. Estonia (MD Round-Robin)",
-      "date": 1770487500000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Canada vs. Estonia (MD Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-canada-vs-estonia-md-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Canada vs. Estonia (MD Round-Robin)\" src=\"https://embedsports.top/embed/delta/live_olympic-games-women-group-a_switzerland-canada-live-streaming-499153536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -661,6 +661,50 @@
         {
           "name": "golf",
           "iframe": "<iframe title=\"Sacramento Kings vs Cleveland Cavaliers\" src=\"https://embedsports.top/embed/golf/19707/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Petro de Luanda vs Simba",
+      "date": 1770480000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Petro de Luanda vs Simba\" src=\"https://embedsports.top/embed/echo/petro-de-luanda-vs-simba-football-1485450/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Lens vs. Stade Rennais",
+      "date": 1770480000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Lens vs. Stade Rennais\" src=\"https://embedsports.top/embed/admin/ppv-lens-vs-stade-rennais/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Lens vs Rennes",
+      "date": 1770480000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Lens vs Rennes\" src=\"https://embedsports.top/embed/echo/lens-vs-rennes-football-1387882/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Asteras Tripolis vs Volos",
+      "date": 1770480000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Asteras Tripolis vs Volos\" src=\"https://embedsports.top/embed/echo/asteras-tripolis-vs-volos-nfc-football-1400878/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1450,50 +1494,6 @@
       ]
     },
     {
-      "title": "Petro de Luanda vs Simba",
-      "date": 1770480000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Petro de Luanda vs Simba\" src=\"https://embedsports.top/embed/echo/petro-de-luanda-vs-simba-football-1485450/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Lens vs. Stade Rennais",
-      "date": 1770480000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Lens vs. Stade Rennais\" src=\"https://embedsports.top/embed/admin/ppv-lens-vs-stade-rennais/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Lens vs Rennes",
-      "date": 1770480000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Lens vs Rennes\" src=\"https://embedsports.top/embed/echo/lens-vs-rennes-football-1387882/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Asteras Tripolis vs Volos",
-      "date": 1770480000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Asteras Tripolis vs Volos\" src=\"https://embedsports.top/embed/echo/asteras-tripolis-vs-volos-nfc-football-1400878/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Palermo vs Empoli",
       "date": 1770480900000,
       "sport": "football",
@@ -2159,24 +2159,13 @@
       ]
     },
     {
-      "title": "London City Lionesses vs Everton W",
+      "title": "Liverpool W vs Aston Villa W",
       "date": 1770552000000,
       "sport": "football",
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "West Ham W vs Brighton W",
-      "date": 1770552000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Liverpool W vs Aston Villa W\" src=\"https://embedsports.top/embed/echo/liverpool-w-vs-aston-villa-w-football-1417283/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2192,13 +2181,24 @@
       ]
     },
     {
-      "title": "Liverpool W vs Aston Villa W",
+      "title": "West Ham W vs Brighton W",
       "date": 1770552000000,
       "sport": "football",
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Liverpool W vs Aston Villa W\" src=\"https://embedsports.top/embed/echo/liverpool-w-vs-aston-villa-w-football-1417283/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"West Ham W vs Brighton W\" src=\"https://embedsports.top/embed/echo/west-ham-w-vs-brighton-w-football-1417281/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "London City Lionesses vs Everton W",
+      "date": 1770552000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"London City Lionesses vs Everton W\" src=\"https://embedsports.top/embed/echo/london-city-lionesses-vs-everton-w-football-1417280/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3054,6 +3054,17 @@
       ]
     },
     {
+      "title": "PFL Dubai Nurmagomedov vs Davis ",
+      "date": 1770480000000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"PFL Dubai Nurmagomedov vs Davis \" src=\"https://embedsports.top/embed/delta/live-event_pfl-dubai-nurmagomedov-vs-davis-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "PFL Road to Dubai",
       "date": 1770472800000,
       "sport": "fight",
@@ -3076,17 +3087,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"LFC 63: Legacy Fighting Championship 63\" src=\"https://embedsports.top/embed/delta/live-event_lfc-63-legacy-fighting-championship-63-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "PFL Dubai Nurmagomedov vs Davis ",
-      "date": 1770480000000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"PFL Dubai Nurmagomedov vs Davis \" src=\"https://embedsports.top/embed/delta/live-event_pfl-dubai-nurmagomedov-vs-davis-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3287,6 +3287,17 @@
       ]
     },
     {
+      "title": "OKTAGON 84 (Czech)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "OKTAGON 84 (German)",
       "date": 1771088400000,
       "sport": "fight",
@@ -3305,17 +3316,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "OKTAGON 84 (Czech)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
