@@ -1,6 +1,28 @@
 {
-  "updated_at": "10/02/2026 18:30",
+  "updated_at": "10/02/2026 18:45",
   "events": [
+    {
+      "title": "Women's Singles Luge: Final Run",
+      "date": 1770744600000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Women's Singles Luge: Final Run\" src=\"https://embedsports.top/embed/admin/ppv-women-s-singles-luge-final-run/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Men's Short (Venue Feed)",
+      "date": 1770744600000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Men's Short (Venue Feed)\" src=\"https://embedsports.top/embed/admin/ppv-men-s-short-venue-feed/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
     {
       "title": "Sweden vs. USA (Gold Medal Final)",
       "date": 1770743100000,
@@ -68,28 +90,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Figure Skating: Training\" src=\"https://embedsports.top/embed/admin/ppv-figure-skating-training/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Men's Short (Venue Feed)",
-      "date": 1770744600000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Men's Short (Venue Feed)\" src=\"https://embedsports.top/embed/admin/ppv-men-s-short-venue-feed/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Women's Singles Luge: Final Run",
-      "date": 1770744600000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Women's Singles Luge: Final Run\" src=\"https://embedsports.top/embed/admin/ppv-women-s-singles-luge-final-run/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2213,17 +2213,6 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (Czech)",
-      "date": 1771088400000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 84 (English)",
       "date": 1771088400000,
       "sport": "fight",
@@ -2231,6 +2220,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 84 (Czech)",
+      "date": 1771088400000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 84 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
