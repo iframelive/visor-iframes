@@ -1,5 +1,5 @@
 {
-  "updated_at": "13/02/2026 16:50",
+  "updated_at": "13/02/2026 17:00",
   "events": [
     {
       "title": "Men's Free: Warm-Up",
@@ -34,7 +34,7 @@
         },
         {
           "name": "delta",
-          "iframe": "<iframe title=\"Czechia vs. Sweden (W Quarterfinal)\" src=\"https://embedsports.top/embed/delta/live_olympic-games-women-playoffs_czechia-sweden-live-streaming-504717696/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Czechia vs. Sweden (W Quarterfinal)\" src=\"https://embedsports.top/embed/delta/live_olympic-games-group-a_france-czechia-live-streaming-502174512/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -79,6 +79,28 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"China vs. Switzerland (W Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-china-vs-switzerland-w-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "USA vs. Canada (W Round-Robin)",
+      "date": 1770987900000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"USA vs. Canada (W Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-usa-vs-canada-w-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Denmark vs. Sweden (W Round-Robin)",
+      "date": 1770987900000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Denmark vs. Sweden (W Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-denmark-vs-sweden-w-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -131,21 +153,6 @@
       ]
     },
     {
-      "title": "Czechia vs. Norway (M Round-Robin)",
-      "date": 1771005900000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Czechia vs. Norway (M Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-czechia-vs-norway-m-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Czechia vs. Norway (M Round-Robin)\" src=\"https://embedsports.top/embed/delta/live_olympic-games-group-a_france-czechia-live-streaming-502174512/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Germany vs. Italy (M Round-Robin)",
       "date": 1771005900000,
       "sport": "olympics",
@@ -157,13 +164,13 @@
       ]
     },
     {
-      "title": "Canada vs. Sweden (M Round-Robin)",
+      "title": "Czechia vs. Norway (M Round-Robin)",
       "date": 1771005900000,
       "sport": "olympics",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Canada vs. Sweden (M Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-canada-vs-sweden-m-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Czechia vs. Norway (M Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-czechia-vs-norway-m-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -341,6 +348,17 @@
       ]
     },
     {
+      "title": "Germany U17 vs Finland U17",
+      "date": 1770998400000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Germany U17 vs Finland U17\" src=\"https://embedsports.top/embed/echo/germany-u17-vs-finland-u17-football-1518743/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Al-Hilal vs Al-Ettifaq",
       "date": 1770996300000,
       "sport": "football",
@@ -363,39 +381,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Portugal U18 vs Austria U18\" src=\"https://embedsports.top/embed/echo/portugal-u18-vs-austria-u18-football-1521151/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Turkey U19 vs Latvia U19",
-      "date": 1770991200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Turkey U19 vs Latvia U19\" src=\"https://embedsports.top/embed/echo/turkey-u19-vs-latvia-u19-football-1520590/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Al-Shabab vs Al-Ahli",
-      "date": 1770990900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Al-Shabab vs Al-Ahli\" src=\"https://embedsports.top/embed/echo/al-shabab-vs-al-ahli-jeddah-football-1436110/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Germany U17 vs Finland U17",
-      "date": 1770998400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Germany U17 vs Finland U17\" src=\"https://embedsports.top/embed/echo/germany-u17-vs-finland-u17-football-1518743/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1967,13 +1952,13 @@
       ]
     },
     {
-      "title": "Stoke City vs. Fulham",
+      "title": "Parma vs. Hellas Verona",
       "date": 1771164000000,
       "sport": "football",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Stoke City vs. Fulham\" src=\"https://embedsports.top/embed/admin/ppv-stoke-city-vs-fulham/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Parma vs. Hellas Verona\" src=\"https://embedsports.top/embed/admin/ppv-parma-vs-hellas-verona/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1989,13 +1974,13 @@
       ]
     },
     {
-      "title": "Parma vs. Hellas Verona",
+      "title": "Stoke City vs. Fulham",
       "date": 1771164000000,
       "sport": "football",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Parma vs. Hellas Verona\" src=\"https://embedsports.top/embed/admin/ppv-parma-vs-hellas-verona/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Stoke City vs. Fulham\" src=\"https://embedsports.top/embed/admin/ppv-stoke-city-vs-fulham/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2033,17 +2018,6 @@
       ]
     },
     {
-      "title": "Lorient vs. Angers",
-      "date": 1771172100000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Lorient vs. Angers\" src=\"https://embedsports.top/embed/admin/ppv-lorient-vs-angers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Metz vs. AJ Auxerre",
       "date": 1771172100000,
       "sport": "football",
@@ -2055,13 +2029,13 @@
       ]
     },
     {
-      "title": "Arsenal vs. Wigan Athletic",
-      "date": 1771173000000,
+      "title": "Lorient vs. Angers",
+      "date": 1771172100000,
       "sport": "football",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Arsenal vs. Wigan Athletic\" src=\"https://embedsports.top/embed/admin/ppv-arsenal-vs-wigan-athletic/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Lorient vs. Angers\" src=\"https://embedsports.top/embed/admin/ppv-lorient-vs-angers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2073,6 +2047,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"RB Leipzig vs. VfL Wolfsburg\" src=\"https://embedsports.top/embed/admin/ppv-rb-leipzig-vs-vf-l-wolfsburg/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Arsenal vs. Wigan Athletic",
+      "date": 1771173000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Arsenal vs. Wigan Athletic\" src=\"https://embedsports.top/embed/admin/ppv-arsenal-vs-wigan-athletic/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2371,17 +2356,6 @@
       ]
     },
     {
-      "title": "Milwaukee Panthers vs. LSU Tigers",
-      "date": 1771012800000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Milwaukee Panthers vs. LSU Tigers\" src=\"https://embedsports.top/embed/admin/ppv-milwaukee-panthers-vs-lsu-tigers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Wright State Raiders vs. Georgia Bulldogs",
       "date": 1771012800000,
       "sport": "baseball",
@@ -2393,24 +2367,13 @@
       ]
     },
     {
-      "title": "Indiana Hoosiers vs. North Carolina Tar Heels",
-      "date": 1771016400000,
+      "title": "Milwaukee Panthers vs. LSU Tigers",
+      "date": 1771012800000,
       "sport": "baseball",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Indiana Hoosiers vs. North Carolina Tar Heels\" src=\"https://embedsports.top/embed/admin/ppv-indiana-hoosiers-vs-north-carolina-tar-heels/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Army Black Knights vs. Clemson Tigers",
-      "date": 1771016400000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Army Black Knights vs. Clemson Tigers\" src=\"https://embedsports.top/embed/admin/ppv-army-black-knights-vs-clemson-tigers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Milwaukee Panthers vs. LSU Tigers\" src=\"https://embedsports.top/embed/admin/ppv-milwaukee-panthers-vs-lsu-tigers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2426,13 +2389,35 @@
       ]
     },
     {
-      "title": "Fairfield Stags vs. Coastal Carolina Chanticleers",
+      "title": "Vanderbilt Commodores vs. TCU Horned Frogs",
       "date": 1771016400000,
       "sport": "baseball",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Fairfield Stags vs. Coastal Carolina Chanticleers\" src=\"https://embedsports.top/embed/admin/ppv-fairfield-stags-vs-coastal-carolina-chanticleers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Vanderbilt Commodores vs. TCU Horned Frogs\" src=\"https://embedsports.top/embed/admin/ppv-vanderbilt-commodores-vs-tcu-horned-frogs/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Army Black Knights vs. Clemson Tigers",
+      "date": 1771016400000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Army Black Knights vs. Clemson Tigers\" src=\"https://embedsports.top/embed/admin/ppv-army-black-knights-vs-clemson-tigers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Indiana Hoosiers vs. North Carolina Tar Heels",
+      "date": 1771016400000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Indiana Hoosiers vs. North Carolina Tar Heels\" src=\"https://embedsports.top/embed/admin/ppv-indiana-hoosiers-vs-north-carolina-tar-heels/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2448,13 +2433,13 @@
       ]
     },
     {
-      "title": "Vanderbilt Commodores vs. TCU Horned Frogs",
+      "title": "Fairfield Stags vs. Coastal Carolina Chanticleers",
       "date": 1771016400000,
       "sport": "baseball",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Vanderbilt Commodores vs. TCU Horned Frogs\" src=\"https://embedsports.top/embed/admin/ppv-vanderbilt-commodores-vs-tcu-horned-frogs/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Fairfield Stags vs. Coastal Carolina Chanticleers\" src=\"https://embedsports.top/embed/admin/ppv-fairfield-stags-vs-coastal-carolina-chanticleers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2503,17 +2488,6 @@
       ]
     },
     {
-      "title": "UAB Blazers vs. Florida Gators",
-      "date": 1771025400000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"UAB Blazers vs. Florida Gators\" src=\"https://embedsports.top/embed/admin/ppv-uab-blazers-vs-florida-gators/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Youngstown State Penguins vs. Auburn Tigers",
       "date": 1771025400000,
       "sport": "baseball",
@@ -2525,13 +2499,13 @@
       ]
     },
     {
-      "title": "Lehigh Mountain Hawks vs. Miami Hurricanes",
-      "date": 1771027200000,
+      "title": "UAB Blazers vs. Florida Gators",
+      "date": 1771025400000,
       "sport": "baseball",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Lehigh Mountain Hawks vs. Miami Hurricanes\" src=\"https://embedsports.top/embed/admin/ppv-lehigh-mountain-hawks-vs-miami-hurricanes/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"UAB Blazers vs. Florida Gators\" src=\"https://embedsports.top/embed/admin/ppv-uab-blazers-vs-florida-gators/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2543,6 +2517,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Tennessee Tech Golden Eagles vs. Texas A&M Aggies\" src=\"https://embedsports.top/embed/admin/ppv-tennessee-tech-golden-eagles-vs-texas-a-m-aggies/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Lehigh Mountain Hawks vs. Miami Hurricanes",
+      "date": 1771027200000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Lehigh Mountain Hawks vs. Miami Hurricanes\" src=\"https://embedsports.top/embed/admin/ppv-lehigh-mountain-hawks-vs-miami-hurricanes/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2569,17 +2554,6 @@
       ]
     },
     {
-      "title": "UC San Diego Tritons vs. UCLA Bruins",
-      "date": 1771030800000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"UC San Diego Tritons vs. UCLA Bruins\" src=\"https://embedsports.top/embed/admin/ppv-uc-san-diego-tritons-vs-ucla-bruins/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Arizona Wildcats vs. Stanford Cardinal",
       "date": 1771030800000,
       "sport": "baseball",
@@ -2587,6 +2561,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Arizona Wildcats vs. Stanford Cardinal\" src=\"https://embedsports.top/embed/admin/ppv-arizona-wildcats-vs-stanford-cardinal/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "UC San Diego Tritons vs. UCLA Bruins",
+      "date": 1771030800000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"UC San Diego Tritons vs. UCLA Bruins\" src=\"https://embedsports.top/embed/admin/ppv-uc-san-diego-tritons-vs-ucla-bruins/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2716,13 +2701,13 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (English)",
+      "title": "OKTAGON 84 (German)",
       "date": 1771088400000,
       "sport": "fight",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2738,13 +2723,13 @@
       ]
     },
     {
-      "title": "OKTAGON 84 (German)",
+      "title": "OKTAGON 84 (English)",
       "date": 1771088400000,
       "sport": "fight",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 84 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"OKTAGON 84 (English)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-84-english/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2980,24 +2965,24 @@
       ]
     },
     {
-      "title": "2026 Players Championship 3 - Board 1",
+      "title": "2026 Players Championship 3 - Board 2",
       "date": 1771246800000,
       "sport": "darts",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"2026 Players Championship 3 - Board 1\" src=\"https://embedsports.top/embed/admin/ppv-2026-players-championship-3-board-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"2026 Players Championship 3 - Board 2\" src=\"https://embedsports.top/embed/admin/ppv-2026-players-championship-3-board-2/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
     {
-      "title": "2026 Players Championship 4 - Board 2",
+      "title": "2026 Players Championship 4 - Board 1",
       "date": 1771333200000,
       "sport": "darts",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"2026 Players Championship 4 - Board 2\" src=\"https://embedsports.top/embed/admin/ppv-2026-players-championship-4-board-2/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"2026 Players Championship 4 - Board 1\" src=\"https://embedsports.top/embed/admin/ppv-2026-players-championship-4-board-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
