@@ -1,5 +1,5 @@
 {
-  "updated_at": "14/02/2026 21:40",
+  "updated_at": "14/02/2026 21:50",
   "events": [
     {
       "title": "Finland vs. Switzerland (W Quarterfinal)",
@@ -50,17 +50,6 @@
       ]
     },
     {
-      "title": "Italy vs. Sweden (W Round-Robin)",
-      "date": 1771092300000,
-      "sport": "olympics",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Italy vs. Sweden (W Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-italy-vs-sweden-w-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Japan vs. USA (W Round-Robin)",
       "date": 1771092300000,
       "sport": "olympics",
@@ -68,6 +57,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Japan vs. USA (W Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-japan-vs-usa-w-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Italy vs. Sweden (W Round-Robin)",
+      "date": 1771092300000,
+      "sport": "olympics",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Italy vs. Sweden (W Round-Robin)\" src=\"https://embedsports.top/embed/admin/ppv-italy-vs-sweden-w-round-robin/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -289,10 +289,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Providence vs St Johns\" src=\"https://embedsports.top/embed/admin/ppv-st-john-s-red-storm-vs-providence-friars/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Providence vs St Johns\" src=\"https://embedsports.top/embed/delta/live_ncaa_providence-st-johns-live-streaming-430288848/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -315,17 +311,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Michigan vs UCLA\" src=\"https://embedsports.top/embed/admin/ppv-ucla-bruins-vs-michigan-wolverines/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Duke vs Clemson",
-      "date": 1771088400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Duke vs Clemson\" src=\"https://embedsports.top/embed/admin/ppv-clemson-tigers-vs-duke-blue-devils/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -415,6 +400,21 @@
       ]
     },
     {
+      "title": "Purdue Boilermakers vs. Iowa Hawkeyes",
+      "date": 1771106400000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Purdue Boilermakers vs. Iowa Hawkeyes\" src=\"https://embedsports.top/embed/admin/ppv-purdue-boilermakers-vs-iowa-hawkeyes/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Purdue Boilermakers vs. Iowa Hawkeyes\" src=\"https://embedsports.top/embed/delta/live_ncaa_iowa-hawkeyes-purdue-live-streaming-463891104/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "NBA All-Star Saturday",
       "date": 1771106400000,
       "sport": "basketball",
@@ -430,21 +430,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"NBA All-Star Saturday\" src=\"https://embedsports.top/embed/echo/nba-all-star-saturday-game-18733/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Purdue Boilermakers vs. Iowa Hawkeyes",
-      "date": 1771106400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Purdue Boilermakers vs. Iowa Hawkeyes\" src=\"https://embedsports.top/embed/admin/ppv-purdue-boilermakers-vs-iowa-hawkeyes/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Purdue Boilermakers vs. Iowa Hawkeyes\" src=\"https://embedsports.top/embed/delta/live_ncaa_iowa-hawkeyes-purdue-live-streaming-463891104/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -879,17 +864,6 @@
       ]
     },
     {
-      "title": "Talleres Cordoba vs Gimnasia M.",
-      "date": 1771109100000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Talleres Cordoba vs Gimnasia M.\" src=\"https://embedsports.top/embed/echo/talleres-cordoba-vs-gimnasia-m-football-1491890/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Huracan vs Sarmiento Junin",
       "date": 1771109100000,
       "sport": "football",
@@ -897,6 +871,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Huracan vs Sarmiento Junin\" src=\"https://embedsports.top/embed/echo/huracan-vs-sarmiento-junin-football-1491885/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Talleres Cordoba vs Gimnasia M.",
+      "date": 1771109100000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Talleres Cordoba vs Gimnasia M.\" src=\"https://embedsports.top/embed/echo/talleres-cordoba-vs-gimnasia-m-football-1491890/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -934,17 +919,6 @@
       ]
     },
     {
-      "title": "Independ. Rivadavia vs Belgrano Cordoba",
-      "date": 1771117200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Independ. Rivadavia vs Belgrano Cordoba\" src=\"https://embedsports.top/embed/echo/independ-rivadavia-vs-belgrano-cordoba-football-1491887/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Atletico Tucuman vs Estudiantes de Rio Cuarto",
       "date": 1771117200000,
       "sport": "football",
@@ -952,6 +926,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Atletico Tucuman vs Estudiantes de Rio Cuarto\" src=\"https://embedsports.top/embed/echo/atletico-tucuman-vs-estudiantes-de-rio-cuarto-football-1491879/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Independ. Rivadavia vs Belgrano Cordoba",
+      "date": 1771117200000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Independ. Rivadavia vs Belgrano Cordoba\" src=\"https://embedsports.top/embed/echo/independ-rivadavia-vs-belgrano-cordoba-football-1491887/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1103,17 +1088,6 @@
       ]
     },
     {
-      "title": "Manchester United W vs London City Lionesses",
-      "date": 1771156800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Manchester United W vs London City Lionesses\" src=\"https://embedsports.top/embed/echo/manchester-united-w-vs-london-city-lionesses-football-1417287/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Everton W vs West Ham W",
       "date": 1771156800000,
       "sport": "football",
@@ -1121,6 +1095,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Everton W vs West Ham W\" src=\"https://embedsports.top/embed/echo/everton-w-vs-west-ham-w-football-1417291/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Manchester United W vs London City Lionesses",
+      "date": 1771156800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Manchester United W vs London City Lionesses\" src=\"https://embedsports.top/embed/echo/manchester-united-w-vs-london-city-lionesses-football-1417287/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2406,17 +2391,6 @@
       ]
     },
     {
-      "title": "James Madison Dukes vs. Florida State Seminoles",
-      "date": 1771095600000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"James Madison Dukes vs. Florida State Seminoles\" src=\"https://embedsports.top/embed/admin/ppv-james-madison-dukes-vs-florida-state-seminoles/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "UAB Blazers vs. Florida Gators",
       "date": 1771095600000,
       "sport": "baseball",
@@ -2424,6 +2398,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"UAB Blazers vs. Florida Gators\" src=\"https://embedsports.top/embed/admin/ppv-uab-blazers-vs-florida-gators/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "James Madison Dukes vs. Florida State Seminoles",
+      "date": 1771095600000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"James Madison Dukes vs. Florida State Seminoles\" src=\"https://embedsports.top/embed/admin/ppv-james-madison-dukes-vs-florida-state-seminoles/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2439,6 +2424,17 @@
       ]
     },
     {
+      "title": "Wright State Raiders vs. Georgia Bulldogs",
+      "date": 1771092000000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Wright State Raiders vs. Georgia Bulldogs\" src=\"https://embedsports.top/embed/admin/ppv-wright-state-raiders-vs-georgia-bulldogs/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Michigan State Spartans vs. Louisville Cardinals",
       "date": 1771092000000,
       "sport": "baseball",
@@ -2446,17 +2442,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Michigan State Spartans vs. Louisville Cardinals\" src=\"https://embedsports.top/embed/admin/ppv-michigan-state-spartans-vs-louisville-cardinals/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "UC Davis Aggies vs. Texas Longhorns",
-      "date": 1771092000000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"UC Davis Aggies vs. Texas Longhorns\" src=\"https://embedsports.top/embed/admin/ppv-uc-davis-aggies-vs-texas-longhorns/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2472,13 +2457,46 @@
       ]
     },
     {
-      "title": "Army Black Knights vs. Clemson Tigers",
-      "date": 1771102800000,
+      "title": "Fairfield Stags vs. Coastal Carolina Chanticleers",
+      "date": 1771092000000,
       "sport": "baseball",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Army Black Knights vs. Clemson Tigers\" src=\"https://embedsports.top/embed/admin/ppv-army-black-knights-vs-clemson-tigers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Fairfield Stags vs. Coastal Carolina Chanticleers\" src=\"https://embedsports.top/embed/admin/ppv-fairfield-stags-vs-coastal-carolina-chanticleers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "UC Davis Aggies vs. Texas Longhorns",
+      "date": 1771092000000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"UC Davis Aggies vs. Texas Longhorns\" src=\"https://embedsports.top/embed/admin/ppv-uc-davis-aggies-vs-texas-longhorns/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Bowling Green Falcons vs. Georgia Tech Yellow Jackets",
+      "date": 1771092000000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Bowling Green Falcons vs. Georgia Tech Yellow Jackets\" src=\"https://embedsports.top/embed/admin/ppv-bowling-green-falcons-vs-georgia-tech-yellow-jackets/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Nicholls Colonels vs. Tennessee Volunteers",
+      "date": 1771092000000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Nicholls Colonels vs. Tennessee Volunteers\" src=\"https://embedsports.top/embed/admin/ppv-nicholls-colonels-vs-tennessee-volunteers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2494,6 +2512,17 @@
       ]
     },
     {
+      "title": "Army Black Knights vs. Clemson Tigers",
+      "date": 1771102800000,
+      "sport": "baseball",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Army Black Knights vs. Clemson Tigers\" src=\"https://embedsports.top/embed/admin/ppv-army-black-knights-vs-clemson-tigers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Arizona Wildcats vs. Oregon State Beavers",
       "date": 1771102800000,
       "sport": "baseball",
@@ -2505,35 +2534,13 @@
       ]
     },
     {
-      "title": "Wright State Raiders vs. Georgia Bulldogs",
-      "date": 1771105500000,
+      "title": "Kentucky Wildcats vs. UNC Greensboro Spartans",
+      "date": 1771106400000,
       "sport": "baseball",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Wright State Raiders vs. Georgia Bulldogs\" src=\"https://embedsports.top/embed/admin/ppv-wright-state-raiders-vs-georgia-bulldogs/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Nicholls Colonels vs. Tennessee Volunteers",
-      "date": 1771105500000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Nicholls Colonels vs. Tennessee Volunteers\" src=\"https://embedsports.top/embed/admin/ppv-nicholls-colonels-vs-tennessee-volunteers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Fairfield Stags vs. Coastal Carolina Chanticleers",
-      "date": 1771105500000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Fairfield Stags vs. Coastal Carolina Chanticleers\" src=\"https://embedsports.top/embed/admin/ppv-fairfield-stags-vs-coastal-carolina-chanticleers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Kentucky Wildcats vs. UNC Greensboro Spartans\" src=\"https://embedsports.top/embed/admin/ppv-kentucky-wildcats-vs-unc-greensboro-spartans/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2545,28 +2552,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"UC San Diego Tritons vs. UCLA Bruins\" src=\"https://embedsports.top/embed/admin/ppv-uc-san-diego-tritons-vs-ucla-bruins/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Bowling Green Falcons vs. Georgia Tech Yellow Jackets",
-      "date": 1771106400000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Bowling Green Falcons vs. Georgia Tech Yellow Jackets\" src=\"https://embedsports.top/embed/admin/ppv-bowling-green-falcons-vs-georgia-tech-yellow-jackets/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Kentucky Wildcats vs. UNC Greensboro Spartans",
-      "date": 1771106400000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Kentucky Wildcats vs. UNC Greensboro Spartans\" src=\"https://embedsports.top/embed/admin/ppv-kentucky-wildcats-vs-unc-greensboro-spartans/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2633,17 +2618,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"World Rally Championship 2026 - Rally Sweden\" src=\"https://embedsports.top/embed/delta/live-event_world-rally-championship-2026-rally-sweden-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Formula 1 2026 - Bahrain Test",
-      "date": 1770806400000,
-      "sport": "motor-sports",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Formula 1 2026 - Bahrain Test\" src=\"https://embedsports.top/embed/delta/live-event_formula-1-2026-bahrain-test-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
