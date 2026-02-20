@@ -1,5 +1,5 @@
 {
-  "updated_at": "20/02/2026 23:40",
+  "updated_at": "20/02/2026 23:50",
   "events": [
     {
       "title": "Gold Zone: Day 14",
@@ -469,17 +469,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Estrela Amadora vs Tondela\" src=\"https://embedsports.top/embed/echo/estrela-vs-tondela-football-1396440/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Athletic Bilbao vs Elche",
-      "date": 1771617600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Athletic Bilbao vs Elche\" src=\"https://embedsports.top/embed/admin/ppv-athletic-club-vs-elche/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2729,6 +2718,17 @@
       ]
     },
     {
+      "title": "AJ Auxerre vs. Stade Rennais",
+      "date": 1771768800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"AJ Auxerre vs. Stade Rennais\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-stade-rennais/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Atalanta vs. Napoli",
       "date": 1771768800000,
       "sport": "football",
@@ -2759,21 +2759,6 @@
       ]
     },
     {
-      "title": "Nottingham Forest vs. Liverpool",
-      "date": 1771768800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Nottingham Forest vs. Liverpool\" src=\"https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-liverpool/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Nottingham Forest vs. Liverpool\" src=\"https://embedsports.top/embed/echo/nottingham-forest-vs-liverpool-football-1379235/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Crystal Palace vs. Wolverhampton Wanderers",
       "date": 1771768800000,
       "sport": "football",
@@ -2785,13 +2770,17 @@
       ]
     },
     {
-      "title": "AJ Auxerre vs. Stade Rennais",
+      "title": "Nottingham Forest vs. Liverpool",
       "date": 1771768800000,
       "sport": "football",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"AJ Auxerre vs. Stade Rennais\" src=\"https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-stade-rennais/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Nottingham Forest vs. Liverpool\" src=\"https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-liverpool/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Nottingham Forest vs. Liverpool\" src=\"https://embedsports.top/embed/echo/nottingham-forest-vs-liverpool-football-1379235/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2973,21 +2962,6 @@
       ]
     },
     {
-      "title": "Nice vs. Lorient",
-      "date": 1771776900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Nice vs. Lorient\" src=\"https://embedsports.top/embed/admin/ppv-nice-vs-lorient/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Nice vs. Lorient\" src=\"https://embedsports.top/embed/echo/nice-vs-lorient-football-1387901/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Nantes vs. Le Havre AC",
       "date": 1771776900000,
       "sport": "football",
@@ -2999,6 +2973,21 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Nantes vs. Le Havre AC\" src=\"https://embedsports.top/embed/echo/nantes-vs-le-havre-football-1387900/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Nice vs. Lorient",
+      "date": 1771776900000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Nice vs. Lorient\" src=\"https://embedsports.top/embed/admin/ppv-nice-vs-lorient/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Nice vs. Lorient\" src=\"https://embedsports.top/embed/echo/nice-vs-lorient-football-1387901/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3088,17 +3077,6 @@
       ]
     },
     {
-      "title": "AS Roma vs. Cremonese",
-      "date": 1771789500000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"AS Roma vs. Cremonese\" src=\"https://embedsports.top/embed/admin/ppv-as-roma-vs-cremonese/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Strasbourg vs. Lyon",
       "date": 1771789500000,
       "sport": "football",
@@ -3106,6 +3084,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Strasbourg vs. Lyon\" src=\"https://embedsports.top/embed/admin/ppv-strasbourg-vs-lyon/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "AS Roma vs. Cremonese",
+      "date": 1771789500000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"AS Roma vs. Cremonese\" src=\"https://embedsports.top/embed/admin/ppv-as-roma-vs-cremonese/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3143,17 +3132,6 @@
       ]
     },
     {
-      "title": "Everton vs. Manchester United",
-      "date": 1771876800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Everton vs. Manchester United\" src=\"https://embedsports.top/embed/admin/ppv-everton-vs-manchester-united/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Alavés vs. Girona",
       "date": 1771876800000,
       "sport": "football",
@@ -3161,6 +3139,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Alavés vs. Girona\" src=\"https://embedsports.top/embed/admin/ppv-alav-s-vs-girona/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Everton vs. Manchester United",
+      "date": 1771876800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Everton vs. Manchester United\" src=\"https://embedsports.top/embed/admin/ppv-everton-vs-manchester-united/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3208,14 +3197,6 @@
           "iframe": "<iframe title=\"Colorado Rockies vs Arizona Diamondbacks\" src=\"https://embedsports.top/embed/admin/ppv-arizona-diamondbacks-vs-colorado-rockies/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
-          "name": "delta",
-          "iframe": "<iframe title=\"Colorado Rockies vs Arizona Diamondbacks\" src=\"https://embedsports.top/embed/delta/live_mlb_rockies-diamondbacks-live-streaming-506150640/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Colorado Rockies vs Arizona Diamondbacks\" src=\"https://embedsports.top/embed/echo/colorado-rockies-vs-arizona-diamondbacks-baseball-180116/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
           "name": "golf",
           "iframe": "<iframe title=\"Colorado Rockies vs Arizona Diamondbacks\" src=\"https://embedsports.top/embed/golf/19655/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -3252,10 +3233,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Texas Rangers vs Kansas City Royals\" src=\"https://embedsports.top/embed/delta/live_mlb_rangers-royals-live-streaming-506150208/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Texas Rangers vs Kansas City Royals\" src=\"https://embedsports.top/embed/echo/texas-rangers-vs-kansas-city-royals-baseball-180118/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
