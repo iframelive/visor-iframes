@@ -1,5 +1,5 @@
 {
-  "updated_at": "20/02/2026 15:10",
+  "updated_at": "20/02/2026 15:20",
   "events": [
     {
       "title": "NFL Streams Schedule",
@@ -2001,13 +2001,17 @@
       ]
     },
     {
-      "title": "Alex Bray - Rodrigo Coria",
+      "title": "Bray v Coria  ⭐",
       "date": 1771626600000,
       "sport": "fight",
       "sources": [
         {
+          "name": "echo",
+          "iframe": "<iframe title=\"Bray v Coria  ⭐\" src=\"https://embedsports.top/embed/echo/ppv-event-03-bray-v-coria-ppv-03/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "golf",
-          "iframe": "<iframe title=\"Alex Bray - Rodrigo Coria\" src=\"https://embedsports.top/embed/golf/19881/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Bray v Coria  ⭐\" src=\"https://embedsports.top/embed/golf/19881/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2338,6 +2342,39 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"ATP 500 Doha / ATP 500 Rio / ATP 250 Delray Beach 🎾\" src=\"https://embedsports.top/embed/echo/atp-500-doha-atp-500-rio-atp-250-delray-beach-tn-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Bison Kombat 6 🔥",
+      "date": 1771624800000,
+      "sport": "other",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Bison Kombat 6 🔥\" src=\"https://embedsports.top/embed/echo/ppv-event-02-bison-kombat-6-ppv-02/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Toughman Contest  🌟",
+      "date": 1771632000000,
+      "sport": "other",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Toughman Contest  🌟\" src=\"https://embedsports.top/embed/echo/ppv-event-04-toughman-contest-ppv-004/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "House of Glory No Turning Back",
+      "date": 1771632000000,
+      "sport": "other",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"House of Glory No Turning Back\" src=\"https://embedsports.top/embed/echo/ppv-event-05-house-of-glory-no-turning-back-ppv-05/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     }
