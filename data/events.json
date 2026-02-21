@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/02/2026 17:10",
+  "updated_at": "21/02/2026 17:20",
   "events": [
     {
       "title": "NFL Streams Schedule",
@@ -413,6 +413,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"UC Irvine vs UC San Diego\" src=\"https://embedsports.top/embed/echo/san-diego-vs-cf-montreal-football-1490786/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Cesena vs Spezia",
+      "date": 1771690500000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Cesena vs Spezia\" src=\"https://embedsports.top/embed/echo/cesena-vs-spezia-football-1419850/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -992,50 +1003,6 @@
       ]
     },
     {
-      "title": "Venezia vs Pescara",
-      "date": 1771682400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Venezia vs Pescara\" src=\"https://embedsports.top/embed/echo/venezia-vs-pescara-football-1419843/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Mantova vs Sampdoria",
-      "date": 1771682400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Mantova vs Sampdoria\" src=\"https://embedsports.top/embed/echo/mantova-vs-sampdoria-football-1419844/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Juventus vs Como",
-      "date": 1771682400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Juventus vs Como\" src=\"https://embedsports.top/embed/echo/juventus-vs-como-football-1378119/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Padova vs Bari",
-      "date": 1771682400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Padova vs Bari\" src=\"https://embedsports.top/embed/echo/padova-vs-bari-football-1419841/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Panathinaikos - Viktoria Plzen",
       "date": 1771531200000,
       "sport": "football",
@@ -1120,17 +1087,6 @@
         {
           "name": "golf",
           "iframe": "<iframe title=\"Dinamo Zagreb - Racing Genk\" src=\"https://embedsports.top/embed/golf/19785/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Cesena vs Spezia",
-      "date": 1771690500000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Cesena vs Spezia\" src=\"https://embedsports.top/embed/echo/cesena-vs-spezia-football-1419850/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2983,17 +2939,6 @@
       ]
     },
     {
-      "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
-      "date": 1771711200000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Jean-Paul Lebosnoyani vs Phil Rowe\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Punahele Soriano vs Ramiz Brahimaj",
       "date": 1771711200000,
       "sport": "fight",
@@ -3001,6 +2946,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Punahele Soriano vs Ramiz Brahimaj\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2535/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
+      "date": 1771711200000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Jean-Paul Lebosnoyani vs Phil Rowe\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3343,13 +3299,13 @@
       ]
     },
     {
-      "title": "Winter Olympics Gold Zone - Day 14 ❄⛄🥇",
+      "title": "Winter Olympics Gold Zone - Day 15 ❄⛄🥇",
       "date": 1771678800000,
       "sport": "other",
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Winter Olympics Gold Zone - Day 14 ❄⛄🥇\" src=\"https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-14-game-2899333/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Winter Olympics Gold Zone - Day 15 ❄⛄🥇\" src=\"https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-15-game-2899333/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
