@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/02/2026 20:50",
+  "updated_at": "21/02/2026 21:00",
   "events": [
     {
       "title": "Texas Tech vs Kansas State",
@@ -461,6 +461,21 @@
       ]
     },
     {
+      "title": "Cagliari vs Lazio",
+      "date": 1771703100000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Cagliari vs Lazio\" src=\"https://embedsports.top/embed/delta/live_serie-a_cagliari-lazio-live-streaming-442308816/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Cagliari vs Lazio\" src=\"https://embedsports.top/embed/echo/cagliari-vs-lazio-football-1378116/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Grasshoppers vs FC Zurich",
       "date": 1771702200000,
       "sport": "football",
@@ -652,28 +667,6 @@
       ]
     },
     {
-      "title": "PSV Eindhoven vs Heerenveen",
-      "date": 1771695900000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"PSV Eindhoven vs Heerenveen\" src=\"https://embedsports.top/embed/echo/psv-eindhoven-vs-heerenveen-football-1381079/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "West Ham United vs Bournemouth",
-      "date": 1771695000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "golf",
-          "iframe": "<iframe title=\"West Ham United vs Bournemouth\" src=\"https://embedsports.top/embed/golf/19867/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Winterthur vs Thun",
       "date": 1771693200000,
       "sport": "football",
@@ -736,21 +729,6 @@
         {
           "name": "golf",
           "iframe": "<iframe title=\"Celtic - VfB Stuttgart\" src=\"https://embedsports.top/embed/golf/19789/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Cagliari vs Lazio",
-      "date": 1771703100000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Cagliari vs Lazio\" src=\"https://embedsports.top/embed/delta/live_serie-a_cagliari-lazio-live-streaming-442308816/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Cagliari vs Lazio\" src=\"https://embedsports.top/embed/echo/cagliari-vs-lazio-football-1378116/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
