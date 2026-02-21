@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/02/2026 23:30",
+  "updated_at": "21/02/2026 23:40",
   "events": [
     {
       "title": "Phoenix Suns vs Orlando Magic",
@@ -2265,7 +2265,7 @@
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Pittsburgh Pirates vs Tampa Bay Rays\" src=\"https://embedsports.top/embed/echo/philadelphia-phillies-vs-pittsburgh-pirates-baseball-180141/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Pittsburgh Pirates vs Tampa Bay Rays\" src=\"https://embedsports.top/embed/echo/pittsburgh-pirates-vs-tampa-bay-rays-baseball-180140/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
           "name": "golf",
@@ -2515,17 +2515,6 @@
       ]
     },
     {
-      "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
-      "date": 1771711200000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Jean-Paul Lebosnoyani vs Phil Rowe\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Punahele Soriano vs Ramiz Brahimaj",
       "date": 1771711200000,
       "sport": "fight",
@@ -2582,6 +2571,17 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"LFC 63: Legacy Fighting Championship 63\" src=\"https://embedsports.top/embed/delta/live-event_lfc-63-legacy-fighting-championship-63-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
+      "date": 1771713600000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Jean-Paul Lebosnoyani vs Phil Rowe\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
