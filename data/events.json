@@ -1,6 +1,39 @@
 {
-  "updated_at": "21/02/2026 21:00",
+  "updated_at": "21/02/2026 21:10",
   "events": [
+    {
+      "title": "North Carolina Greensboro Spartans vs East Tennessee State Bucs",
+      "date": 1771704000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"North Carolina Greensboro Spartans vs East Tennessee State Bucs\" src=\"https://embedsports.top/embed/delta/live_ncaa_unc-greensboro-east-tennessee-live-streaming-430656912/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Maryland vs Washington",
+      "date": 1771704000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Maryland vs Washington\" src=\"https://embedsports.top/embed/delta/live_ncaa_maryland-washington-live-streaming-464435856/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Houston vs Arizona",
+      "date": 1771704000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Houston vs Arizona\" src=\"https://embedsports.top/embed/delta/live_ncaa_houston-arizona-live-streaming-464431968/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
     {
       "title": "Texas Tech vs Kansas State",
       "date": 1771702200000,
@@ -141,39 +174,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"NFL Streams Schedule\" src=\"https://embedsports.top/embed/delta/nflstreams_live/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "North Carolina Greensboro Spartans vs East Tennessee State Bucs",
-      "date": 1771704000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"North Carolina Greensboro Spartans vs East Tennessee State Bucs\" src=\"https://embedsports.top/embed/delta/live_ncaa_unc-greensboro-east-tennessee-live-streaming-430656912/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Maryland vs Washington",
-      "date": 1771704000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Maryland vs Washington\" src=\"https://embedsports.top/embed/delta/live_ncaa_maryland-washington-live-streaming-464435856/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Houston vs Arizona",
-      "date": 1771704000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Houston vs Arizona\" src=\"https://embedsports.top/embed/delta/live_ncaa_houston-arizona-live-streaming-464431968/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -428,17 +428,6 @@
       ]
     },
     {
-      "title": "Chicago Bulls vs New York Knicks",
-      "date": 1771808400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Chicago Bulls vs New York Knicks\" src=\"https://embedsports.top/embed/echo/chicago-bulls-vs-new-york-knicks-basketball-470304/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Phoenix Suns vs Portland Trail Blazers",
       "date": 1771808400000,
       "sport": "basketball",
@@ -450,6 +439,17 @@
       ]
     },
     {
+      "title": "Chicago Bulls vs New York Knicks",
+      "date": 1771808400000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Chicago Bulls vs New York Knicks\" src=\"https://embedsports.top/embed/echo/chicago-bulls-vs-new-york-knicks-basketball-470304/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Los Angeles Clippers vs Orlando Magic",
       "date": 1771812000000,
       "sport": "basketball",
@@ -457,6 +457,80 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Los Angeles Clippers vs Orlando Magic\" src=\"https://embedsports.top/embed/echo/los-angeles-clippers-vs-orlando-magic-basketball-470306/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Atletico Madrid vs Espanyol",
+      "date": 1771704000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Atletico Madrid vs Espanyol\" src=\"https://embedsports.top/embed/echo/atletico-madrid-vs-espanyol-football-1391061/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Las Palmas vs Castellón",
+      "date": 1771704000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Las Palmas vs Castellón\" src=\"https://embedsports.top/embed/echo/las-palmas-vs-castellon-football-1392052/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Ajax vs NEC Nijmegen",
+      "date": 1771704000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Ajax vs NEC Nijmegen\" src=\"https://embedsports.top/embed/echo/ajax-vs-nec-nijmegen-football-1381074/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Atlético Madrid vs Espanyol",
+      "date": 1771704000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Atlético Madrid vs Espanyol\" src=\"https://embedsports.top/embed/delta/live_laliga_atl-madrid-espanyol-live-streaming-442312704/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Manchester City vs Newcastle United",
+      "date": 1771704000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Manchester City vs Newcastle United\" src=\"https://embedsports.top/embed/delta/live_premier-league_man-city-newcastle-live-streaming-442184400/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Manchester City vs Newcastle United\" src=\"https://embedsports.top/embed/echo/manchester-city-vs-newcastle-football-1379234/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "golf",
+          "iframe": "<iframe title=\"Manchester City vs Newcastle United\" src=\"https://embedsports.top/embed/golf/19868/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Platense vs Barracas Central",
+      "date": 1771704000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Platense vs Barracas Central\" src=\"https://embedsports.top/embed/echo/platense-vs-barracas-central-football-1491903/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -623,39 +697,6 @@
       ]
     },
     {
-      "title": "Moreirense vs Sporting CP",
-      "date": 1771696800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Moreirense vs Sporting CP\" src=\"https://embedsports.top/embed/echo/moreirense-vs-sporting-cp-football-1396443/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Benfica vs AVS",
-      "date": 1771696800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Benfica vs AVS\" src=\"https://embedsports.top/embed/echo/benfica-vs-avs-football-1396437/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Toulouse vs Paris FC",
-      "date": 1771696800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Toulouse vs Paris FC\" src=\"https://embedsports.top/embed/echo/toulouse-vs-paris-fc-football-1387904/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Oliveirense vs União de Leiria",
       "date": 1771696800000,
       "sport": "football",
@@ -729,80 +770,6 @@
         {
           "name": "golf",
           "iframe": "<iframe title=\"Celtic - VfB Stuttgart\" src=\"https://embedsports.top/embed/golf/19789/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Atletico Madrid vs Espanyol",
-      "date": 1771704000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Atletico Madrid vs Espanyol\" src=\"https://embedsports.top/embed/echo/atletico-madrid-vs-espanyol-football-1391061/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Las Palmas vs Castellón",
-      "date": 1771704000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Las Palmas vs Castellón\" src=\"https://embedsports.top/embed/echo/las-palmas-vs-castellon-football-1392052/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Ajax vs NEC Nijmegen",
-      "date": 1771704000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Ajax vs NEC Nijmegen\" src=\"https://embedsports.top/embed/echo/ajax-vs-nec-nijmegen-football-1381074/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Atlético Madrid vs Espanyol",
-      "date": 1771704000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Atlético Madrid vs Espanyol\" src=\"https://embedsports.top/embed/delta/live_laliga_atl-madrid-espanyol-live-streaming-442312704/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Manchester City vs Newcastle United",
-      "date": 1771704000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Manchester City vs Newcastle United\" src=\"https://embedsports.top/embed/delta/live_premier-league_man-city-newcastle-live-streaming-442184400/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Manchester City vs Newcastle United\" src=\"https://embedsports.top/embed/echo/manchester-city-vs-newcastle-football-1379234/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "golf",
-          "iframe": "<iframe title=\"Manchester City vs Newcastle United\" src=\"https://embedsports.top/embed/golf/19868/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Platense vs Barracas Central",
-      "date": 1771704000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Platense vs Barracas Central\" src=\"https://embedsports.top/embed/echo/platense-vs-barracas-central-football-1491903/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2754,17 +2721,6 @@
       ]
     },
     {
-      "title": "Punahele Soriano vs Ramiz Brahimaj",
-      "date": 1771711200000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Punahele Soriano vs Ramiz Brahimaj\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2535/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
       "date": 1771711200000,
       "sport": "fight",
@@ -2772,6 +2728,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Jean-Paul Lebosnoyani vs Phil Rowe\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Punahele Soriano vs Ramiz Brahimaj",
+      "date": 1771711200000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Punahele Soriano vs Ramiz Brahimaj\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2535/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2824,6 +2791,17 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Angelo Leo vs Lerato Dlamini\" src=\"https://embedsports.top/embed/delta/live-event_angelo-leo-vs-lerato-dlamini-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Alibi Idiris vs Ode' Osbourne",
+      "date": 1771716600000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Alibi Idiris vs Ode' Osbourne\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2444/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
