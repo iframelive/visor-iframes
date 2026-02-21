@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/02/2026 20:20",
+  "updated_at": "21/02/2026 20:30",
   "events": [
     {
       "title": "Louisville vs Georgia Tech",
@@ -68,17 +68,6 @@
       ]
     },
     {
-      "title": "Nebraska Cornhuskers vs Penn St Nittany Lions",
-      "date": 1771696800000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Nebraska Cornhuskers vs Penn St Nittany Lions\" src=\"https://embedsports.top/embed/delta/live_ncaa_nebraska-penn-state-live-streaming-464416848/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "North Carolina Greensboro Spartans vs East Tennessee State Bucs",
       "date": 1771696800000,
       "sport": "basketball",
@@ -86,6 +75,17 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"North Carolina Greensboro Spartans vs East Tennessee State Bucs\" src=\"https://embedsports.top/embed/delta/live_ncaa_unc-greensboro-east-tennessee-live-streaming-430656912/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Nebraska Cornhuskers vs Penn St Nittany Lions",
+      "date": 1771696800000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Nebraska Cornhuskers vs Penn St Nittany Lions\" src=\"https://embedsports.top/embed/delta/live_ncaa_nebraska-penn-state-live-streaming-464416848/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -128,10 +128,6 @@
       "sport": "basketball",
       "sources": [
         {
-          "name": "delta",
-          "iframe": "<iframe title=\"Charlotte vs East Carolina\" src=\"https://embedsports.top/embed/delta/live_ncaa_charlotte-east-carolina-live-streaming-464393520/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
           "name": "echo",
           "iframe": "<iframe title=\"Charlotte vs East Carolina\" src=\"https://embedsports.top/embed/echo/st-louis-city-vs-charlotte-football-1490775/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -167,17 +163,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Clemson vs Florida State\" src=\"https://embedsports.top/embed/delta/live_ncaa_clemson-florida-st-live-streaming-430647840/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Mississippi vs Florida",
-      "date": 1771693200000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Mississippi vs Florida\" src=\"https://embedsports.top/embed/delta/live_ncaa_ole-miss-florida-live-streaming-464394384/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -712,28 +697,6 @@
         {
           "name": "golf",
           "iframe": "<iframe title=\"West Ham United vs Bournemouth\" src=\"https://embedsports.top/embed/golf/19867/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Birmingham City W vs Chatham Town W",
-      "date": 1771694100000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Birmingham City W vs Chatham Town W\" src=\"https://embedsports.top/embed/echo/birmingham-city-w-vs-chatham-town-w-football-1514951/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Lecce vs Inter Milan",
-      "date": 1771693200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Lecce vs Inter Milan\" src=\"https://embedsports.top/embed/delta/live_serie-a_lecce-inter-live-streaming-442310544/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2659,6 +2622,10 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Miami Marlins vs Washington Nationals\" src=\"https://embedsports.top/embed/echo/miami-marlins-vs-washington-nationals-baseball-180143/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "golf",
+          "iframe": "<iframe title=\"Miami Marlins vs Washington Nationals\" src=\"https://embedsports.top/embed/golf/19890/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3011,6 +2978,10 @@
           "iframe": "<iframe title=\"Mario Barrios vs Ryan Garcia\" src=\"https://embedsports.top/embed/delta/live-event_ryan-garcia-vs-mario-barrios-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
+          "name": "echo",
+          "iframe": "<iframe title=\"Mario Barrios vs Ryan Garcia\" src=\"https://embedsports.top/embed/echo/ppv-event-02-barrios-v-garcia-game-002/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "golf",
           "iframe": "<iframe title=\"Mario Barrios vs Ryan Garcia\" src=\"https://embedsports.top/embed/golf/19925/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -3281,17 +3252,6 @@
       ]
     },
     {
-      "title": "5:45/8pm Barrios v Garcia",
-      "date": 1771713608000,
-      "sport": "other",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"5:45/8pm Barrios v Garcia\" src=\"https://embedsports.top/embed/echo/ppv-event-02-5458pm-barrios-v-garcia-game-002/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "USAC WS Midgets Kern",
       "date": 1771713918000,
       "sport": "other",
@@ -3336,13 +3296,13 @@
       ]
     },
     {
-      "title": "9:30pm Royal Combat Muay Thai Series 28",
+      "title": "Royal Combat Muay Thai Series 28",
       "date": 1771727681000,
       "sport": "other",
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"9:30pm Royal Combat Muay Thai Series 28\" src=\"https://embedsports.top/embed/echo/ppv-event-11-930pm-royal-combat-muay-thai-series-28-ev-11/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Royal Combat Muay Thai Series 28\" src=\"https://embedsports.top/embed/echo/ppv-event-11-royal-combat-muay-thai-series-28-ev-11/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
