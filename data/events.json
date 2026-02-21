@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/02/2026 23:10",
+  "updated_at": "21/02/2026 23:20",
   "events": [
     {
       "title": "Phoenix Suns vs Orlando Magic",
@@ -105,17 +105,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Norfolk State vs South Carolina State Bulldogs\" src=\"https://embedsports.top/embed/delta/live_ncaa_norfolk-st-south-carolina-st-live-streaming-464404320/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Maryland vs Washington",
-      "date": 1771704000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Maryland vs Washington\" src=\"https://embedsports.top/embed/delta/live_ncaa_maryland-washington-live-streaming-464435856/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -554,17 +543,6 @@
       ]
     },
     {
-      "title": "Chicago Bulls vs New York Knicks",
-      "date": 1771808400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Chicago Bulls vs New York Knicks\" src=\"https://embedsports.top/embed/echo/chicago-bulls-vs-new-york-knicks-basketball-470304/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Phoenix Suns vs Portland Trail Blazers",
       "date": 1771808400000,
       "sport": "basketball",
@@ -572,6 +550,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Phoenix Suns vs Portland Trail Blazers\" src=\"https://embedsports.top/embed/echo/phoenix-suns-vs-portland-trail-blazers-basketball-470305/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Bulls vs New York Knicks",
+      "date": 1771808400000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Chicago Bulls vs New York Knicks\" src=\"https://embedsports.top/embed/echo/chicago-bulls-vs-new-york-knicks-basketball-470304/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -635,32 +624,6 @@
       ]
     },
     {
-      "title": "Paris SG vs Metz",
-      "date": 1771704300000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Paris SG vs Metz\" src=\"https://embedsports.top/embed/delta/live_ligue-1_psg-metz-live-streaming-442318320/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Paris SG vs Metz\" src=\"https://embedsports.top/embed/echo/paris-saint-germain-vs-metz-football-1387902/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Atletico Madrid vs Espanyol",
-      "date": 1771704000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Atletico Madrid vs Espanyol\" src=\"https://embedsports.top/embed/echo/atletico-madrid-vs-espanyol-football-1391061/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Las Palmas vs Castellón",
       "date": 1771704000000,
       "sport": "football",
@@ -672,25 +635,10 @@
       ]
     },
     {
-      "title": "Atlético Madrid vs Espanyol",
-      "date": 1771704000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Atlético Madrid vs Espanyol\" src=\"https://embedsports.top/embed/delta/live_laliga_atl-madrid-espanyol-live-streaming-442312704/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Manchester City vs Newcastle United",
       "date": 1771704000000,
       "sport": "football",
       "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Manchester City vs Newcastle United\" src=\"https://embedsports.top/embed/delta/live_premier-league_man-city-newcastle-live-streaming-442184400/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
         {
           "name": "golf",
           "iframe": "<iframe title=\"Manchester City vs Newcastle United\" src=\"https://embedsports.top/embed/golf/19868/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -2892,6 +2840,17 @@
       ]
     },
     {
+      "title": "Eternal MMA 103",
+      "date": 1771711257000,
+      "sport": "other",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Eternal MMA 103\" src=\"https://embedsports.top/embed/echo/ppv-event-04-eternal-mma-103-ev-004/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": " American Sprint Car Series",
       "date": 1771710327000,
       "sport": "other",
@@ -2976,17 +2935,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Cage Wariors 200\" src=\"https://embedsports.top/embed/echo/ppv-event-05-cage-wariors-200-ppv-05/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Eternal MMA 103",
-      "date": 1771711257000,
-      "sport": "other",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Eternal MMA 103\" src=\"https://embedsports.top/embed/echo/ppv-event-04-eternal-mma-103-ev-004/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
