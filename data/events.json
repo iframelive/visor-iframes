@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/02/2026 17:00",
+  "updated_at": "21/02/2026 17:10",
   "events": [
     {
       "title": "NFL Streams Schedule",
@@ -413,6 +413,21 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"UC Irvine vs UC San Diego\" src=\"https://embedsports.top/embed/echo/san-diego-vs-cf-montreal-football-1490786/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Lens vs Monaco",
+      "date": 1771689600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Lens vs Monaco\" src=\"https://embedsports.top/embed/delta/live_ligue-1_lens-as-monaco-live-streaming-442318752/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Lens vs Monaco\" src=\"https://embedsports.top/embed/echo/lens-vs-monaco-football-1387899/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -912,6 +927,10 @@
       "sport": "football",
       "sources": [
         {
+          "name": "delta",
+          "iframe": "<iframe title=\"Bayern Munich vs Eintracht Frankfurt\" src=\"https://embedsports.top/embed/delta/live_bundesliga_bayern-frankfurt-live-streaming-442188288/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"Bayern Munich vs Eintracht Frankfurt\" src=\"https://embedsports.top/embed/echo/bayern-munchen-vs-eintracht-frankfurt-football-1388506/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -936,28 +955,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"FC Köln vs Hoffenheim\" src=\"https://embedsports.top/embed/echo/1-fc-koln-vs-1899-hoffenheim-football-1388507/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Maritimo vs Sporting CP B",
-      "date": 1771682400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Maritimo vs Sporting CP B\" src=\"https://embedsports.top/embed/echo/maritimo-vs-sporting-cp-b-football-1398172/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Palermo vs Sudtirol",
-      "date": 1771682400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Palermo vs Sudtirol\" src=\"https://embedsports.top/embed/echo/palermo-vs-sudtirol-football-1419847/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -995,17 +992,6 @@
       ]
     },
     {
-      "title": "Virtus Entella vs Catanzaro",
-      "date": 1771682400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Virtus Entella vs Catanzaro\" src=\"https://embedsports.top/embed/echo/virtus-entella-vs-catanzaro-football-1419846/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Venezia vs Pescara",
       "date": 1771682400000,
       "sport": "football",
@@ -1033,23 +1019,8 @@
       "sport": "football",
       "sources": [
         {
-          "name": "delta",
-          "iframe": "<iframe title=\"Juventus vs Como\" src=\"https://embedsports.top/embed/delta/live_serie-a_juventus-como-live-streaming-442310112/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
           "name": "echo",
           "iframe": "<iframe title=\"Juventus vs Como\" src=\"https://embedsports.top/embed/echo/juventus-vs-como-football-1378119/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Raków Częstochowa vs Bruk-Bet Termalica Nieciecza",
-      "date": 1771682400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Raków Częstochowa vs Bruk-Bet Termalica Nieciecza\" src=\"https://embedsports.top/embed/echo/rakow-czestochowa-vs-nieciecza-football-1380580/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1149,21 +1120,6 @@
         {
           "name": "golf",
           "iframe": "<iframe title=\"Dinamo Zagreb - Racing Genk\" src=\"https://embedsports.top/embed/golf/19785/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Lens vs Monaco",
-      "date": 1771689600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Lens vs Monaco\" src=\"https://embedsports.top/embed/delta/live_ligue-1_lens-as-monaco-live-streaming-442318752/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Lens vs Monaco\" src=\"https://embedsports.top/embed/echo/lens-vs-monaco-football-1387899/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2180,17 +2136,6 @@
       ]
     },
     {
-      "title": "Manchester City W vs Sheffield United W",
-      "date": 1771768800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Manchester City W vs Sheffield United W\" src=\"https://embedsports.top/embed/echo/manchester-city-w-vs-sheffield-united-w-football-1514955/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Oxford United W vs Charlton Athletic W",
       "date": 1771768800000,
       "sport": "football",
@@ -2198,6 +2143,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Oxford United W vs Charlton Athletic W\" src=\"https://embedsports.top/embed/echo/oxford-united-w-vs-charlton-athletic-w-football-1514956/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Manchester City W vs Sheffield United W",
+      "date": 1771768800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Manchester City W vs Sheffield United W\" src=\"https://embedsports.top/embed/echo/manchester-city-w-vs-sheffield-united-w-football-1514955/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3027,17 +2983,6 @@
       ]
     },
     {
-      "title": "Punahele Soriano vs Ramiz Brahimaj",
-      "date": 1771711200000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Punahele Soriano vs Ramiz Brahimaj\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2535/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
       "date": 1771711200000,
       "sport": "fight",
@@ -3045,6 +2990,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Jean-Paul Lebosnoyani vs Phil Rowe\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Punahele Soriano vs Ramiz Brahimaj",
+      "date": 1771711200000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Punahele Soriano vs Ramiz Brahimaj\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2535/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
