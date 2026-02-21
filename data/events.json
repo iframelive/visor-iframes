@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/02/2026 16:20",
+  "updated_at": "21/02/2026 16:30",
   "events": [
     {
       "title": "NFL Streams Schedule",
@@ -3027,17 +3027,6 @@
       ]
     },
     {
-      "title": "Punahele Soriano vs Ramiz Brahimaj",
-      "date": 1771711200000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Punahele Soriano vs Ramiz Brahimaj\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2535/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
       "date": 1771711200000,
       "sport": "fight",
@@ -3045,6 +3034,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Jean-Paul Lebosnoyani vs Phil Rowe\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Punahele Soriano vs Ramiz Brahimaj",
+      "date": 1771711200000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Punahele Soriano vs Ramiz Brahimaj\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-strickland-vs-hernandez-mma-2535/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
