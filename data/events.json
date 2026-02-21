@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/02/2026 22:40",
+  "updated_at": "21/02/2026 22:50",
   "events": [
     {
       "title": "Villanova Wildcats vs Connecticut Huskies",
@@ -108,17 +108,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Texas Tech vs Kansas State\" src=\"https://embedsports.top/embed/delta/live_ncaa_texas-tech-kansas-st-live-streaming-464421600/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Charlotte vs East Carolina",
-      "date": 1771693200000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Charlotte vs East Carolina\" src=\"https://embedsports.top/embed/echo/st-louis-city-vs-charlotte-football-1490775/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -572,17 +561,6 @@
       ]
     },
     {
-      "title": "Phoenix Suns vs Portland Trail Blazers",
-      "date": 1771808400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Phoenix Suns vs Portland Trail Blazers\" src=\"https://embedsports.top/embed/echo/phoenix-suns-vs-portland-trail-blazers-basketball-470305/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Chicago Bulls vs New York Knicks",
       "date": 1771808400000,
       "sport": "basketball",
@@ -594,6 +572,17 @@
       ]
     },
     {
+      "title": "Phoenix Suns vs Portland Trail Blazers",
+      "date": 1771808400000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Phoenix Suns vs Portland Trail Blazers\" src=\"https://embedsports.top/embed/echo/phoenix-suns-vs-portland-trail-blazers-basketball-470305/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Los Angeles Clippers vs Orlando Magic",
       "date": 1771812000000,
       "sport": "basketball",
@@ -601,6 +590,21 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Los Angeles Clippers vs Orlando Magic\" src=\"https://embedsports.top/embed/echo/los-angeles-clippers-vs-orlando-magic-basketball-470306/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "FC Cincinnati vs Atlanta United",
+      "date": 1771710300000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"FC Cincinnati vs Atlanta United\" src=\"https://embedsports.top/embed/delta/live_mls_cincinnati-atlanta-live-streaming-503489952/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"FC Cincinnati vs Atlanta United\" src=\"https://embedsports.top/embed/echo/fc-cincinnati-vs-atlanta-united-fc-football-1490776/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -734,10 +738,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Cagliari vs Lazio\" src=\"https://embedsports.top/embed/delta/live_serie-a_cagliari-lazio-live-streaming-442308816/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Cagliari vs Lazio\" src=\"https://embedsports.top/embed/echo/cagliari-vs-lazio-football-1378116/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -771,21 +771,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Cliftonville vs Crusaders\" src=\"https://embedsports.top/embed/echo/crusaders-vs-brumbies-rugby-51793/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "FC Cincinnati vs Atlanta United",
-      "date": 1771710300000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"FC Cincinnati vs Atlanta United\" src=\"https://embedsports.top/embed/delta/live_mls_cincinnati-atlanta-live-streaming-503489952/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"FC Cincinnati vs Atlanta United\" src=\"https://embedsports.top/embed/echo/fc-cincinnati-vs-atlanta-united-fc-football-1490776/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
