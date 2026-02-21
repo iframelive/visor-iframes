@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/02/2026 22:50",
+  "updated_at": "21/02/2026 23:00",
   "events": [
     {
       "title": "Villanova Wildcats vs Connecticut Huskies",
@@ -97,17 +97,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Houston vs Arizona\" src=\"https://embedsports.top/embed/delta/live_ncaa_houston-arizona-live-streaming-464431968/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Texas Tech vs Kansas State",
-      "date": 1771702200000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Texas Tech vs Kansas State\" src=\"https://embedsports.top/embed/delta/live_ncaa_texas-tech-kansas-st-live-streaming-464421600/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -451,6 +440,10 @@
       "sport": "basketball",
       "sources": [
         {
+          "name": "delta",
+          "iframe": "<iframe title=\"UC Irvine vs UC San Diego\" src=\"https://embedsports.top/embed/delta/live_mls_san-diego-fc-montreal-live-streaming-503494272/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"UC Irvine vs UC San Diego\" src=\"https://embedsports.top/embed/echo/san-diego-vs-cf-montreal-football-1490786/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -561,17 +554,6 @@
       ]
     },
     {
-      "title": "Chicago Bulls vs New York Knicks",
-      "date": 1771808400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Chicago Bulls vs New York Knicks\" src=\"https://embedsports.top/embed/echo/chicago-bulls-vs-new-york-knicks-basketball-470304/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Phoenix Suns vs Portland Trail Blazers",
       "date": 1771808400000,
       "sport": "basketball",
@@ -579,6 +561,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Phoenix Suns vs Portland Trail Blazers\" src=\"https://embedsports.top/embed/echo/phoenix-suns-vs-portland-trail-blazers-basketball-470305/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Bulls vs New York Knicks",
+      "date": 1771808400000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Chicago Bulls vs New York Knicks\" src=\"https://embedsports.top/embed/echo/chicago-bulls-vs-new-york-knicks-basketball-470304/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -731,28 +724,6 @@
       ]
     },
     {
-      "title": "Cagliari vs Lazio",
-      "date": 1771703100000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Cagliari vs Lazio\" src=\"https://embedsports.top/embed/delta/live_serie-a_cagliari-lazio-live-streaming-442308816/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "St. Louis City SC vs Charlotte FC",
-      "date": 1771702200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"St. Louis City SC vs Charlotte FC\" src=\"https://embedsports.top/embed/delta/live_mls_st-louis-charlotte-live-streaming-503489520/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Winterthur vs Thun",
       "date": 1771693200000,
       "sport": "football",
@@ -857,6 +828,10 @@
       "sport": "football",
       "sources": [
         {
+          "name": "delta",
+          "iframe": "<iframe title=\"Orlando City vs New York Red Bulls\" src=\"https://embedsports.top/embed/delta/live_mls_orlando-ny-red-bulls-live-streaming-503490816/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"Orlando City vs New York Red Bulls\" src=\"https://embedsports.top/embed/echo/orlando-city-sc-vs-new-york-red-bulls-football-1490778/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -868,6 +843,10 @@
       "sport": "football",
       "sources": [
         {
+          "name": "delta",
+          "iframe": "<iframe title=\"Vancouver Whitecaps vs Real Salt Lake\" src=\"https://embedsports.top/embed/delta/live_mls_vancouver-salt-lake-live-streaming-503491248/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"Vancouver Whitecaps vs Real Salt Lake\" src=\"https://embedsports.top/embed/echo/vancouver-whitecaps-vs-real-salt-lake-football-1490779/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -878,6 +857,10 @@
       "date": 1771720200000,
       "sport": "football",
       "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"DC United vs Philadelphia Union\" src=\"https://embedsports.top/embed/delta/live_mls_dc-united-philadelphia-live-streaming-503490384/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
         {
           "name": "echo",
           "iframe": "<iframe title=\"DC United vs Philadelphia Union\" src=\"https://embedsports.top/embed/echo/dc-united-vs-philadelphia-union-football-1490777/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -912,6 +895,10 @@
       "sport": "football",
       "sources": [
         {
+          "name": "delta",
+          "iframe": "<iframe title=\"FC Dallas vs Toronto FC\" src=\"https://embedsports.top/embed/delta/live_mls_dallas-toronto-live-streaming-503492112/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"FC Dallas vs Toronto FC\" src=\"https://embedsports.top/embed/echo/fc-dallas-vs-toronto-fc-football-1490781/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -922,6 +909,10 @@
       "date": 1771723800000,
       "sport": "football",
       "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Houston Dynamo vs Chicago Fire\" src=\"https://embedsports.top/embed/delta/live_mls_houston-chicago-live-streaming-503492544/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
         {
           "name": "echo",
           "iframe": "<iframe title=\"Houston Dynamo vs Chicago Fire\" src=\"https://embedsports.top/embed/echo/houston-dynamo-vs-chicago-fire-football-1490782/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -934,6 +925,10 @@
       "sport": "football",
       "sources": [
         {
+          "name": "delta",
+          "iframe": "<iframe title=\"Austin FC vs Minnesota United\" src=\"https://embedsports.top/embed/delta/live_mls_austin-minnesota-live-streaming-503491680/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"Austin FC vs Minnesota United\" src=\"https://embedsports.top/embed/echo/austin-vs-minnesota-united-fc-football-1490780/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -944,6 +939,10 @@
       "date": 1771723800000,
       "sport": "football",
       "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Nashville SC vs New England Revolution\" src=\"https://embedsports.top/embed/delta/live_mls_nashville-new-england-live-streaming-503492976/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
         {
           "name": "echo",
           "iframe": "<iframe title=\"Nashville SC vs New England Revolution\" src=\"https://embedsports.top/embed/echo/nashville-sc-vs-new-england-revolution-football-1490783/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -967,6 +966,10 @@
       "sport": "football",
       "sources": [
         {
+          "name": "delta",
+          "iframe": "<iframe title=\"Los Angeles FC vs Inter Miami\" src=\"https://embedsports.top/embed/delta/live_mls_los-angeles-inter-miami-live-streaming-503493408/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"Los Angeles FC vs Inter Miami\" src=\"https://embedsports.top/embed/echo/los-angeles-fc-vs-inter-miami-football-1490784/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -989,6 +992,10 @@
       "sport": "football",
       "sources": [
         {
+          "name": "delta",
+          "iframe": "<iframe title=\"San Jose Earthquakes vs Sporting Kansas City\" src=\"https://embedsports.top/embed/delta/live_mls_san-jose-kansas-city-live-streaming-503494704/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
           "name": "echo",
           "iframe": "<iframe title=\"San Jose Earthquakes vs Sporting Kansas City\" src=\"https://embedsports.top/embed/echo/san-jose-earthquakes-vs-sporting-kansas-city-football-1490787/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
@@ -999,6 +1006,10 @@
       "date": 1771731000000,
       "sport": "football",
       "sources": [
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"Portland Timbers vs Columbus Crew\" src=\"https://embedsports.top/embed/delta/live_mls_portland-columbus-live-streaming-503493840/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
         {
           "name": "echo",
           "iframe": "<iframe title=\"Portland Timbers vs Columbus Crew\" src=\"https://embedsports.top/embed/echo/portland-timbers-vs-columbus-crew-football-1490785/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -2351,7 +2362,7 @@
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Pittsburgh Pirates vs Tampa Bay Rays\" src=\"https://embedsports.top/embed/echo/philadelphia-phillies-vs-pittsburgh-pirates-baseball-180141/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Pittsburgh Pirates vs Tampa Bay Rays\" src=\"https://embedsports.top/embed/echo/pittsburgh-pirates-vs-tampa-bay-rays-baseball-180140/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
           "name": "golf",
@@ -2915,6 +2926,17 @@
       ]
     },
     {
+      "title": " American Sprint Car Series",
+      "date": 1771710327000,
+      "sport": "other",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\" American Sprint Car Series\" src=\"https://embedsports.top/embed/echo/ppv-event-16-american-sprint-car-series-game-16/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "4pm WOW FC 26",
       "date": 1771707638000,
       "sport": "other",
@@ -2988,17 +3010,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Cage Wariors 200\" src=\"https://embedsports.top/embed/echo/ppv-event-05-cage-wariors-200-ppv-05/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": " American Sprint Car Series",
-      "date": 1771710327000,
-      "sport": "other",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\" American Sprint Car Series\" src=\"https://embedsports.top/embed/echo/ppv-event-16-american-sprint-car-series-game-16/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
