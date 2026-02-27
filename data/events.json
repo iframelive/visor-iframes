@@ -1,17 +1,6 @@
 {
-  "updated_at": "27/02/2026 16:00",
+  "updated_at": "27/02/2026 16:10",
   "events": [
-    {
-      "title": "Ukraine Basketball vs Spain Basketball",
-      "date": 1772197200000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Ukraine Basketball vs Spain Basketball\" src=\"https://embedsports.top/embed/echo/ukraine-vs-spain-basketball-485536/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
     {
       "title": "NFL Streams Schedule",
       "date": 0,
@@ -1938,17 +1927,6 @@
       ]
     },
     {
-      "title": "Brighton & Hove Albion vs. Nottingham Forest",
-      "date": 1772373600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Nottingham Forest\" src=\"https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-nottingham-forest/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Fulham vs. Tottenham Hotspur",
       "date": 1772373600000,
       "sport": "football",
@@ -1956,6 +1934,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Fulham vs. Tottenham Hotspur\" src=\"https://embedsports.top/embed/admin/ppv-fulham-vs-tottenham-hotspur/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Brighton & Hove Albion vs. Nottingham Forest",
+      "date": 1772373600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Brighton & Hove Albion vs. Nottingham Forest\" src=\"https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-nottingham-forest/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2004,6 +1993,17 @@
       ]
     },
     {
+      "title": "Lille vs. Nantes",
+      "date": 1772381700000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"Lille vs. Nantes\" src=\"https://embedsports.top/embed/admin/ppv-lille-vs-nantes/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Lorient vs. AJ Auxerre",
       "date": 1772381700000,
       "sport": "football",
@@ -2022,17 +2022,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Metz vs. Brest\" src=\"https://embedsports.top/embed/admin/ppv-metz-vs-brest/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Lille vs. Nantes",
-      "date": 1772381700000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Lille vs. Nantes\" src=\"https://embedsports.top/embed/admin/ppv-lille-vs-nantes/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2169,6 +2158,17 @@
       ]
     },
     {
+      "title": "Schwenninger vs Frankfurt Lowen",
+      "date": 1772217000000,
+      "sport": "hockey",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Schwenninger vs Frankfurt Lowen\" src=\"https://embedsports.top/embed/echo/schwenninger-vs-frankfurt-lowen-hockey-409087/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Kolner vs ERC Ingolstadt",
       "date": 1772217000000,
       "sport": "hockey",
@@ -2187,17 +2187,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Bremerhaven vs Adler Mannheim\" src=\"https://embedsports.top/embed/echo/bremerhaven-vs-adler-mannheim-hockey-409092/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Schwenninger vs Frankfurt Lowen",
-      "date": 1772217000000,
-      "sport": "hockey",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Schwenninger vs Frankfurt Lowen\" src=\"https://embedsports.top/embed/echo/schwenninger-vs-frankfurt-lowen-hockey-409087/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2443,7 +2432,7 @@
         },
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Detroit Tigers vs Philadelphia Phillies\" src=\"https://embedsports.top/embed/echo/philadelphia-phillies-vs-miami-marlins-baseball-180213/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Detroit Tigers vs Philadelphia Phillies\" src=\"https://embedsports.top/embed/echo/detroit-tigers-vs-philadelphia-phillies-baseball-180223/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
           "name": "golf",
@@ -2725,13 +2714,13 @@
       ]
     },
     {
-      "title": "Australian Grand Prix - Practice 2",
-      "date": 1772773200000,
+      "title": "Australian Grand Prix - Practice 1",
+      "date": 1772760600000,
       "sport": "motor-sports",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Australian Grand Prix - Practice 2\" src=\"https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-2/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Australian Grand Prix - Practice 1\" src=\"https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
