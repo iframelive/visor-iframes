@@ -1,5 +1,5 @@
 {
-  "updated_at": "28/02/2026 23:00",
+  "updated_at": "28/02/2026 23:10",
   "events": [
     {
       "title": "West Virginia Mountaineers vs Brigham Young Cougars",
@@ -627,17 +627,6 @@
       ]
     },
     {
-      "title": "Boston Celtics vs Philadelphia 76ers",
-      "date": 1772413200000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Boston Celtics vs Philadelphia 76ers\" src=\"https://embedsports.top/embed/echo/boston-celtics-vs-philadelphia-76ers-basketball-470353/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Dallas Mavericks vs Oklahoma City Thunder",
       "date": 1772413200000,
       "sport": "basketball",
@@ -645,6 +634,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Dallas Mavericks vs Oklahoma City Thunder\" src=\"https://embedsports.top/embed/echo/dallas-mavericks-vs-oklahoma-city-thunder-basketball-470355/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Boston Celtics vs Philadelphia 76ers",
+      "date": 1772413200000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Boston Celtics vs Philadelphia 76ers\" src=\"https://embedsports.top/embed/echo/boston-celtics-vs-philadelphia-76ers-basketball-470353/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -807,36 +807,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Le Havre vs Paris SG\" src=\"https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-paris-saint-germain/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Le Havre vs Paris SG\" src=\"https://embedsports.top/embed/delta/live_ligue-1_le-havre-psg-live-streaming-471562992/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Le Havre vs Paris SG\" src=\"https://embedsports.top/embed/echo/le-havre-vs-paris-saint-germain-football-1387905/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Oviedo vs Atletico Madrid",
-      "date": 1772308800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Oviedo vs Atletico Madrid\" src=\"https://embedsports.top/embed/echo/oviedo-vs-atletico-madrid-football-1391077/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Castellón vs Racing de Santander",
-      "date": 1772308800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Castellón vs Racing de Santander\" src=\"https://embedsports.top/embed/echo/castellon-vs-racing-santander-football-1392064/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -848,21 +818,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Real Oviedo vs Atlético Madrid\" src=\"https://embedsports.top/embed/admin/ppv-real-oviedo-vs-atl-tico-madrid/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Real Oviedo vs Atlético Madrid\" src=\"https://embedsports.top/embed/delta/live_laliga_real-oviedo-atl-madrid-live-streaming-471698640/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "NEC Nijmegen vs Fortuna Sittard",
-      "date": 1772308800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"NEC Nijmegen vs Fortuna Sittard\" src=\"https://embedsports.top/embed/echo/nec-nijmegen-vs-fortuna-sittard-football-1381087/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -885,28 +840,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Egypt U19 vs Iraq U19\" src=\"https://embedsports.top/embed/echo/egypt-u19-vs-iraq-u19-football-1527853/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "New York Red Bulls vs New England Revolution",
-      "date": 1772307000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"New York Red Bulls vs New England Revolution\" src=\"https://embedsports.top/embed/delta/live_mls_ny-red-bulls-new-england-live-streaming-471584160/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Chicago Fire vs CF Montréal",
-      "date": 1772307000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"Chicago Fire vs CF Montréal\" src=\"https://embedsports.top/embed/delta/live_mls_chicago-montreal-live-streaming-471583728/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1474,17 +1407,6 @@
       ]
     },
     {
-      "title": "Mirandes vs AD Ceuta FC",
-      "date": 1772378100000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Mirandes vs AD Ceuta FC\" src=\"https://embedsports.top/embed/echo/mirandes-vs-ad-ceuta-fc-football-1392070/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Sporting Gijon vs Leganes",
       "date": 1772378100000,
       "sport": "football",
@@ -1492,6 +1414,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Sporting Gijon vs Leganes\" src=\"https://embedsports.top/embed/echo/sporting-gijon-vs-leganes-football-1392065/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Mirandes vs AD Ceuta FC",
+      "date": 1772378100000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Mirandes vs AD Ceuta FC\" src=\"https://embedsports.top/embed/echo/mirandes-vs-ad-ceuta-fc-football-1392070/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1588,6 +1521,17 @@
       ]
     },
     {
+      "title": "Viborg vs FC Nordsjaelland",
+      "date": 1772380800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Viborg vs FC Nordsjaelland\" src=\"https://embedsports.top/embed/echo/viborg-vs-fc-nordsjaelland-football-1379480/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Sonderjyske vs Odense",
       "date": 1772380800000,
       "sport": "football",
@@ -1606,17 +1550,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"FC Midtjylland vs Brondby\" src=\"https://embedsports.top/embed/echo/fc-midtjylland-vs-brondby-football-1379477/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Viborg vs FC Nordsjaelland",
-      "date": 1772380800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Viborg vs FC Nordsjaelland\" src=\"https://embedsports.top/embed/echo/viborg-vs-fc-nordsjaelland-football-1379480/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3254,13 +3187,13 @@
       ]
     },
     {
-      "title": "Australian Grand Prix - Practice 1",
-      "date": 1772760600000,
+      "title": "Australian Grand Prix - Practice 2",
+      "date": 1772773200000,
       "sport": "motor-sports",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Australian Grand Prix - Practice 1\" src=\"https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Australian Grand Prix - Practice 2\" src=\"https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-2/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3320,6 +3253,36 @@
       ]
     },
     {
+      "title": "Wes Schultz vs Damian Pinas",
+      "date": 1772316000000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Wes Schultz vs Damian Pinas\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-moreno-vs-kavanagh-mma-2464/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "UFC Fight Night 268 Moreno vs Kavanagh",
+      "date": 1772316000000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"UFC Fight Night 268 Moreno vs Kavanagh\" src=\"https://embedsports.top/embed/admin/ppv-ufc-fight-night-moreno-vs-kavanagh-main-card/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "delta",
+          "iframe": "<iframe title=\"UFC Fight Night 268 Moreno vs Kavanagh\" src=\"https://embedsports.top/embed/delta/live-event_ufc-fight-night-moreno-vs-almabayev-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"UFC Fight Night 268 Moreno vs Kavanagh\" src=\"https://embedsports.top/embed/echo/ppv-event-01-ufc-fight-night-moreno-v-kavanagh-ppv-001/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Pierce vs Parra",
       "date": 1772312400000,
       "sport": "fight",
@@ -3369,32 +3332,13 @@
       ]
     },
     {
-      "title": "Wes Schultz vs Damian Pinas",
-      "date": 1772316000000,
+      "title": "Francis Marshall vs Erik Silva",
+      "date": 1772319600000,
       "sport": "fight",
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Wes Schultz vs Damian Pinas\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-moreno-vs-kavanagh-mma-2464/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "UFC Fight Night 268 Moreno vs Kavanagh",
-      "date": 1772316000000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"UFC Fight Night 268 Moreno vs Kavanagh\" src=\"https://embedsports.top/embed/admin/ppv-ufc-fight-night-moreno-vs-kavanagh-prelims/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "delta",
-          "iframe": "<iframe title=\"UFC Fight Night 268 Moreno vs Kavanagh\" src=\"https://embedsports.top/embed/delta/live-event_ufc-fight-night-moreno-vs-almabayev-live-stream/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"UFC Fight Night 268 Moreno vs Kavanagh\" src=\"https://embedsports.top/embed/echo/ppv-event-01-ufc-fight-night-moreno-v-kavanagh-ppv-001/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Francis Marshall vs Erik Silva\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-moreno-vs-kavanagh-mma-2518/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3406,17 +3350,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Kris Moutinho vs Cristian QuiÃ±onez\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-moreno-vs-kavanagh-mma-2465/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Francis Marshall vs Erik Silva",
-      "date": 1772319600000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Francis Marshall vs Erik Silva\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-moreno-vs-kavanagh-mma-2518/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
