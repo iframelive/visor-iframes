@@ -1,5 +1,5 @@
 {
-  "updated_at": "28/02/2026 17:20",
+  "updated_at": "28/02/2026 17:30",
   "events": [
     {
       "title": "NFL Streams Schedule",
@@ -2166,17 +2166,6 @@
       ]
     },
     {
-      "title": "Sonderjyske vs Odense",
-      "date": 1772380800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Sonderjyske vs Odense\" src=\"https://embedsports.top/embed/echo/sonderjyske-vs-odense-football-1379478/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "FC Midtjylland vs Brondby",
       "date": 1772380800000,
       "sport": "football",
@@ -2184,6 +2173,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"FC Midtjylland vs Brondby\" src=\"https://embedsports.top/embed/echo/fc-midtjylland-vs-brondby-football-1379477/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Sonderjyske vs Odense",
+      "date": 1772380800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Sonderjyske vs Odense\" src=\"https://embedsports.top/embed/echo/sonderjyske-vs-odense-football-1379478/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3371,17 +3371,6 @@
       ]
     },
     {
-      "title": "Kris Moutinho vs Cristian QuiÃ±onez",
-      "date": 1772319600000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Kris Moutinho vs Cristian QuiÃ±onez\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-moreno-vs-kavanagh-mma-2465/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Francis Marshall vs Erik Silva",
       "date": 1772319600000,
       "sport": "fight",
@@ -3389,6 +3378,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Francis Marshall vs Erik Silva\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-moreno-vs-kavanagh-mma-2518/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Kris Moutinho vs Cristian QuiÃ±onez",
+      "date": 1772319600000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Kris Moutinho vs Cristian QuiÃ±onez\" src=\"https://embedsports.top/embed/echo/ufc-fight-night-moreno-vs-kavanagh-mma-2465/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
