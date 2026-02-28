@@ -1,5 +1,5 @@
 {
-  "updated_at": "28/02/2026 16:10",
+  "updated_at": "28/02/2026 16:20",
   "events": [
     {
       "title": "NFL Streams Schedule",
@@ -928,17 +928,6 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"Rayo Vallecano vs Athletic Bilbao\" src=\"https://embedsports.top/embed/admin/ppv-rayo-vallecano-vs-athletic-club/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Bournemouth vs Sunderland",
-      "date": 1772281800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Bournemouth vs Sunderland\" src=\"https://embedsports.top/embed/admin/ppv-afc-bournemouth-vs-sunderland/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2057,6 +2046,10 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Brighton and Hove Albion vs Nottingham Forest\" src=\"https://embedsports.top/embed/echo/brighton-vs-nottingham-forest-football-1379241/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "golf",
+          "iframe": "<iframe title=\"Brighton and Hove Albion vs Nottingham Forest\" src=\"https://embedsports.top/embed/golf/20042/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2072,6 +2065,10 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Manchester United vs Crystal Palace\" src=\"https://embedsports.top/embed/echo/manchester-united-vs-crystal-palace-football-1379246/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "golf",
+          "iframe": "<iframe title=\"Manchester United vs Crystal Palace\" src=\"https://embedsports.top/embed/golf/20044/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2087,6 +2084,10 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Fulham vs Tottenham Hotspur\" src=\"https://embedsports.top/embed/echo/fulham-vs-tottenham-football-1379243/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "golf",
+          "iframe": "<iframe title=\"Fulham vs Tottenham Hotspur\" src=\"https://embedsports.top/embed/golf/20043/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2792,17 +2793,6 @@
       ]
     },
     {
-      "title": "Frankfurt Lowen vs Grizzly Wolfsburg",
-      "date": 1772370000000,
-      "sport": "hockey",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Frankfurt Lowen vs Grizzly Wolfsburg\" src=\"https://embedsports.top/embed/echo/frankfurt-lowen-vs-grizzly-wolfsburg-hockey-409094/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Eisbaren Berlin vs Bremerhaven",
       "date": 1772370000000,
       "sport": "hockey",
@@ -2810,6 +2800,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Eisbaren Berlin vs Bremerhaven\" src=\"https://embedsports.top/embed/echo/eisbaren-berlin-vs-bremerhaven-hockey-409093/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Frankfurt Lowen vs Grizzly Wolfsburg",
+      "date": 1772370000000,
+      "sport": "hockey",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Frankfurt Lowen vs Grizzly Wolfsburg\" src=\"https://embedsports.top/embed/echo/frankfurt-lowen-vs-grizzly-wolfsburg-hockey-409094/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3303,13 +3304,13 @@
       ]
     },
     {
-      "title": "Australian Grand Prix - Practice 1",
-      "date": 1772760600000,
+      "title": "Australian Grand Prix - Practice 2",
+      "date": 1772773200000,
       "sport": "motor-sports",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"Australian Grand Prix - Practice 1\" src=\"https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-1/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Australian Grand Prix - Practice 2\" src=\"https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-2/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
