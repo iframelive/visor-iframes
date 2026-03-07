@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/03/2026 22:40",
+  "updated_at": "07/03/2026 22:50",
   "events": [
     {
       "title": "Syracuse vs Pittsburgh",
@@ -35,6 +35,10 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"George Mason vs Saint Louis\" src=\"https://embedsports.top/embed/admin/ppv-saint-louis-billikens-vs-george-mason-patriots-basketball/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        },
+        {
+          "name": "alpha",
+          "iframe": "<iframe title=\"George Mason vs Saint Louis\" src=\"https://embedsports.top/embed/alpha/25-saint-louis-vs-george-mason/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
           "name": "delta",
@@ -84,28 +88,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Kentucky vs Florida\" src=\"https://embedsports.top/embed/delta/live_ncaa_kentucky-florida-live-streaming-465162048/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "ATP Indian Wells: Karen Khachanov vs Joao Fonseca",
-      "date": 1772913600000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"ATP Indian Wells: Karen Khachanov vs Joao Fonseca\" src=\"https://embedsports.top/embed/alpha/atp-indian-wells-karen-khachanov-vs-joao-fonseca/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "NHRA Drag Racing Gatornationals TF All-Star Callout",
-      "date": 1772913600000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"NHRA Drag Racing Gatornationals TF All-Star Callout\" src=\"https://embedsports.top/embed/alpha/nhra-drag-racing-gatornationals-tf-all-star-callout/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -207,17 +189,6 @@
       ]
     },
     {
-      "title": "Yale vs Princeton",
-      "date": 1772910000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Yale vs Princeton\" src=\"https://embedsports.top/embed/alpha/princeton-vs-yale/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Miami vs Louisville",
       "date": 1772910000000,
       "sport": "basketball",
@@ -255,17 +226,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Iowa State vs Arizona State\" src=\"https://embedsports.top/embed/alpha/arizona-state-vs-6-iowa-state/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Vermont vs Bryant",
-      "date": 1772910000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Vermont vs Bryant\" src=\"https://embedsports.top/embed/alpha/bryant-vs-vermont/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -340,17 +300,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"WKU vs FIU\" src=\"https://embedsports.top/embed/alpha/wku-vs-fiu/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Wagner vs LIU",
-      "date": 1772906400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Wagner vs LIU\" src=\"https://embedsports.top/embed/alpha/wagner-vs-liu/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -861,17 +810,6 @@
       ]
     },
     {
-      "title": "Portland Trail Blazers vs Indiana Pacers",
-      "date": 1773018000000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Portland Trail Blazers vs Indiana Pacers\" src=\"https://embedsports.top/embed/echo/portland-trail-blazers-vs-indiana-pacers-basketball-470408/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Sacramento Kings vs Chicago Bulls",
       "date": 1773018000000,
       "sport": "basketball",
@@ -879,6 +817,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Sacramento Kings vs Chicago Bulls\" src=\"https://embedsports.top/embed/echo/sacramento-kings-vs-chicago-bulls-basketball-470409/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Portland Trail Blazers vs Indiana Pacers",
+      "date": 1773018000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Portland Trail Blazers vs Indiana Pacers\" src=\"https://embedsports.top/embed/echo/portland-trail-blazers-vs-indiana-pacers-basketball-470408/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1226,17 +1175,6 @@
       ]
     },
     {
-      "title": "Netherlands W vs Republic of Ireland",
-      "date": 1772912700000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Netherlands W vs Republic of Ireland\" src=\"https://embedsports.top/embed/echo/netherlands-w-vs-republic-of-ireland-football-1523845/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Jupiler Pro League: Union St. Gilloise vs Genk",
       "date": 1772912700000,
       "sport": "football",
@@ -1255,10 +1193,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Sligo Rovers vs Drogheda United\" src=\"https://embedsports.top/embed/alpha/sligo-rovers-vs-drogheda/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Sligo Rovers vs Drogheda United\" src=\"https://embedsports.top/embed/echo/sligo-rovers-vs-drogheda-united-football-1492640/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1282,10 +1216,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Juventus vs Pisa\" src=\"https://embedsports.top/embed/delta/live_serie-a_juventus-pisa-live-streaming-472004928/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Juventus vs Pisa\" src=\"https://embedsports.top/embed/echo/juventus-vs-pisa-football-1378139/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1334,10 +1264,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"New York City FC vs Orlando City\" src=\"https://embedsports.top/embed/delta/live_mls_ny-city-orlando-live-streaming-471897792/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"New York City FC vs Orlando City\" src=\"https://embedsports.top/embed/echo/new-york-city-fc-vs-orlando-city-sc-football-1490135/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1904,17 +1830,6 @@
       ]
     },
     {
-      "title": "Racing Club vs Huracan",
-      "date": 1772929800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Racing Club vs Huracan\" src=\"https://embedsports.top/embed/echo/racing-club-vs-huracan-football-1491947/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Belgrano Cordoba vs Sarmiento Junin",
       "date": 1772929800000,
       "sport": "football",
@@ -1922,6 +1837,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Belgrano Cordoba vs Sarmiento Junin\" src=\"https://embedsports.top/embed/echo/belgrano-cordoba-vs-sarmiento-junin-football-1491940/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Racing Club vs Huracan",
+      "date": 1772929800000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Racing Club vs Huracan\" src=\"https://embedsports.top/embed/echo/racing-club-vs-huracan-football-1491947/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3213,17 +3139,6 @@
       ]
     },
     {
-      "title": "EHC Kloten vs Lugano",
-      "date": 1772909100000,
-      "sport": "hockey",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"EHC Kloten vs Lugano\" src=\"https://embedsports.top/embed/alpha/lugano-vs-luzern/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "HCMP vs Cholet",
       "date": 1772908200000,
       "sport": "hockey",
@@ -3288,6 +3203,17 @@
         {
           "name": "golf",
           "iframe": "<iframe title=\"Pittsburgh Penguins vs Philadelphia Flyers\" src=\"https://embedsports.top/embed/golf/20237/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Vermont vs Maine",
+      "date": 1772928000000,
+      "sport": "hockey",
+      "sources": [
+        {
+          "name": "alpha",
+          "iframe": "<iframe title=\"Vermont vs Maine\" src=\"https://embedsports.top/embed/alpha/maine-vs-njit/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3647,7 +3573,7 @@
         },
         {
           "name": "delta",
-          "iframe": "<iframe title=\"Athletics vs Los Angeles Angels\" src=\"https://embedsports.top/embed/delta/live_mlb_angels-brewers-live-streaming-513204768/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Athletics vs Los Angeles Angels\" src=\"https://embedsports.top/embed/delta/live_mlb_cubs-athletics-live-streaming-513202608/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
           "name": "echo",
@@ -3793,25 +3719,10 @@
       ]
     },
     {
-      "title": "Baltimore Orioles vs. Atlanta Braves",
-      "date": 1772906700000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Baltimore Orioles vs. Atlanta Braves\" src=\"https://embedsports.top/embed/admin/ppv-baltimore-orioles-vs-atlanta-braves/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Detroit Tigers vs Pittsburgh Pirates",
       "date": 1772906700000,
       "sport": "baseball",
       "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Detroit Tigers vs Pittsburgh Pirates\" src=\"https://embedsports.top/embed/admin/ppv-pittsburgh-pirates-vs-detroit-tigers/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Detroit Tigers vs Pittsburgh Pirates\" src=\"https://embedsports.top/embed/alpha/detroit-tigers-vs-pittsburgh-pirates/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -3843,10 +3754,6 @@
       "sport": "baseball",
       "sources": [
         {
-          "name": "admin",
-          "iframe": "<iframe title=\"Boston Red Sox vs Tampa Bay Rays\" src=\"https://embedsports.top/embed/admin/ppv-tampa-bay-rays-vs-boston-red-sox/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
           "name": "alpha",
           "iframe": "<iframe title=\"Boston Red Sox vs Tampa Bay Rays\" src=\"https://embedsports.top/embed/alpha/boston-red-sox-vs-tampa-bay-rays/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
@@ -3862,10 +3769,6 @@
       "sport": "baseball",
       "sources": [
         {
-          "name": "admin",
-          "iframe": "<iframe title=\"St. Louis Cardinals vs New York Mets\" src=\"https://embedsports.top/embed/admin/ppv-new-york-mets-vs-st-louis-cardinals/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
           "name": "alpha",
           "iframe": "<iframe title=\"St. Louis Cardinals vs New York Mets\" src=\"https://embedsports.top/embed/alpha/st-louis-cardinals-vs-new-york-mets/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
@@ -3880,10 +3783,6 @@
       "date": 1772906700000,
       "sport": "baseball",
       "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"Philadelphia Phillies vs Toronto Blue Jays\" src=\"https://embedsports.top/embed/admin/ppv-toronto-blue-jays-vs-philadelphia-phillies/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Philadelphia Phillies vs Toronto Blue Jays\" src=\"https://embedsports.top/embed/alpha/philadelphia-phillies-vs-toronto-blue-jays/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
@@ -3924,17 +3823,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Italy Baseball vs Brazil Baseball\" src=\"https://embedsports.top/embed/alpha/italy-vs-brazil/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Houston Astros vs Miami Marlins",
-      "date": 1772903100000,
-      "sport": "baseball",
-      "sources": [
-        {
-          "name": "golf",
-          "iframe": "<iframe title=\"Houston Astros vs Miami Marlins\" src=\"https://embedsports.top/embed/golf/20299/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
