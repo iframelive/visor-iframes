@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/03/2026 20:00",
+  "updated_at": "07/03/2026 20:10",
   "events": [
     {
       "title": "Loyola-Chicago vs George Washington",
@@ -322,10 +322,6 @@
       "sport": "basketball",
       "sources": [
         {
-          "name": "admin",
-          "iframe": "<iframe title=\"Virginia vs Virginia Tech\" src=\"https://embedsports.top/embed/admin/ppv-virginia-tech-hokies-vs-virginia-cavaliers-basketball/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
           "name": "alpha",
           "iframe": "<iframe title=\"Virginia vs Virginia Tech\" src=\"https://embedsports.top/embed/alpha/virginia-tech-vs-13-virginia/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
@@ -400,17 +396,6 @@
       ]
     },
     {
-      "title": "Gipuzkoa Basket vs Club Ourense Baloncesto",
-      "date": 1772902800000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Gipuzkoa Basket vs Club Ourense Baloncesto\" src=\"https://embedsports.top/embed/alpha/gipuzkoa-vs-ourense/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "4 UConn vs Marquette",
       "date": 1772901000000,
       "sport": "basketball",
@@ -440,17 +425,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Peristeri BC vs Panionios BC\" src=\"https://embedsports.top/embed/alpha/peristeri-vs-panionios/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Aris BC vs Maroussi B.C.",
-      "date": 1772900100000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Aris BC vs Maroussi B.C.\" src=\"https://embedsports.top/embed/alpha/aris-vs-maroussi/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1069,17 +1043,6 @@
       ]
     },
     {
-      "title": "Milwaukee Bucks vs Orlando Magic",
-      "date": 1773014400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Milwaukee Bucks vs Orlando Magic\" src=\"https://embedsports.top/embed/echo/milwaukee-bucks-vs-orlando-magic-basketball-470405/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "San Antonio Spurs vs Houston Rockets",
       "date": 1773014400000,
       "sport": "basketball",
@@ -1091,13 +1054,13 @@
       ]
     },
     {
-      "title": "Portland Trail Blazers vs Indiana Pacers",
-      "date": 1773018000000,
+      "title": "Milwaukee Bucks vs Orlando Magic",
+      "date": 1773014400000,
       "sport": "basketball",
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Portland Trail Blazers vs Indiana Pacers\" src=\"https://embedsports.top/embed/echo/portland-trail-blazers-vs-indiana-pacers-basketball-470408/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Milwaukee Bucks vs Orlando Magic\" src=\"https://embedsports.top/embed/echo/milwaukee-bucks-vs-orlando-magic-basketball-470405/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1109,6 +1072,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Sacramento Kings vs Chicago Bulls\" src=\"https://embedsports.top/embed/echo/sacramento-kings-vs-chicago-bulls-basketball-470409/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Portland Trail Blazers vs Indiana Pacers",
+      "date": 1773018000000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Portland Trail Blazers vs Indiana Pacers\" src=\"https://embedsports.top/embed/echo/portland-trail-blazers-vs-indiana-pacers-basketball-470408/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1287,28 +1261,6 @@
       ]
     },
     {
-      "title": "Újpest vs Paks",
-      "date": 1772908200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Újpest vs Paks\" src=\"https://embedsports.top/embed/alpha/ujpest-vs-paks/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "BM Guadalajara vs CB Cangas",
-      "date": 1772908200000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"BM Guadalajara vs CB Cangas\" src=\"https://embedsports.top/embed/alpha/quabit-guadalajara-vs-morrazo-cangas/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Gibraltar Women vs Bulgaria Women",
       "date": 1772906400000,
       "sport": "football",
@@ -1414,13 +1366,35 @@
       ]
     },
     {
-      "title": "Al Jahra vs Al Naser",
+      "title": "Bahrain SC vs Al Riffa",
       "date": 1772904600000,
       "sport": "football",
       "sources": [
         {
           "name": "alpha",
-          "iframe": "<iframe title=\"Al Jahra vs Al Naser\" src=\"https://embedsports.top/embed/alpha/al-jahra-vs-al-naser/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Bahrain SC vs Al Riffa\" src=\"https://embedsports.top/embed/alpha/bahrain-sc-vs-al-riffa/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Al-Ahli Manama vs Al-Ittifaq",
+      "date": 1772904600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "alpha",
+          "iframe": "<iframe title=\"Al-Ahli Manama vs Al-Ittifaq\" src=\"https://embedsports.top/embed/alpha/al-ahli-manama-vs-al-ittifaq/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Chrobry Glogow vs Grodzisk M.",
+      "date": 1772904600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "alpha",
+          "iframe": "<iframe title=\"Chrobry Glogow vs Grodzisk M.\" src=\"https://embedsports.top/embed/alpha/chrobry-glogow-vs-grodzisk-m/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1538,17 +1512,6 @@
       ]
     },
     {
-      "title": "Albania W vs Czech Republic W",
-      "date": 1772902800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Albania W vs Czech Republic W\" src=\"https://embedsports.top/embed/echo/albania-w-vs-czech-republic-w-football-1523836/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Atalanta vs Udinese",
       "date": 1772902800000,
       "sport": "football",
@@ -1568,10 +1531,6 @@
         {
           "name": "delta",
           "iframe": "<iframe title=\"Atalanta vs Udinese\" src=\"https://embedsports.top/embed/delta/live_serie-a_atalanta-udinese-live-streaming-472002768/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Atalanta vs Udinese\" src=\"https://embedsports.top/embed/echo/atalanta-vs-udinese-football-1378134/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1587,17 +1546,6 @@
       ]
     },
     {
-      "title": "Ukraine Women vs Spain Women",
-      "date": 1772902800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Ukraine Women vs Spain Women\" src=\"https://embedsports.top/embed/echo/ukraine-w-vs-spain-w-football-1523840/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Beşiktaş vs Galatasaray",
       "date": 1772902800000,
       "sport": "football",
@@ -1605,28 +1553,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Beşiktaş vs Galatasaray\" src=\"https://embedsports.top/embed/echo/besiktas-vs-galatasaray-football-1394651/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Scotland Women vs Luxembourg Women",
-      "date": 1772902800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Scotland Women vs Luxembourg Women\" src=\"https://embedsports.top/embed/echo/scotland-w-vs-luxembourg-w-football-1523851/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Norway Women vs Germany Women",
-      "date": 1772902800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Norway Women vs Germany Women\" src=\"https://embedsports.top/embed/echo/norway-w-vs-germany-w-football-1523838/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1653,6 +1579,17 @@
       ]
     },
     {
+      "title": "Ekstraklasa: Piast Gliwice vs Zaglebie Lubin",
+      "date": 1772901000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "charlie",
+          "iframe": "<iframe title=\"Ekstraklasa: Piast Gliwice vs Zaglebie Lubin\" src=\"https://embedsports.top/embed/charlie/piast-gliwice-vs-zaglebie-lubin-1380595/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
       "title": "Burgos vs Mirandes",
       "date": 1772901000000,
       "sport": "football",
@@ -1664,17 +1601,6 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Burgos vs Mirandes\" src=\"https://embedsports.top/embed/echo/burgos-vs-mirandes-football-1392080/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Mura vs Primorje",
-      "date": 1772901000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Mura vs Primorje\" src=\"https://embedsports.top/embed/alpha/mura-vs-primorje/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1723,10 +1649,6 @@
         {
           "name": "alpha",
           "iframe": "<iframe title=\"Servette vs Zurich\" src=\"https://embedsports.top/embed/alpha/servette-vs-zurich/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Servette vs Zurich\" src=\"https://embedsports.top/embed/echo/servette-fc-vs-fc-zurich-football-1494566/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1738,21 +1660,6 @@
         {
           "name": "charlie",
           "iframe": "<iframe title=\"Nantes vs Angers\" src=\"https://embedsports.top/embed/charlie/nantes-vs-angers-1387919/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
-      "title": "Piast Gliwice vs Zaglebie",
-      "date": 1772897400000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "alpha",
-          "iframe": "<iframe title=\"Piast Gliwice vs Zaglebie\" src=\"https://embedsports.top/embed/alpha/piast-gliwice-vs-zaglebie/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "charlie",
-          "iframe": "<iframe title=\"Piast Gliwice vs Zaglebie\" src=\"https://embedsports.top/embed/charlie/piast-gliwice-vs-zaglebie-lubin-1380595/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2087,17 +1994,6 @@
       ]
     },
     {
-      "title": "Kashima Antlers vs Tokyo Verdy",
-      "date": 1772866800000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "charlie",
-          "iframe": "<iframe title=\"Kashima Antlers vs Tokyo Verdy\" src=\"https://embedsports.top/embed/charlie/kashima-vs-tokyo-verdy-1504695/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Sky Sports News | SSN Breaking Sports News",
       "date": 0,
       "sport": "football",
@@ -2294,6 +2190,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Aldosivi vs Independ. Rivadavia\" src=\"https://embedsports.top/embed/echo/aldosivi-vs-independ-rivadavia-football-1491938/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "La Liga: Athletic Club vs Barcelona",
+      "date": 1772913600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "charlie",
+          "iframe": "<iframe title=\"La Liga: Athletic Club vs Barcelona\" src=\"https://embedsports.top/embed/charlie/athletic-club-vs-barcelona-1391079/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4082,17 +3989,6 @@
       ]
     },
     {
-      "title": "Munchen vs Frankfurt Lowen",
-      "date": 1772974800000,
-      "sport": "hockey",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Munchen vs Frankfurt Lowen\" src=\"https://embedsports.top/embed/echo/munchen-vs-frankfurt-lowen-hockey-409116/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Kolner vs Eisbaren Berlin",
       "date": 1772974800000,
       "sport": "hockey",
@@ -4100,6 +3996,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Kolner vs Eisbaren Berlin\" src=\"https://embedsports.top/embed/echo/kolner-vs-eisbaren-berlin-hockey-409115/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Munchen vs Frankfurt Lowen",
+      "date": 1772974800000,
+      "sport": "hockey",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Munchen vs Frankfurt Lowen\" src=\"https://embedsports.top/embed/echo/munchen-vs-frankfurt-lowen-hockey-409116/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -5470,17 +5377,6 @@
       ]
     },
     {
-      "title": "OKTAGON 85 (German)",
-      "date": 1772902800000,
-      "sport": "fight",
-      "sources": [
-        {
-          "name": "admin",
-          "iframe": "<iframe title=\"OKTAGON 85 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-85-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "OKTAGON 85 (Czech)",
       "date": 1772902800000,
       "sport": "fight",
@@ -5488,6 +5384,17 @@
         {
           "name": "admin",
           "iframe": "<iframe title=\"OKTAGON 85 (Czech)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-85-czech/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "OKTAGON 85 (German)",
+      "date": 1772902800000,
+      "sport": "fight",
+      "sources": [
+        {
+          "name": "admin",
+          "iframe": "<iframe title=\"OKTAGON 85 (German)\" src=\"https://embedsports.top/embed/admin/ppv-oktagon-85-german/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -5982,17 +5889,13 @@
       ]
     },
     {
-      "title": "LIV Golf: Hong Kong Round 4",
-      "date": 1772949600000,
+      "title": "Hong Kong Final Round",
+      "date": 1772942700000,
       "sport": "golf",
       "sources": [
         {
           "name": "charlie",
-          "iframe": "<iframe title=\"LIV Golf: Hong Kong Round 4\" src=\"https://embedsports.top/embed/charlie/hong-kong-round-4-1629486290/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        },
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"LIV Golf: Hong Kong Round 4\" src=\"https://embedsports.top/embed/echo/liv-golf-hong-kong-hsbc-liv-golf-hong-kong-game-162626/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Hong Kong Final Round\" src=\"https://embedsports.top/embed/charlie/hong-kong-round-4-1629486290/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
