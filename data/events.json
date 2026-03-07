@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/03/2026 23:20",
+  "updated_at": "07/03/2026 23:30",
   "events": [
     {
       "title": "LSU Tigers vs Texas A&M Aggies",
@@ -781,17 +781,6 @@
       ]
     },
     {
-      "title": "Milwaukee Bucks vs Orlando Magic",
-      "date": 1773014400000,
-      "sport": "basketball",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Milwaukee Bucks vs Orlando Magic\" src=\"https://embedsports.top/embed/echo/milwaukee-bucks-vs-orlando-magic-basketball-470405/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "San Antonio Spurs vs Houston Rockets",
       "date": 1773014400000,
       "sport": "basketball",
@@ -799,6 +788,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"San Antonio Spurs vs Houston Rockets\" src=\"https://embedsports.top/embed/echo/san-antonio-spurs-vs-houston-rockets-basketball-470406/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Milwaukee Bucks vs Orlando Magic",
+      "date": 1773014400000,
+      "sport": "basketball",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Milwaukee Bucks vs Orlando Magic\" src=\"https://embedsports.top/embed/echo/milwaukee-bucks-vs-orlando-magic-basketball-470405/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -836,13 +836,13 @@
       ]
     },
     {
-      "title": "ACC Men's Conference Tournament",
-      "date": 1773165600000,
+      "title": "BIG 12 Men's Conference Tournament",
+      "date": 1773160200000,
       "sport": "basketball",
       "sources": [
         {
           "name": "admin",
-          "iframe": "<iframe title=\"ACC Men's Conference Tournament\" src=\"https://embedsports.top/embed/admin/ppv-acc-men-s-conference-tournament/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"BIG 12 Men's Conference Tournament\" src=\"https://embedsports.top/embed/admin/ppv-big-12-men-s-conference-tournament/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -1106,17 +1106,6 @@
       ]
     },
     {
-      "title": "Aldosivi vs Independ. Rivadavia",
-      "date": 1772913600000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Aldosivi vs Independ. Rivadavia\" src=\"https://embedsports.top/embed/echo/aldosivi-vs-independ-rivadavia-football-1491938/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Estudiantes de Rio Cuarto vs Instituto Cordoba",
       "date": 1772913600000,
       "sport": "football",
@@ -1124,6 +1113,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Estudiantes de Rio Cuarto vs Instituto Cordoba\" src=\"https://embedsports.top/embed/echo/estudiantes-de-rio-cuarto-vs-instituto-cordoba-football-1491942/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Aldosivi vs Independ. Rivadavia",
+      "date": 1772913600000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Aldosivi vs Independ. Rivadavia\" src=\"https://embedsports.top/embed/echo/aldosivi-vs-independ-rivadavia-football-1491938/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -2815,17 +2815,6 @@
       ]
     },
     {
-      "title": "Lanus vs Deportivo Riestra",
-      "date": 1773000000000,
-      "sport": "football",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Lanus vs Deportivo Riestra\" src=\"https://embedsports.top/embed/echo/lanus-vs-deportivo-riestra-football-1491945/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Gimnasia L.P. vs Argentinos JRS",
       "date": 1773000000000,
       "sport": "football",
@@ -2833,6 +2822,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Gimnasia L.P. vs Argentinos JRS\" src=\"https://embedsports.top/embed/echo/gimnasia-lp-vs-argentinos-jrs-football-1491943/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Lanus vs Deportivo Riestra",
+      "date": 1773000000000,
+      "sport": "football",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Lanus vs Deportivo Riestra\" src=\"https://embedsports.top/embed/echo/lanus-vs-deportivo-riestra-football-1491945/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -3379,17 +3379,6 @@
       ]
     },
     {
-      "title": "Kolner vs Eisbaren Berlin",
-      "date": 1772974800000,
-      "sport": "hockey",
-      "sources": [
-        {
-          "name": "echo",
-          "iframe": "<iframe title=\"Kolner vs Eisbaren Berlin\" src=\"https://embedsports.top/embed/echo/kolner-vs-eisbaren-berlin-hockey-409115/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
-        }
-      ]
-    },
-    {
       "title": "Munchen vs Frankfurt Lowen",
       "date": 1772974800000,
       "sport": "hockey",
@@ -3397,6 +3386,17 @@
         {
           "name": "echo",
           "iframe": "<iframe title=\"Munchen vs Frankfurt Lowen\" src=\"https://embedsports.top/embed/echo/munchen-vs-frankfurt-lowen-hockey-409116/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+        }
+      ]
+    },
+    {
+      "title": "Kolner vs Eisbaren Berlin",
+      "date": 1772974800000,
+      "sport": "hockey",
+      "sources": [
+        {
+          "name": "echo",
+          "iframe": "<iframe title=\"Kolner vs Eisbaren Berlin\" src=\"https://embedsports.top/embed/echo/kolner-vs-eisbaren-berlin-hockey-409115/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         }
       ]
     },
@@ -4204,7 +4204,7 @@
       "sources": [
         {
           "name": "echo",
-          "iframe": "<iframe title=\"Texas Rangers vs Los Angeles Angels\" src=\"https://embedsports.top/embed/echo/athletics-vs-los-angeles-angels-baseball-180341/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
+          "iframe": "<iframe title=\"Texas Rangers vs Los Angeles Angels\" src=\"https://embedsports.top/embed/echo/texas-rangers-vs-los-angeles-angels-baseball-180335/1\" scrolling=\"no\" allowfullscreen=\"yes\" width=\"100%\" height=\"100%\" frameborder=\"0\" referrerpolicy=\"no-referrer\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture\"></iframe>"
         },
         {
           "name": "golf",
